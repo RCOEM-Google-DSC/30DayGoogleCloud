@@ -1,0 +1,57 @@
+* {
+	user-select: text;
+	-webkit-tap-highlight-color: transparent;
+	-webkit-user-drag: none;
+	-webkit-user-select: text;
+	transition: 0.15s all;
+	/* outline: 1px solid red; */
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+::-webkit-scrollbar {
+	display: none;
+}
+
+::selection {
+	background-color: var(--selection);
+}
+
+body,
+#root {
+	width: 100vw;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+#root {
+	width: 95vw;
+}
+
+.switch_thumb[data-state="checked"] > .sun {
+	display: none;
+}
+
+.switch_thumb[data-state="unchecked"] > .moon {
+	display: none;
+}
+
+.blue {
+	position: relative;
+	overflow: hidden;
+}
+
+.blue::after {
+	content: '';
+	background: linear-gradient(90deg, var(--blue) 1%, transparent);
+	left: 0px;
+	bottom: 10%;
+	height: 80%;
+	width: .5rem;
+	border-radius: 0 .2rem .2rem 0;
+	position: absolute;
+}

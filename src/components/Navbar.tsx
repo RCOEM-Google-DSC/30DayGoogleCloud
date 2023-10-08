@@ -19,10 +19,10 @@ export function Navbar() {
 			<div className="flex items-center justify-center gap-4">
 				<img src={logo} className="App-logo h-8" alt="logo" />
 				<h3 className="text-xl font-medium uppercase tracking-wide text-secondary max-md:hidden">
-					30 Days of Google Cloud
+					Google Cloud Study Jams
 				</h3>
 				<h3 className="text-xl font-medium uppercase tracking-wide text-secondary hidden max-md:block">
-					#30Days
+					Study Jams
 				</h3>
 			</div>
 			<div className="flex w-2/3 justify-end gap-11 text-xl uppercase">

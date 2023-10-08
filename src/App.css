@@ -40,18 +40,29 @@ body,
 	display: none;
 }
 
-.blue {
+.blue,
+.green, .black {
 	position: relative;
 	overflow: hidden;
 }
 
-.blue::after {
-	content: '';
+.blue::after,
+.green::after, .black::after {
+	content: "";
 	background: linear-gradient(90deg, var(--blue) 1%, transparent);
 	left: 0px;
 	bottom: 10%;
 	height: 80%;
-	width: .5rem;
-	border-radius: 0 .2rem .2rem 0;
+	width: 0.5rem;
+	border-radius: 0 0.2rem 0.2rem 0;
 	position: absolute;
 }
+
+.green::after {
+	background: linear-gradient(90deg, var(--green) 1%, transparent);
+}
+
+.black::after {
+	background: linear-gradient(90deg, #cacaca 1%, transparent);
+}
+

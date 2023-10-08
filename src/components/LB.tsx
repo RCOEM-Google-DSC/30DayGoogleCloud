@@ -3,16 +3,6 @@ import { leaderBoardData } from "./leaderBoard.js";
 
 export function LB({ search }: LBProps) {
 	let lbData = leaderBoardData;
-	const color = (col: string) => {
-		switch (col) {
-			case "black":
-				return "text-primary";
-			case "blue":
-				return "text-blue-500";
-			case "green":
-				return "text-green-500";
-		}
-	};
 
 	if (search.length) {
 		lbData = leaderBoardData.filter((lb) => lb.name.toLowerCase().includes(search.toLowerCase()));
@@ -21,6 +11,8 @@ export function LB({ search }: LBProps) {
 	const rank = (data: (typeof leaderBoardData)[0]) => {
 		return leaderBoardData.findIndex((lb) => lb.name === data.name) + 1;
 	};
+
+	const className = (color: string) => `text-primary font-medium text-center ${color}`;
 
 	return (
 		<Table id="leaderboard" className="w-4/5 max-md:w-[92vw]">
@@ -36,8 +28,8 @@ export function LB({ search }: LBProps) {
 			<TableBody>
 				{lbData.map((lb) => (
 					<TableRow key={rank(lb)}>
-						<TableCell className="text-primary font-medium text-center blue">{rank(lb)}</TableCell>
-						<TableCell className={"text-primary" ?? color(lb.color)}>{lb.name}</TableCell>
+						<TableCell className={className(lb.color)}>{rank(lb)}</TableCell>
+						<TableCell className="text-primary">{lb.name}</TableCell>
 						<TableCell className="text-primary text-center">{lb.trackOne}</TableCell>
 						<TableCell className="text-primary text-center">{lb.trackTwo}</TableCell>
 					</TableRow>

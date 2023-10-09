@@ -15,7 +15,7 @@ export function Navbar() {
 	}, [theme]);
 
 	return (
-		<nav className="sticky top-0 z-20 flex w-[100vw] select-none items-center justify-center gap-16 overflow-visible border-b-2 bg-background p-6 drop-shadow max-md:gap-0">
+		<nav className="sticky top-0 z-20 flex w-[100vw] select-none items-center justify-center gap-16 overflow-visible border-b-2 bg-background p-4 drop-shadow max-md:gap-0">
 			<div className="flex items-center justify-center gap-4">
 				<img src={logo} className="App-logo h-8" alt="logo" />
 				<h3 className="text-xl font-medium uppercase tracking-wide text-secondary max-md:hidden">

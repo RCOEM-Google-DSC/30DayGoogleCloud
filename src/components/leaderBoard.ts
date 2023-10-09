@@ -36,7 +36,7 @@ export const leaderBoardData = [
         "latestSkill": 1633478400000
     },
     {
-        "name": "`Rohit Chandak",
+        "name": "Rohit Chandak",
         "nickname": "Cool Yeetus",
         "skills": 11,
         "trackOne": 6,
@@ -234,6 +234,15 @@ export const leaderBoardData = [
         "latestSkill": 1635033600000
     },
     {
+        "name": "Shantanu Mane",
+        "nickname": "Scared Vampire",
+        "skills": 11,
+        "trackOne": 6,
+        "trackTwo": 5,
+        "color": "blue",
+        "latestSkill": 1635033600000
+    },
+    {
         "name": "Shruti Bisen",
         "nickname": "Chic Toon",
         "skills": 11,
@@ -279,6 +288,15 @@ export const leaderBoardData = [
         "latestSkill": 1635379200000
     },
     {
+        "name": "Dhruvraj Balwant Solanki",
+        "nickname": "Silly Yeeter",
+        "skills": 11,
+        "trackOne": 6,
+        "trackTwo": 5,
+        "color": "blue",
+        "latestSkill": 1635465600000
+    },
+    {
         "name": "Tanmay Jain",
         "nickname": "Chrome Tiger",
         "skills": 11,
@@ -317,6 +335,15 @@ export const leaderBoardData = [
     {
         "name": "Lokesh Malviya",
         "nickname": "Jumpy Surfer",
+        "skills": 7,
+        "trackOne": 6,
+        "trackTwo": 1,
+        "color": "blue",
+        "latestSkill": 1633824000000
+    },
+    {
+        "name": "SHRUTI MILIND FADNAVIS",
+        "nickname": "Lucky Winner",
         "skills": 7,
         "trackOne": 6,
         "trackTwo": 1,
@@ -378,24 +405,6 @@ export const leaderBoardData = [
         "latestSkill": null
     },
     {
-        "name": "Dhruvraj Balwant Solanki",
-        "nickname": "Silly Yeeter",
-        "skills": 0,
-        "trackOne": 0,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": null
-    },
-    {
-        "name": "SHRUTI MILIND FADNAVIS",
-        "nickname": "Lucky Winner",
-        "skills": 0,
-        "trackOne": 0,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": null
-    },
-    {
         "name": "Shrey Bharat Chachra",
         "nickname": "Chill Sponge",
         "skills": 0,
@@ -414,15 +423,6 @@ export const leaderBoardData = [
         "latestSkill": null
     },
     {
-        "name": "Shantanu Mane",
-        "nickname": "Scared Vampire",
-        "skills": 0,
-        "trackOne": 0,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": null
-    },
-    {
         "name": "Shruti Shivkumar Shukla",
         "nickname": "Jumpy Wolf",
         "color": "black",
@@ -430,4 +430,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "08-10-2023 23:27 PM"
+export const updateTime =  "09-10-2023 11:46 AM"

@@ -1,5 +1,5 @@
 import { Table, TableBody, TableCaption, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
-import { leaderBoardData } from "./leaderBoard.js";
+import { leaderBoardData, updateTime } from "./leaderBoard.js";
 
 export function LB({ search }: LBProps) {
 	let lbData = leaderBoardData;
@@ -15,8 +15,8 @@ export function LB({ search }: LBProps) {
 	const className = (color: string) => `text-primary font-medium text-center ${color}`;
 
 	return (
-		<Table id="leaderboard" className="w-4/5 max-md:w-[92vw]">
-			<TableCaption></TableCaption>
+		<Table id="leaderboard" className="w-4/5 max-md:w-[92vw] my-4">
+			<TableCaption className="font-light">Last Updated: {updateTime}</TableCaption>
 			<TableHeader>
 				<TableRow>
 					<TableHead className="w-[2rem]">Rank</TableHead>
@@ -27,7 +27,7 @@ export function LB({ search }: LBProps) {
 			</TableHeader>
 			<TableBody>
 				{lbData.map((lb) => (
-					<TableRow key={rank(lb)}>
+					<TableRow key={rank(lb)} className="max-md:h-12">
 						<TableCell className={className(lb.color)}>{rank(lb)}</TableCell>
 						<TableCell className="text-primary">{lb.name}</TableCell>
 						<TableCell className="text-primary text-center">{lb.trackOne}</TableCell>

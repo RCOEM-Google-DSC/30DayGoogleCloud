@@ -895,7 +895,7 @@
             "trackTwo": 5
         },
         {
-            "name": "`Rohit Chandak",
+            "name": "Rohit Chandak",
             "profileLink": "https://www.qwiklabs.com/public_profiles/4e84ff03-a030-47bb-ae0d-2108b64ec6a1",
             "enrollDate": 1632268800000,
             "isEnrollStatusGood": true,
@@ -1875,10 +1875,66 @@
             "enrollDate": 1632268800000,
             "isEnrollStatusGood": true,
             "nickname": "Silly Yeeter",
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
-            "trackTwo": 0
+            "badges": [
+                {
+                    "badgeName": "Integrate with Machine Learning APIs",
+                    "badgeID": "1511236",
+                    "badgeDate": 1635465600000
+                },
+                {
+                    "badgeName": "Engineer Data in Google Cloud",
+                    "badgeID": "1510662",
+                    "badgeDate": 1635465600000
+                },
+                {
+                    "badgeName": "Insights from Data with BigQuery",
+                    "badgeID": "1505269",
+                    "badgeDate": 1635465600000
+                },
+                {
+                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+                    "badgeID": "1501664",
+                    "badgeDate": 1635379200000
+                },
+                {
+                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
+                    "badgeID": "1484222",
+                    "badgeDate": 1635206400000
+                },
+                {
+                    "badgeName": "Deploy to Kubernetes in Google Cloud",
+                    "badgeID": "1474097",
+                    "badgeDate": 1635206400000
+                },
+                {
+                    "badgeName": "Build and Secure Networks in Google Cloud",
+                    "badgeID": "1457362",
+                    "badgeDate": 1635033600000
+                },
+                {
+                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
+                    "badgeID": "1449780",
+                    "badgeDate": 1635033600000
+                },
+                {
+                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
+                    "badgeID": "1349207",
+                    "badgeDate": 1634169600000
+                },
+                {
+                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
+                    "badgeID": "1289059",
+                    "badgeDate": 1633478400000
+                },
+                {
+                    "badgeName": "Create and Manage Cloud Resources",
+                    "badgeID": "1266225",
+                    "badgeDate": 1633219200000
+                }
+            ],
+            "skills": 11,
+            "trackOne": 6,
+            "trackTwo": 5
         },
         {
             "name": "Anushka Khandelwal",
@@ -2087,10 +2143,41 @@
             "enrollDate": 1632268800000,
             "isEnrollStatusGood": true,
             "nickname": "Lucky Winner",
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
-            "trackTwo": 0
+            "badges": [
+                {
+                    "badgeName": "Deploy to Kubernetes in Google Cloud",
+                    "badgeID": "1320274",
+                    "badgeDate": 1633824000000
+                },
+                {
+                    "badgeName": "Build and Secure Networks in Google Cloud",
+                    "badgeID": "1319930",
+                    "badgeDate": 1633824000000
+                },
+                {
+                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
+                    "badgeID": "1314659",
+                    "badgeDate": 1633737600000
+                },
+                {
+                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
+                    "badgeID": "1285446",
+                    "badgeDate": 1633478400000
+                },
+                {
+                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
+                    "badgeID": "1265656",
+                    "badgeDate": 1633219200000
+                },
+                {
+                    "badgeName": "Create and Manage Cloud Resources",
+                    "badgeID": "1216054",
+                    "badgeDate": 1632700800000
+                }
+            ],
+            "skills": 7,
+            "trackOne": 6,
+            "trackTwo": 1
         },
         {
             "name": "Vedansh Jaiswal",
@@ -2604,10 +2691,66 @@
             "enrollDate": 1632268800000,
             "isEnrollStatusGood": true,
             "nickname": "Scared Vampire",
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
-            "trackTwo": 0
+            "badges": [
+                {
+                    "badgeName": "Engineer Data in Google Cloud",
+                    "badgeID": "1450587",
+                    "badgeDate": 1635033600000
+                },
+                {
+                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
+                    "badgeID": "1438465",
+                    "badgeDate": 1634947200000
+                },
+                {
+                    "badgeName": "Integrate with Machine Learning APIs",
+                    "badgeID": "1436954",
+                    "badgeDate": 1634947200000
+                },
+                {
+                    "badgeName": "Insights from Data with BigQuery",
+                    "badgeID": "1425582",
+                    "badgeDate": 1634860800000
+                },
+                {
+                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+                    "badgeID": "1422269",
+                    "badgeDate": 1634774400000
+                },
+                {
+                    "badgeName": "Deploy to Kubernetes in Google Cloud",
+                    "badgeID": "1358021",
+                    "badgeDate": 1634256000000
+                },
+                {
+                    "badgeName": "Build and Secure Networks in Google Cloud",
+                    "badgeID": "1357097",
+                    "badgeDate": 1634256000000
+                },
+                {
+                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
+                    "badgeID": "1351579",
+                    "badgeDate": 1634169600000
+                },
+                {
+                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
+                    "badgeID": "1345492",
+                    "badgeDate": 1634083200000
+                },
+                {
+                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
+                    "badgeID": "1315929",
+                    "badgeDate": 1633737600000
+                },
+                {
+                    "badgeName": "Create and Manage Cloud Resources",
+                    "badgeID": "1247301",
+                    "badgeDate": 1633046400000
+                }
+            ],
+            "skills": 11,
+            "trackOne": 6,
+            "trackTwo": 5
         },
         {
             "name": "Shruti Shivkumar Shukla",
@@ -2617,5 +2760,5 @@
             "nickname": "Jumpy Wolf"
         }
     ],
-    "time": "08-10-2023 23:27 PM"
+    "time": "09-10-2023 11:46 AM"
 }

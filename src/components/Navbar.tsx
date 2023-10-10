@@ -28,7 +28,7 @@ export function Navbar() {
 			<div className="flex w-2/3 justify-end gap-11 text-xl uppercase">
 				<a
 					className="group text-primary transition duration-300 max-md:hidden"
-					href="https://events.withgoogle.com/30daysofgooglecloud/#content"
+					href="https://events.withgoogle.com/cloud-studyjam/"
 					target="_blank"
 				>
 					Home

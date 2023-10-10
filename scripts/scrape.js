@@ -39,13 +39,11 @@ export const getBadges = async (url, enrollDate) => {
 		badgeDate = badgeDate.map((elem) => elem.innerText.split("\n").join(""));
 		badgeDate = badgeDate.map((elem) => elem.replace(",", "").split(" "));
 		for (let i = 0; i < badgeDate.length; i++) {
-			let temp;
 			for (let j = 0; j < badgeDate[i].length; j++) {
 				if (badgeDate[i][j] == "") {
 					badgeDate[i].splice(j, 1);
 				}
 			}
-			temp = badgeDate[i];
 		}
 	}
 	badgeDate = badgeDate.map((elem) => {
@@ -63,7 +61,7 @@ export const getBadges = async (url, enrollDate) => {
 			badgeID: links[i].substring(len - 7, len),
 			badgeDate: badgeDate[i],
 		};
-		// console.log(badge);
+
 		if (enrollDate <= badgeDate[i]) {
 			data.push(badge);
 		}

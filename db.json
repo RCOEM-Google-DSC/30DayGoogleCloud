@@ -1,2764 +1,1726 @@
 {
     "participants": [
         {
-            "name": "Aditi Prakash Mukte",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/ccd38ad2-b23e-4fde-b25d-ac610412d652",
-            "enrollDate": 1632268800000,
+            "name": "Onkar Sachin Pathak",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/9fe52107-4b45-4782-939e-6e2df9d7f495",
+            "enrollDate": 1695732971000,
             "isEnrollStatusGood": true,
-            "nickname": "Best Summer",
-            "badges": [
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1455901",
-                    "badgeDate": 1635033600000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1454852",
-                    "badgeDate": 1635033600000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1452904",
-                    "badgeDate": 1635033600000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1449204",
-                    "badgeDate": 1635033600000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1441626",
-                    "badgeDate": 1634947200000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1429189",
-                    "badgeDate": 1634860800000
-                }
-            ],
-            "skills": 7,
-            "trackOne": 6,
-            "trackTwo": 1
-        },
-        {
-            "name": "Krishna Mundada",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/70e8fc85-d32d-4af4-8af2-edb29c0b4ee2",
-            "enrollDate": 1632268800000,
-            "isEnrollStatusGood": true,
-            "nickname": "Prized Werewolf",
             "badges": [],
             "skills": 0,
             "trackOne": 0,
             "trackTwo": 0
         },
         {
-            "name": "Abhishek Angale",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/66af04c0-4b2c-421f-8018-457d65e828f6",
-            "enrollDate": 1632268800000,
+            "name": "Meharsh Mohitkumar Chandure",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/4f842d93-bd96-4ed1-bf92-fbe10277c8b7",
+            "enrollDate": 1695733027000,
             "isEnrollStatusGood": true,
-            "nickname": "Firey Summer",
             "badges": [
                 {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1456371",
-                    "badgeDate": 1635033600000
-                },
-                {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1456181",
-                    "badgeDate": 1635033600000
-                },
-                {
-                    "badgeName": "Integrate with Machine Learning APIs",
-                    "badgeID": "1455243",
-                    "badgeDate": 1635033600000
-                },
-                {
-                    "badgeName": "Engineer Data in Google Cloud",
-                    "badgeID": "1454143",
-                    "badgeDate": 1635033600000
-                },
-                {
-                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1439559",
-                    "badgeDate": 1634947200000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1416986",
-                    "badgeDate": 1634774400000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1416283",
-                    "badgeDate": 1634774400000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1405350",
-                    "badgeDate": 1634688000000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1396327",
-                    "badgeDate": 1634601600000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1385790",
-                    "badgeDate": 1634515200000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1382742",
-                    "badgeDate": 1634515200000
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5510887",
+                    "badgeDate": 1696636800000
                 }
             ],
-            "skills": 11,
-            "trackOne": 6,
-            "trackTwo": 5
+            "skills": 1,
+            "trackOne": 1,
+            "trackTwo": 0
         },
         {
-            "name": "Harah Giradkar",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/b6b81154-3381-405f-9289-3d998bd5d0a5",
-            "enrollDate": 1632268800000,
+            "name": "Vedant Ramesh Bhutada",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/f9981dbf-e671-46ac-a33c-a1f27c1ea5bf",
+            "enrollDate": 1695733107000,
             "isEnrollStatusGood": true,
-            "nickname": "Fun VIP",
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Shehzan Sheikh",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/ae507c92-2ed0-4294-89bb-50a90d894e6e",
+            "enrollDate": 1695733324000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Jay Ajay Gupta",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/bebfb4dd-38b7-4981-8d94-d86d111cdb54",
+            "enrollDate": 1695733800000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Harshit Sahu",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/574fcd4a-1afd-479c-a8f8-c9b85c4cc261",
+            "enrollDate": 1695733883000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Aishwary Jayant Gathe",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/41bbfdd6-70f8-4382-a2c7-6d40ccb30f6d",
+            "enrollDate": 1695733975000,
+            "isEnrollStatusGood": true,
             "badges": [
                 {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1309174",
-                    "badgeDate": 1633737600000
+                    "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
+                    "badgeID": "5549651",
+                    "badgeDate": 1696896000000
+                },
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5526483",
+                    "badgeDate": 1696723200000
+                },
+                {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "5499233",
+                    "badgeDate": 1696550400000
+                },
+                {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5499120",
+                    "badgeDate": 1696550400000
+                }
+            ],
+            "skills": 3,
+            "trackOne": 2,
+            "trackTwo": 1
+        },
+        {
+            "name": "Abhishek Kishorkumar Lakhote",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/d265433e-c596-40f5-92b0-e1be82ecd2e4",
+            "enrollDate": 1695734054000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Tushar Pamnani",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/a51465ee-462a-42da-82ee-6f4883f207b8",
+            "enrollDate": 1695734554000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Himanshu Sadhwani",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/e3142209-b2ef-4454-b2c2-997999b652c6",
+            "enrollDate": 1695735014000,
+            "isEnrollStatusGood": true,
+            "badges": [
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5536579",
+                    "badgeDate": 1696809600000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
+            "trackTwo": 0
+        },
+        {
+            "name": "Yash Vijayrao Tapre",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/67e71a5a-05ca-4312-96d1-442adfbf2abe",
+            "enrollDate": 1695735144000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Manan Maheshwari",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/f7d3a8f7-e6a8-4400-a20c-611d514452e9",
+            "enrollDate": 1695735217000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Khushi Ajay Mantri",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/9b31ffd8-c752-4d35-b884-e354b64d9732",
+            "enrollDate": 1695735403000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Radhika Manish Shukla",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/8cdd205e-9302-4074-b51f-e263f4017e2f",
+            "enrollDate": 1695735478000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Ayush Sanjay Talpelwar",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/6810d7c0-95a1-4ee7-8c06-14b6e24fa4ae",
+            "enrollDate": 1695735766000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Ashutosh Tripathi",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/d2122937-271f-4fa9-b003-1ff096e664f9",
+            "enrollDate": 1695735861000,
+            "isEnrollStatusGood": true,
+            "badges": [
+                {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5550905",
+                    "badgeDate": 1696896000000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 0,
+            "trackTwo": 1
+        },
+        {
+            "name": "Rohit SohonLal Garg",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/25179ace-1b2f-4827-9f3c-62a6bfa59fa9",
+            "enrollDate": 1695736019000,
+            "isEnrollStatusGood": true,
+            "badges": [
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5541770",
+                    "badgeDate": 1696896000000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
+            "trackTwo": 0
+        },
+        {
+            "name": "Adesh Dhanraj Bode",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/6e4da851-9363-4d1c-a2cf-67ca30db71fe",
+            "enrollDate": 1695736263000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Ayush Sachan",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/159d59e2-defb-4add-8b05-526d050c22ac",
+            "enrollDate": 1695736447000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Jagriti Radheshyam Sharma",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/7e3d033d-f19d-4f0a-abae-3ae378c21784",
+            "enrollDate": 1695736464000,
+            "isEnrollStatusGood": true,
+            "badges": [
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5524932",
+                    "badgeDate": 1696723200000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
+            "trackTwo": 0
+        },
+        {
+            "name": "Adnan Shabbir Husain",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/fb52c958-6d98-4b3f-9ae4-4ccf8e5e4771",
+            "enrollDate": 1695736512000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Abubakr Khanooni",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/56c84812-45b3-46dc-95f1-c2b456be3ae1",
+            "enrollDate": 1695736621000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Vedant Sanjay Murai",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/65ee1c9e-5b02-42c7-9baa-c7a408c31b08",
+            "enrollDate": 1695736632000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Atharva Devkant Bhakane",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/fde05fa0-ad56-4811-8680-cd5f3b1c5e97",
+            "enrollDate": 1695736701000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Saket Anand Rathi",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/0d5bdf7f-b72f-4271-905e-5ab75802103f",
+            "enrollDate": 1695736718000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Palak Shailesh Tiwari",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/ca452af9-6960-4ae6-a06b-5dc68b89a2ce",
+            "enrollDate": 1695736738000,
+            "isEnrollStatusGood": true,
+            "badges": [
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5525371",
+                    "badgeDate": 1696723200000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
+            "trackTwo": 0
+        },
+        {
+            "name": "Atharva Yogesh Mundhada",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/ac9602a3-dc15-4703-bb15-af0eb78200bb",
+            "enrollDate": 1695736744000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Om Aryan",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/8b89b6fb-9831-4b4e-857e-39bdaaab05e2",
+            "enrollDate": 1695736746000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Khushi Sonkusare",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/85980fa4-9cfc-46d1-84f0-e7921567abe4",
+            "enrollDate": 1695736795000,
+            "isEnrollStatusGood": true,
+            "badges": [
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
+                    "badgeID": "5535101",
+                    "badgeDate": 1696809600000
+                },
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5524611",
+                    "badgeDate": 1696723200000
                 }
             ],
             "skills": 2,
+            "trackOne": 2,
+            "trackTwo": 0
+        },
+        {
+            "name": "Mohitsingh Sahare",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/1b20d3b0-6971-42b5-ba61-f9e55b7f9ddc",
+            "enrollDate": 1695736820000,
+            "isEnrollStatusGood": true,
+            "badges": [
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5538104",
+                    "badgeDate": 1696809600000
+                }
+            ],
+            "skills": 1,
             "trackOne": 1,
+            "trackTwo": 0
+        },
+        {
+            "name": "Atharva Telrandhe",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/8a9e3a9f-dfac-4afe-8861-338172bc3309",
+            "enrollDate": 1695736962000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Gaurav Rakesh Singh",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/03c6b385-be82-4cb5-a963-9d34a1eeb985",
+            "enrollDate": 1695736998000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Jayesh Shete",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/8e5c92f9-fc86-4ff8-add0-d29f558dbdd8",
+            "enrollDate": 1695737087000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Arnav Kadoo",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/d92b7657-706e-41ad-ba00-28d64bdcd83f",
+            "enrollDate": 1695737132000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Gaurav Singh",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/c3b5bf1e-5e79-442f-884d-33f3d4464280",
+            "enrollDate": 1695737137000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Sanchit Misra",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/57168b63-9b74-4880-ae36-f5434720a9c7",
+            "enrollDate": 1695737212000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Suryansh Kashyap",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/b30d851a-980b-4f32-bf45-bb936eff9365",
+            "enrollDate": 1695737216000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Vanshika Pawan Sarda",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/d068fa8a-16ec-4fee-a7f3-52f71b9903e9",
+            "enrollDate": 1695737294000,
+            "isEnrollStatusGood": true,
+            "badges": [
+                {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5526884",
+                    "badgeDate": 1696809600000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 0,
             "trackTwo": 1
         },
         {
-            "name": "Mrugal Rajendra Dudhbade",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/939c7c4f-eb24-4b8e-94a6-d8d10d0dd1de",
-            "enrollDate": 1632268800000,
+            "name": "Prathamesh Jangle",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/dfe473f9-7769-45c2-b8ea-5329f744ea65",
+            "enrollDate": 1695737297000,
             "isEnrollStatusGood": true,
-            "nickname": "Klutzy Tree",
-            "badges": [
-                {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1356819",
-                    "badgeDate": 1634256000000
-                },
-                {
-                    "badgeName": "Integrate with Machine Learning APIs",
-                    "badgeID": "1353157",
-                    "badgeDate": 1634169600000
-                },
-                {
-                    "badgeName": "Engineer Data in Google Cloud",
-                    "badgeID": "1349864",
-                    "badgeDate": 1634169600000
-                },
-                {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1305715",
-                    "badgeDate": 1633651200000
-                },
-                {
-                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1295685",
-                    "badgeDate": 1633564800000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1246164",
-                    "badgeDate": 1633046400000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1239284",
-                    "badgeDate": 1632960000000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1221764",
-                    "badgeDate": 1632787200000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1218333",
-                    "badgeDate": 1632700800000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1214272",
-                    "badgeDate": 1632614400000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1213276",
-                    "badgeDate": 1632614400000
-                }
-            ],
-            "skills": 11,
-            "trackOne": 6,
-            "trackTwo": 5
-        },
-        {
-            "name": "Parag Dewangan",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/37001775-f52d-43ad-87c8-3ee0819dd4dc",
-            "enrollDate": 1632268800000,
-            "isEnrollStatusGood": true,
-            "nickname": "Fancy Tea",
             "badges": [],
             "skills": 0,
             "trackOne": 0,
             "trackTwo": 0
         },
         {
-            "name": "Rahul Ahuja",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/4f68d9e8-0486-46d1-a5f2-fb5dc44c30ec",
-            "enrollDate": 1632268800000,
+            "name": "Mahesh Bora",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/77dc7ca1-9f62-40f3-80c7-cb6c84a5ebe5",
+            "enrollDate": 1695737309000,
             "isEnrollStatusGood": true,
-            "nickname": "Rolly VIP",
             "badges": [],
             "skills": 0,
             "trackOne": 0,
             "trackTwo": 0
         },
         {
-            "name": "Isha Kushwah",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/c887e6fc-abdd-45e3-bbbe-76db2ec231ba",
-            "enrollDate": 1632268800000,
+            "name": "Archeta Kailash Sugandh",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/d8e4b279-1858-4443-a7a0-444b4ae06aa4",
+            "enrollDate": 1695737312000,
             "isEnrollStatusGood": true,
-            "nickname": "Merry Star",
             "badges": [
                 {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1428085",
-                    "badgeDate": 1634860800000
-                },
-                {
-                    "badgeName": "Integrate with Machine Learning APIs",
-                    "badgeID": "1427003",
-                    "badgeDate": 1634860800000
-                },
-                {
-                    "badgeName": "Engineer Data in Google Cloud",
-                    "badgeID": "1421387",
-                    "badgeDate": 1634774400000
-                },
-                {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1389138",
-                    "badgeDate": 1634515200000
-                },
-                {
-                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1387905",
-                    "badgeDate": 1634515200000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1350125",
-                    "badgeDate": 1634169600000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1335621",
-                    "badgeDate": 1633996800000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1334431",
-                    "badgeDate": 1633996800000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1328648",
-                    "badgeDate": 1633910400000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1326532",
-                    "badgeDate": 1633910400000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1258000",
-                    "badgeDate": 1633132800000
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5538397",
+                    "badgeDate": 1696809600000
                 }
             ],
-            "skills": 11,
-            "trackOne": 6,
-            "trackTwo": 5
+            "skills": 1,
+            "trackOne": 1,
+            "trackTwo": 0
         },
         {
-            "name": "Adnan Saifuddin Saifee",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/2685d9e9-e12c-459c-8b66-568d827308ba",
-            "enrollDate": 1632268800000,
+            "name": "Pratik Suresh Pimpalkar",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/fb56107f-108c-4639-81a5-1b7197caa78e",
+            "enrollDate": 1695737337000,
             "isEnrollStatusGood": true,
-            "nickname": "Secret Tree",
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Aditya Pratap Singh",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/b45a4940-78b8-4676-8e3a-de61f42628d7",
+            "enrollDate": 1695737359000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Varad Bodkhe",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/dab3f19d-a9d1-49cb-a746-7dcb42efa29c",
+            "enrollDate": 1695737439000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Naman Dhoot",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/f153b6c4-312e-473b-a019-60824583bdbe",
+            "enrollDate": 1695737476000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Aditi Kishor Thakre",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/a532158c-10d7-49c7-bc29-48b816cfb923",
+            "enrollDate": 1695737520000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Om Ghumre",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/3570ba4d-820e-4751-a923-290dfc15c3ee",
+            "enrollDate": 1695737571000,
+            "isEnrollStatusGood": true,
             "badges": [
                 {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1329535",
-                    "badgeDate": 1633910400000
-                },
-                {
-                    "badgeName": "Integrate with Machine Learning APIs",
-                    "badgeID": "1325655",
-                    "badgeDate": 1633910400000
-                },
-                {
-                    "badgeName": "Engineer Data in Google Cloud",
-                    "badgeID": "1324971",
-                    "badgeDate": 1633910400000
-                },
-                {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1319016",
-                    "badgeDate": 1633824000000
-                },
-                {
-                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1317338",
-                    "badgeDate": 1633824000000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1287662",
-                    "badgeDate": 1633478400000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1286618",
-                    "badgeDate": 1633478400000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1278538",
-                    "badgeDate": 1633392000000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1257878",
-                    "badgeDate": 1633132800000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1245241",
-                    "badgeDate": 1633046400000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1212233",
-                    "badgeDate": 1632614400000
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5539032",
+                    "badgeDate": 1696809600000
                 }
             ],
-            "skills": 11,
-            "trackOne": 6,
-            "trackTwo": 5
+            "skills": 1,
+            "trackOne": 0,
+            "trackTwo": 1
         },
         {
-            "name": "Siddhesh Jawadi",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/2ae0f360-74d3-4598-a041-30ac50cadced",
-            "enrollDate": 1632268800000,
+            "name": "Vedant Gajendra Tinkhede",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/49558928-b834-4b0d-afcb-3b44eebd4e15",
+            "enrollDate": 1695737579000,
             "isEnrollStatusGood": true,
-            "nickname": "Wild Spring",
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Ayush Haresh Dhamecha",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/5600464a-8cfd-4688-9529-e37755a2c715",
+            "enrollDate": 1695737589000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Nipun Kupatkar",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/51446cb5-f468-4ddd-9a16-91ea2f218778",
+            "enrollDate": 1695737702000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Mrunal Vinod Thakre",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/18215f0a-301e-400f-a7f2-70d01059b9a5",
+            "enrollDate": 1695737970000,
+            "isEnrollStatusGood": true,
             "badges": [
                 {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1265910",
-                    "badgeDate": 1633219200000
+                    "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
+                    "badgeID": "5538320",
+                    "badgeDate": 1696809600000
                 },
                 {
-                    "badgeName": "Integrate with Machine Learning APIs",
-                    "badgeID": "1265182",
-                    "badgeDate": 1633219200000
-                },
-                {
-                    "badgeName": "Engineer Data in Google Cloud",
-                    "badgeID": "1264560",
-                    "badgeDate": 1633219200000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1263092",
-                    "badgeDate": 1633219200000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1261259",
-                    "badgeDate": 1633219200000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1258591",
-                    "badgeDate": 1633132800000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1256238",
-                    "badgeDate": 1633132800000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1254820",
-                    "badgeDate": 1633132800000
-                },
-                {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1248081",
-                    "badgeDate": 1633046400000
-                },
-                {
-                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1225961",
-                    "badgeDate": 1632787200000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1214710",
-                    "badgeDate": 1632614400000
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5524130",
+                    "badgeDate": 1696723200000
                 }
             ],
-            "skills": 11,
-            "trackOne": 6,
-            "trackTwo": 5
+            "skills": 2,
+            "trackOne": 2,
+            "trackTwo": 0
         },
         {
-            "name": "Yashasvi Srivastava",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/fadbf270-70c7-4c17-b0df-d70cd2569714",
-            "enrollDate": 1632268800000,
+            "name": "Atharva Dilip Werulkar",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/b630baac-6926-4277-99f7-07c7a7db0cf3",
+            "enrollDate": 1695737971000,
             "isEnrollStatusGood": true,
-            "nickname": "Colossal Vampire",
             "badges": [
                 {
-                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1436581",
-                    "badgeDate": 1634947200000
+                    "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
+                    "badgeID": "5538319",
+                    "badgeDate": 1696809600000
                 },
                 {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1436283",
-                    "badgeDate": 1634947200000
-                },
-                {
-                    "badgeName": "Integrate with Machine Learning APIs",
-                    "badgeID": "1425640",
-                    "badgeDate": 1634860800000
-                },
-                {
-                    "badgeName": "Engineer Data in Google Cloud",
-                    "badgeID": "1418617",
-                    "badgeDate": 1634774400000
-                },
-                {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1402733",
-                    "badgeDate": 1634688000000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1372597",
-                    "badgeDate": 1634428800000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1368162",
-                    "badgeDate": 1634342400000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1364219",
-                    "badgeDate": 1634342400000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1363922",
-                    "badgeDate": 1634342400000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1360625",
-                    "badgeDate": 1634256000000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1354522",
-                    "badgeDate": 1634169600000
-                },
-                {
-                    "badgeName": "Baseline: Infrastructure",
-                    "badgeID": "1320223",
-                    "badgeDate": 1633824000000
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5524134",
+                    "badgeDate": 1696723200000
                 }
             ],
-            "skills": 11,
-            "trackOne": 6,
-            "trackTwo": 5
+            "skills": 2,
+            "trackOne": 2,
+            "trackTwo": 0
         },
         {
-            "name": "Rahul Patekar",
-            "profileLink": "https://google.qwiklabs.com/public_profiles/64ae0b5a-565e-4bdc-94ba-bfea65b92b05",
-            "enrollDate": 1632268800000,
+            "name": "Himanshu Vijay Barde",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/2442fb47-659a-4d92-b4e6-0308a9ea79f8",
+            "enrollDate": 1695738104000,
             "isEnrollStatusGood": true,
-            "nickname": "Feisty Turtle",
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Aryan Khokle",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/6385cc59-f8f4-48c4-9238-313e67e0e7b5",
+            "enrollDate": 1695738219000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Mayur Narendra Kawale",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/eda2f971-423b-44fd-9805-089dd3ce6da8",
+            "enrollDate": 1695738318000,
+            "isEnrollStatusGood": true,
             "badges": [
                 {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1401589",
-                    "badgeDate": 1634601600000
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5518319",
+                    "badgeDate": 1696723200000
                 },
                 {
-                    "badgeName": "Integrate with Machine Learning APIs",
-                    "badgeID": "1401089",
-                    "badgeDate": 1634601600000
+                    "badgeName": "Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud",
+                    "badgeID": "5516477",
+                    "badgeDate": 1696723200000
                 },
                 {
-                    "badgeName": "Engineer Data in Google Cloud",
-                    "badgeID": "1398932",
-                    "badgeDate": 1634601600000
-                },
-                {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1389585",
-                    "badgeDate": 1634515200000
-                },
-                {
-                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1371304",
-                    "badgeDate": 1634342400000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1369405",
-                    "badgeDate": 1634342400000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1365253",
-                    "badgeDate": 1634342400000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1362701",
-                    "badgeDate": 1634256000000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1359193",
-                    "badgeDate": 1634256000000
-                },
-                {
-                    "badgeName": "Google Cloud Essentials",
-                    "badgeID": "1330143",
-                    "badgeDate": 1633910400000
+                    "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
+                    "badgeID": "5516297",
+                    "badgeDate": 1696723200000
                 },
                 {
                     "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1330134",
-                    "badgeDate": 1633910400000
+                    "badgeID": "5516298",
+                    "badgeDate": 1696723200000
                 },
                 {
-                    "badgeName": "Baseline: Data, ML, AI",
-                    "badgeID": "1329169",
-                    "badgeDate": 1633910400000
+                    "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
+                    "badgeID": "5516163",
+                    "badgeDate": 1696723200000
                 },
                 {
-                    "badgeName": "Baseline: Infrastructure",
-                    "badgeID": "1255653",
-                    "badgeDate": 1633132800000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1254690",
-                    "badgeDate": 1633132800000
-                }
-            ],
-            "skills": 11,
-            "trackOne": 6,
-            "trackTwo": 5
-        },
-        {
-            "name": "Rujuta Sanjay Yugoankar",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/2f0a564b-53b9-4dea-a367-a728c6f9a6ba",
-            "enrollDate": 1632268800000,
-            "isEnrollStatusGood": true,
-            "nickname": "Quiet Tomato",
-            "badges": [
-                {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1371870",
-                    "badgeDate": 1634342400000
-                },
-                {
-                    "badgeName": "Integrate with Machine Learning APIs",
-                    "badgeID": "1363743",
-                    "badgeDate": 1634342400000
-                },
-                {
-                    "badgeName": "Engineer Data in Google Cloud",
-                    "badgeID": "1358400",
-                    "badgeDate": 1634256000000
-                },
-                {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1354176",
-                    "badgeDate": 1634169600000
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5515945",
+                    "badgeDate": 1696723200000
                 },
                 {
                     "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1327709",
-                    "badgeDate": 1633910400000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1301257",
-                    "badgeDate": 1633651200000
+                    "badgeID": "5514952",
+                    "badgeDate": 1696723200000
                 },
                 {
                     "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1294623",
-                    "badgeDate": 1633564800000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1285595",
-                    "badgeDate": 1633478400000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1269447",
-                    "badgeDate": 1633305600000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1261105",
-                    "badgeDate": 1633219200000
+                    "badgeID": "5513121",
+                    "badgeDate": 1696636800000
                 },
                 {
                     "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1245703",
-                    "badgeDate": 1633046400000
-                }
-            ],
-            "skills": 11,
-            "trackOne": 6,
-            "trackTwo": 5
-        },
-        {
-            "name": "Piyanshu Vilas Telang",
-            "profileLink": "https://google.qwiklabs.com/public_profiles/9d22bc20-466f-4933-98e2-f98d65213f5c",
-            "enrollDate": 1632268800000,
-            "isEnrollStatusGood": false,
-            "nickname": "First Yeeter",
-            "badges": []
-        },
-        {
-            "name": "Darshan Rayala",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/a1650dbe-d84f-43a8-a64f-100c79856737",
-            "enrollDate": 1632268800000,
-            "isEnrollStatusGood": true,
-            "nickname": "Hasty Unicorn",
-            "badges": [
-                {
-                    "badgeName": "Google Cloud Essentials",
-                    "badgeID": "2353445",
-                    "badgeDate": 1656374400000
-                },
-                {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1496201",
-                    "badgeDate": 1635292800000
-                },
-                {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1476803",
-                    "badgeDate": 1635206400000
-                },
-                {
-                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1473463",
-                    "badgeDate": 1635206400000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1432120",
-                    "badgeDate": 1634860800000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1427189",
-                    "badgeDate": 1634860800000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1396059",
-                    "badgeDate": 1634601600000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1366340",
-                    "badgeDate": 1634342400000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1330786",
-                    "badgeDate": 1633910400000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1287618",
-                    "badgeDate": 1633478400000
+                    "badgeID": "5511204",
+                    "badgeDate": 1696636800000
                 }
             ],
             "skills": 9,
-            "trackOne": 6,
-            "trackTwo": 3
-        },
-        {
-            "name": "Saitejaswi Sanagavarapu",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/ab55699f-43a5-4722-99c9-1cf65c733a3e",
-            "enrollDate": 1632268800000,
-            "isEnrollStatusGood": true,
-            "nickname": "Sneaky Sun",
-            "badges": [
-                {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1453844",
-                    "badgeDate": 1635033600000
-                },
-                {
-                    "badgeName": "Integrate with Machine Learning APIs",
-                    "badgeID": "1453267",
-                    "badgeDate": 1635033600000
-                },
-                {
-                    "badgeName": "Engineer Data in Google Cloud",
-                    "badgeID": "1442750",
-                    "badgeDate": 1634947200000
-                },
-                {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1427276",
-                    "badgeDate": 1634860800000
-                },
-                {
-                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1399938",
-                    "badgeDate": 1634601600000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1379823",
-                    "badgeDate": 1634428800000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1377110",
-                    "badgeDate": 1634428800000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1333718",
-                    "badgeDate": 1633996800000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1309851",
-                    "badgeDate": 1633737600000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1263600",
-                    "badgeDate": 1633219200000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1256280",
-                    "badgeDate": 1633132800000
-                }
-            ],
-            "skills": 11,
-            "trackOne": 6,
-            "trackTwo": 5
-        },
-        {
-            "name": "Lokesh Malviya",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/adb90785-2cf4-4170-87a4-64c6990cd076",
-            "enrollDate": 1632268800000,
-            "isEnrollStatusGood": true,
-            "nickname": "Jumpy Surfer",
-            "badges": [
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1320087",
-                    "badgeDate": 1633824000000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1318444",
-                    "badgeDate": 1633824000000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1297704",
-                    "badgeDate": 1633564800000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1279775",
-                    "badgeDate": 1633392000000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1230701",
-                    "badgeDate": 1632873600000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1225734",
-                    "badgeDate": 1632787200000
-                }
-            ],
-            "skills": 7,
-            "trackOne": 6,
+            "trackOne": 8,
             "trackTwo": 1
         },
         {
-            "name": "Harshada Ravindra Dhakate",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/e70c5c4d-1e21-4d8e-9201-4d4b06437648",
-            "enrollDate": 1632268800000,
+            "name": "Vaishnavi Rajesh Agrawal",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/76c0c7d8-98dc-45c9-8bad-57312ff632eb",
+            "enrollDate": 1695738320000,
             "isEnrollStatusGood": true,
-            "nickname": "Special Superhero",
-            "badges": [
-                {
-                    "badgeName": "Engineer Data in Google Cloud",
-                    "badgeID": "1286483",
-                    "badgeDate": 1633478400000
-                },
-                {
-                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1283403",
-                    "badgeDate": 1633478400000
-                },
-                {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1282929",
-                    "badgeDate": 1633478400000
-                },
-                {
-                    "badgeName": "Integrate with Machine Learning APIs",
-                    "badgeID": "1281680",
-                    "badgeDate": 1633392000000
-                },
-                {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1280358",
-                    "badgeDate": 1633392000000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1279499",
-                    "badgeDate": 1633392000000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1278095",
-                    "badgeDate": 1633392000000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1271203",
-                    "badgeDate": 1633305600000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1265911",
-                    "badgeDate": 1633219200000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1265094",
-                    "badgeDate": 1633219200000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1215997",
-                    "badgeDate": 1632700800000
-                }
-            ],
-            "skills": 11,
-            "trackOne": 6,
-            "trackTwo": 5
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
         },
         {
-            "name": "Rohit Chandak",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/4e84ff03-a030-47bb-ae0d-2108b64ec6a1",
-            "enrollDate": 1632268800000,
+            "name": "Aarsh Vilas Gangulwar",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/2c5869f0-3314-436d-950e-6da5a4d49755",
+            "enrollDate": 1695738387000,
             "isEnrollStatusGood": true,
-            "nickname": "Cool Yeetus",
             "badges": [
                 {
-                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1322771",
-                    "badgeDate": 1633824000000
-                },
-                {
-                    "badgeName": "Engineer Data in Google Cloud",
-                    "badgeID": "1315275",
-                    "badgeDate": 1633737600000
-                },
-                {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1289416",
-                    "badgeDate": 1633478400000
-                },
-                {
-                    "badgeName": "Integrate with Machine Learning APIs",
-                    "badgeID": "1287133",
-                    "badgeDate": 1633478400000
-                },
-                {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1286349",
-                    "badgeDate": 1633478400000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1281635",
-                    "badgeDate": 1633392000000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1280759",
-                    "badgeDate": 1633392000000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1270945",
-                    "badgeDate": 1633305600000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1264903",
-                    "badgeDate": 1633219200000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1257786",
-                    "badgeDate": 1633132800000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1214800",
-                    "badgeDate": 1632614400000
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5550267",
+                    "badgeDate": 1696896000000
                 }
             ],
-            "skills": 11,
-            "trackOne": 6,
-            "trackTwo": 5
+            "skills": 1,
+            "trackOne": 1,
+            "trackTwo": 0
         },
         {
-            "name": "Tanish Dinesh Agrawal",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/2cf76c20-57dc-4ccd-b42a-2af5ebe4e2f0",
-            "enrollDate": 1632268800000,
+            "name": "Aastha Sahu",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/c2b9539f-3906-4731-8c05-42dfd63417f5",
+            "enrollDate": 1695738460000,
             "isEnrollStatusGood": true,
-            "nickname": "Hasty Yeeter",
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Rashi R. Potey",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/dba5109f-9cfe-4bc0-9e9d-df873ca6f265",
+            "enrollDate": 1695738521000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Ananya Raut",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/2bee50ba-b260-426e-a72f-979d58bde05a",
+            "enrollDate": 1695738606000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Harshika Manish Rathod",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/2d1fe317-e914-4caa-88f8-dece1376e47e",
+            "enrollDate": 1695738642000,
+            "isEnrollStatusGood": true,
             "badges": [
                 {
-                    "badgeName": "Google Cloud Essentials",
-                    "badgeID": "1360357",
-                    "badgeDate": 1634256000000
-                },
-                {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1359980",
-                    "badgeDate": 1634256000000
-                },
-                {
-                    "badgeName": "Integrate with Machine Learning APIs",
-                    "badgeID": "1358924",
-                    "badgeDate": 1634256000000
-                },
-                {
-                    "badgeName": "Engineer Data in Google Cloud",
-                    "badgeID": "1356165",
-                    "badgeDate": 1634256000000
-                },
-                {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1345174",
-                    "badgeDate": 1634083200000
-                },
-                {
-                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1338337",
-                    "badgeDate": 1633996800000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1331003",
-                    "badgeDate": 1633910400000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1325845",
-                    "badgeDate": 1633910400000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1300093",
-                    "badgeDate": 1633651200000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1277915",
-                    "badgeDate": 1633392000000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1251505",
-                    "badgeDate": 1633132800000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1220041",
-                    "badgeDate": 1632700800000
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5526658",
+                    "badgeDate": 1696809600000
                 }
             ],
-            "skills": 11,
-            "trackOne": 6,
-            "trackTwo": 5
+            "skills": 1,
+            "trackOne": 0,
+            "trackTwo": 1
         },
         {
-            "name": "Alkesh Yogesh Tripathi",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/0e6ffd73-bf41-4c99-9e56-a86994f99119",
-            "enrollDate": 1632268800000,
+            "name": "Amit Sahu",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/279fc79f-c65b-4fee-b38f-ba6c229b3bf0",
+            "enrollDate": 1695738668000,
             "isEnrollStatusGood": true,
-            "nickname": "Smashing Winner",
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Syed Rafey Jamal Alvei",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/e82ded33-18da-489a-a747-b66b5c9b7fa8",
+            "enrollDate": 1695738762000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Jayesh Ashok Landge",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/6c21ad3b-0baf-4137-8f2f-b955680daaa1",
+            "enrollDate": 1695738818000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Navneet Atul Jaju",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/bcc1c581-b7bf-4dfa-82a7-575c732c9c01",
+            "enrollDate": 1695738892000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Devesh Ashish Vyas",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/c3c18b5c-4c74-459a-b9d0-2701f78bb358",
+            "enrollDate": 1695738916000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Atharva Pritam Rakshak",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/7cb2b74a-9c08-4623-80ca-5e07340a1c5a",
+            "enrollDate": 1695738938000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Dixita Hawelikar",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/a4b60304-0142-4526-9aa8-32dcd6872593",
+            "enrollDate": 1695739291000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Shruti Sharma",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/c2cd62c4-6b8a-4169-91bd-c3ed521a0ddf",
+            "enrollDate": 1695739355000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Aayush Suresh Dharpure",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/8aa4d75a-1073-4932-94cc-7f6382da9daf",
+            "enrollDate": 1695739465000,
+            "isEnrollStatusGood": true,
             "badges": [
                 {
-                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1322369",
-                    "badgeDate": 1633824000000
-                },
-                {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1286013",
-                    "badgeDate": 1633478400000
-                },
-                {
-                    "badgeName": "Integrate with Machine Learning APIs",
-                    "badgeID": "1285192",
-                    "badgeDate": 1633478400000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1281767",
-                    "badgeDate": 1633392000000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1280395",
-                    "badgeDate": 1633392000000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1270110",
-                    "badgeDate": 1633305600000
-                },
-                {
-                    "badgeName": "Engineer Data in Google Cloud",
-                    "badgeID": "1265271",
-                    "badgeDate": 1633219200000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1263480",
-                    "badgeDate": 1633219200000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1257991",
-                    "badgeDate": 1633132800000
-                },
-                {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1249253",
-                    "badgeDate": 1633046400000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1214761",
-                    "badgeDate": 1632614400000
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5536869",
+                    "badgeDate": 1696809600000
                 }
             ],
-            "skills": 11,
-            "trackOne": 6,
-            "trackTwo": 5
+            "skills": 1,
+            "trackOne": 1,
+            "trackTwo": 0
         },
         {
-            "name": "Tanmay Jain",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/c76f89cf-eaad-472a-9797-4b2e835eb880",
-            "enrollDate": 1632268800000,
+            "name": "kritank singh",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/d6721a69-7ce9-4a32-8ec3-e121a0a4d388",
+            "enrollDate": 1695739543000,
             "isEnrollStatusGood": true,
-            "nickname": "Chrome Tiger",
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Aakhyan Jeyush",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/58884c32-aef6-4df3-83e2-a84db8ece572",
+            "enrollDate": 1695740197000,
+            "isEnrollStatusGood": true,
             "badges": [
                 {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1513083",
-                    "badgeDate": 1635552000000
+                    "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
+                    "badgeID": "5538271",
+                    "badgeDate": 1696809600000
                 },
                 {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1496734",
-                    "badgeDate": 1635292800000
+                    "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
+                    "badgeID": "5537300",
+                    "badgeDate": 1696809600000
                 },
                 {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1496061",
-                    "badgeDate": 1635292800000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1481305",
-                    "badgeDate": 1635206400000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1480539",
-                    "badgeDate": 1635206400000
-                },
-                {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1480236",
-                    "badgeDate": 1635206400000
-                },
-                {
-                    "badgeName": "Integrate with Machine Learning APIs",
-                    "badgeID": "1478076",
-                    "badgeDate": 1635206400000
-                },
-                {
-                    "badgeName": "Engineer Data in Google Cloud",
-                    "badgeID": "1477895",
-                    "badgeDate": 1635206400000
-                },
-                {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1477765",
-                    "badgeDate": 1635206400000
-                },
-                {
-                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1476397",
-                    "badgeDate": 1635206400000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1218073",
-                    "badgeDate": 1632700800000
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5534913",
+                    "badgeDate": 1696809600000
                 }
             ],
-            "skills": 11,
-            "trackOne": 6,
-            "trackTwo": 5
+            "skills": 3,
+            "trackOne": 3,
+            "trackTwo": 0
         },
         {
-            "name": "Sudhanshu Pandey",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/4e33926d-d90e-4963-a87c-d994242fb8eb",
-            "enrollDate": 1632268800000,
+            "name": "Kunika Kamalkishor Bhutada",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/bc8e03b1-1de5-44e5-a2e2-3291d6dc82d7",
+            "enrollDate": 1695740221000,
             "isEnrollStatusGood": true,
-            "nickname": "Joyful Wolf",
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Astha Manish Sahu",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/80a9c7fd-5c07-43b6-956e-f6cc1f3827f0",
+            "enrollDate": 1695740464000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Shubham Shivhare",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/d7ea9f69-ffa8-4293-b64e-93e63b1166dc",
+            "enrollDate": 1695740516000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Netal Rathi",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/a83d0ea9-110a-47e6-b029-b734439d0b72",
+            "enrollDate": 1695740852000,
+            "isEnrollStatusGood": true,
             "badges": [
                 {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1497028",
-                    "badgeDate": 1635292800000
-                },
-                {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1496434",
-                    "badgeDate": 1635292800000
-                },
-                {
-                    "badgeName": "Engineer Data in Google Cloud",
-                    "badgeID": "1496159",
-                    "badgeDate": 1635292800000
-                },
-                {
-                    "badgeName": "Integrate with Machine Learning APIs",
-                    "badgeID": "1493110",
-                    "badgeDate": 1635292800000
-                },
-                {
-                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1399993",
-                    "badgeDate": 1634601600000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1349675",
-                    "badgeDate": 1634169600000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1346980",
-                    "badgeDate": 1634083200000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1346680",
-                    "badgeDate": 1634083200000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1278700",
-                    "badgeDate": 1633392000000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1227828",
-                    "badgeDate": 1632873600000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1211981",
-                    "badgeDate": 1632614400000
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5526861",
+                    "badgeDate": 1696809600000
                 }
             ],
-            "skills": 11,
-            "trackOne": 6,
-            "trackTwo": 5
+            "skills": 1,
+            "trackOne": 1,
+            "trackTwo": 0
         },
         {
-            "name": "Prachiti Akre",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/0b349088-d0a6-44a5-a348-bbd9f5489745",
-            "enrollDate": 1632268800000,
+            "name": "Sarvesh Tiwari",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/3c4603b9-cf1a-40b8-a1f9-b4b0fafab224",
+            "enrollDate": 1695741284000,
             "isEnrollStatusGood": true,
-            "nickname": "Epic Tomato",
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Tripty Tiwari",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/1112b35e-6746-4bfe-8a61-0954f4f95946",
+            "enrollDate": 1695741782000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Atharva vijay raut",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/7a6ddc7a-b748-4621-a757-19f447c38196",
+            "enrollDate": 1695742396000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Srushti Gawande",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/90d03774-abd3-4fef-8200-44c981424883",
+            "enrollDate": 1695742560000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "sakshi satish asati",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/19c8ca01-d593-45ad-ba4d-ba66454ac430",
+            "enrollDate": 1695742689000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Divyani Raut",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/a74a0b19-b0c0-4402-b57b-73762100e60b",
+            "enrollDate": 1695743133000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Anushree Thosar",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/08a84783-85d6-4bbe-b993-7529a0db8751",
+            "enrollDate": 1695743661000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Yash prakash gupta",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/02d10e23-ac1d-4f61-8a29-48cf2fb1e8bc",
+            "enrollDate": 1695743796000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Tejas Gangane",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/9150c4b6-c164-4204-b065-d0dee3a7a27e",
+            "enrollDate": 1695744173000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Khushi Bajpai",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/0432b0ad-1e6e-4a63-9c60-b1618d13e644",
+            "enrollDate": 1695744885000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Sayyam Mutha",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/030e3845-832b-4889-bcac-e715bf428719",
+            "enrollDate": 1695744982000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Laxita Hawelikar",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/f9b5e4bd-0622-4997-ae2c-c585b80cbb37",
+            "enrollDate": 1695745450000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Ankit Bhad",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/f3c1a17a-5042-418d-87fa-ab674ff1fa08",
+            "enrollDate": 1695745919000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Sasmeet Dharmik",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/7a4f94a6-f59a-46ff-82ff-22c9229e63c6",
+            "enrollDate": 1695746221000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "GITESH GHORADKAR",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/134b946c-e786-4529-a984-55750064c7b9",
+            "enrollDate": 1695746761000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Soumitra Ashwin Aghor",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/8a7b3934-6ceb-4eb9-b402-fa0d2b5945fe",
+            "enrollDate": 1695747018000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Krushna Dande",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/1e0c3f58-9dd9-4446-86ec-022019ea6059",
+            "enrollDate": 1695747927000,
+            "isEnrollStatusGood": true,
             "badges": [
                 {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1358671",
-                    "badgeDate": 1634256000000
-                },
-                {
-                    "badgeName": "Integrate with Machine Learning APIs",
-                    "badgeID": "1349799",
-                    "badgeDate": 1634169600000
-                },
-                {
-                    "badgeName": "Engineer Data in Google Cloud",
-                    "badgeID": "1339760",
-                    "badgeDate": 1633996800000
-                },
-                {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1320439",
-                    "badgeDate": 1633824000000
-                },
-                {
-                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1319569",
-                    "badgeDate": 1633824000000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1300914",
-                    "badgeDate": 1633651200000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1292786",
-                    "badgeDate": 1633564800000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1281887",
-                    "badgeDate": 1633392000000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1266416",
-                    "badgeDate": 1633219200000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1257319",
-                    "badgeDate": 1633132800000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1241459",
-                    "badgeDate": 1632960000000
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "5524014",
+                    "badgeDate": 1696723200000
                 }
             ],
-            "skills": 11,
-            "trackOne": 6,
-            "trackTwo": 5
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
         },
         {
-            "name": "Rahul Ajay Lonare",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/a258eeec-e6ab-4233-856f-e8aaa5f70142",
-            "enrollDate": 1632268800000,
+            "name": "Prathamesh Ratthe",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/e9d40152-4203-43da-a1e1-5c9ceba8689c",
+            "enrollDate": 1695748203000,
             "isEnrollStatusGood": true,
-            "nickname": "Mystic Villain",
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Mimansa Deovrat Joshi",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/987eaa3e-ccc8-42a6-b05e-9aa856ae6619",
+            "enrollDate": 1695748338000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Vivek Radheshyam Katre",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/1845f1ac-c0e1-4b65-9896-875c3ab1ddda",
+            "enrollDate": 1695748415000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Rudra Ranjan",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/09f37b71-33b4-4fb1-8854-3f88a591398e",
+            "enrollDate": 1695748714000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Riya S",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/beefab33-138e-441b-8ae2-7c062559d252",
+            "enrollDate": 1695748717000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Sanket Suryawanshi",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/60f91e7b-9698-45e2-bf96-85ea8c5fc524",
+            "enrollDate": 1695748858000,
+            "isEnrollStatusGood": true,
             "badges": [
                 {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1502964",
-                    "badgeDate": 1635379200000
-                },
-                {
-                    "badgeName": "Integrate with Machine Learning APIs",
-                    "badgeID": "1501049",
-                    "badgeDate": 1635379200000
-                },
-                {
-                    "badgeName": "Engineer Data in Google Cloud",
-                    "badgeID": "1484830",
-                    "badgeDate": 1635206400000
-                },
-                {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1457228",
-                    "badgeDate": 1635033600000
-                },
-                {
-                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1450622",
-                    "badgeDate": 1635033600000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1405185",
-                    "badgeDate": 1634688000000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1397779",
-                    "badgeDate": 1634601600000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1361667",
-                    "badgeDate": 1634256000000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1310042",
-                    "badgeDate": 1633737600000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1281282",
-                    "badgeDate": 1633392000000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1254144",
-                    "badgeDate": 1633132800000
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5552204",
+                    "badgeDate": 1696896000000
                 }
             ],
-            "skills": 11,
-            "trackOne": 6,
-            "trackTwo": 5
+            "skills": 1,
+            "trackOne": 1,
+            "trackTwo": 0
         },
         {
-            "name": "Samiksha Asati",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/b412b789-5d18-4239-9108-a55d9afcd418",
-            "enrollDate": 1632268800000,
+            "name": "Prathamesh Prashant Kurekar",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/a5a45ea9-62a0-4780-b5c2-4eecaf63d42a",
+            "enrollDate": 1695748864000,
             "isEnrollStatusGood": true,
-            "nickname": "Rare Tree",
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Samar K",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/6f5edaae-1f29-482e-975d-ce2138c0bb51",
+            "enrollDate": 1695748912000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Awadhesh Gosewade",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/43345cc3-6141-471e-8e2f-2196fbe47703",
+            "enrollDate": 1695749056000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "AADI AMIT RINGAY",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/5b46025d-37bc-4a58-b929-ebbbb197d9bc",
+            "enrollDate": 1695749654000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Trisha L",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/780f7839-02a0-463d-8e1a-dd5211945b9f",
+            "enrollDate": 1695750406000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Raj B",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/e9602705-91ff-422d-b451-73e7b70bf21f",
+            "enrollDate": 1695750971000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Satyam Nagendra Mishra",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/ca2b444e-388b-46ef-a820-f957a3a8bd44",
+            "enrollDate": 1695751038000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Varada Kulkarni",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/51cfb28e-920f-4176-992d-b9d38f9c70d3",
+            "enrollDate": 1695751654000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Sarthak Chaure",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/930ee706-d063-4418-8a19-25519e3eefce",
+            "enrollDate": 1695797612000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Jagruti Bhoyar",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/c7bf25e4-adec-4ec7-9c1c-9eb9fec76153",
+            "enrollDate": 1695828015000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Lavinya Bopche",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/08a7f861-05f5-4e69-8eb3-1a6055b5c805",
+            "enrollDate": 1695854800000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Neelam Kolhe",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/8e65aa0f-8dcb-4922-bad9-466abc9a4eb6",
+            "enrollDate": 1695879687000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Priyansh Subhash Nigam",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/072bba69-f4b5-4755-87df-8d09d076932f",
+            "enrollDate": 1695884660000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Yagyesh Bobde",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/4a22e4c2-eaa5-4a0e-9883-85742418e60e",
+            "enrollDate": 1695884847000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Ankit Pande",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/01cb4b2e-dad9-46d2-ab15-ae06d7b417c8",
+            "enrollDate": 1695884904000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Ashlesha Purushottam Bhandarkar",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/25c3f95b-cf21-4dca-9205-478741babc61",
+            "enrollDate": 1695885152000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Harsh Tiwari",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/09f4aa00-f95c-4c01-84f4-0af38d51e107",
+            "enrollDate": 1695885502000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Sanchit Pahurkar",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/fd338a76-60a8-4aa5-b739-c0428c2be53f",
+            "enrollDate": 1695887185000,
+            "isEnrollStatusGood": true,
             "badges": [
                 {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1500578",
-                    "badgeDate": 1635379200000
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5548095",
+                    "badgeDate": 1696896000000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
+            "trackTwo": 0
+        },
+        {
+            "name": "Rishav Santosh Shukla",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/a7383903-e181-4a5f-80e2-e29ed046ef2e",
+            "enrollDate": 1695887452000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Ayush Wankhede",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/a406e34b-0ead-454b-a0d3-1eff4b076558",
+            "enrollDate": 1695887732000,
+            "isEnrollStatusGood": true,
+            "badges": [
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5535009",
+                    "badgeDate": 1696809600000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
+            "trackTwo": 0
+        },
+        {
+            "name": "Janav Dua",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/d0335069-2776-4680-9f90-a0e9aa0c83a8",
+            "enrollDate": 1695887995000,
+            "isEnrollStatusGood": true,
+            "badges": [
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
+                    "badgeID": "5552086",
+                    "badgeDate": 1696896000000
+                },
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
+                    "badgeID": "5539310",
+                    "badgeDate": 1696809600000
+                },
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5537773",
+                    "badgeDate": 1696809600000
+                }
+            ],
+            "skills": 3,
+            "trackOne": 3,
+            "trackTwo": 0
+        },
+        {
+            "name": "Pratyush Bhatt",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/cd7cdaa2-cad3-448b-bd54-89efc1c86530",
+            "enrollDate": 1695888176000,
+            "isEnrollStatusGood": true,
+            "badges": [
+                {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5536971",
+                    "badgeDate": 1696809600000
                 },
                 {
                     "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1500326",
-                    "badgeDate": 1635379200000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1484253",
-                    "badgeDate": 1635206400000
+                    "badgeID": "5536095",
+                    "badgeDate": 1696809600000
                 },
                 {
                     "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1480390",
-                    "badgeDate": 1635206400000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1468876",
-                    "badgeDate": 1635120000000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1451496",
-                    "badgeDate": 1635033600000
+                    "badgeID": "5524568",
+                    "badgeDate": 1696723200000
                 },
                 {
                     "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1449100",
-                    "badgeDate": 1635033600000
+                    "badgeID": "5524322",
+                    "badgeDate": 1696723200000
                 },
                 {
                     "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1376417",
-                    "badgeDate": 1634428800000
+                    "badgeID": "5523635",
+                    "badgeDate": 1696723200000
+                },
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud",
+                    "badgeID": "5522881",
+                    "badgeDate": 1696723200000
+                },
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
+                    "badgeID": "5519055",
+                    "badgeDate": 1696723200000
+                },
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
+                    "badgeID": "5518273",
+                    "badgeDate": 1696723200000
+                },
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5517059",
+                    "badgeDate": 1696723200000
                 }
             ],
             "skills": 9,
-            "trackOne": 6,
-            "trackTwo": 3
-        },
-        {
-            "name": "Parag Lawate",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/91f355c0-48e4-43df-a9b8-1ccda20b5ce3",
-            "enrollDate": 1632268800000,
-            "isEnrollStatusGood": true,
-            "nickname": "Slimy Tree",
-            "badges": [
-                {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1321448",
-                    "badgeDate": 1633824000000
-                },
-                {
-                    "badgeName": "Integrate with Machine Learning APIs",
-                    "badgeID": "1320620",
-                    "badgeDate": 1633824000000
-                },
-                {
-                    "badgeName": "Engineer Data in Google Cloud",
-                    "badgeID": "1316867",
-                    "badgeDate": 1633824000000
-                },
-                {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1284505",
-                    "badgeDate": 1633478400000
-                },
-                {
-                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1282961",
-                    "badgeDate": 1633478400000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1260931",
-                    "badgeDate": 1633219200000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1253463",
-                    "badgeDate": 1633132800000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1227692",
-                    "badgeDate": 1632873600000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1222003",
-                    "badgeDate": 1632787200000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1221702",
-                    "badgeDate": 1632787200000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1219763",
-                    "badgeDate": 1632700800000
-                }
-            ],
-            "skills": 11,
-            "trackOne": 6,
-            "trackTwo": 5
-        },
-        {
-            "name": "Rutuja Sudhakar Thakre",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/0890de06-48dc-4089-903f-62a57717e506",
-            "enrollDate": 1632268800000,
-            "isEnrollStatusGood": true,
-            "nickname": "Crafty Yeeter",
-            "badges": [
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1372462",
-                    "badgeDate": 1634428800000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1340466",
-                    "badgeDate": 1633996800000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1321315",
-                    "badgeDate": 1633824000000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1307782",
-                    "badgeDate": 1633737600000
-                },
-                {
-                    "badgeName": "Google Cloud Essentials",
-                    "badgeID": "1302899",
-                    "badgeDate": 1633651200000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1252829",
-                    "badgeDate": 1633132800000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1238372",
-                    "badgeDate": 1632960000000
-                }
-            ],
-            "skills": 7,
-            "trackOne": 6,
+            "trackOne": 8,
             "trackTwo": 1
         },
         {
-            "name": "Vaishnavi Chouhan",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/15acb8fa-b397-416d-a4ef-43a94fc4d4c1",
-            "enrollDate": 1632268800000,
+            "name": "Prathamesh Manoj Rokade",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/4c13fcc9-9223-4e25-a061-9ca7bcbd2a0e",
+            "enrollDate": 1695888399000,
             "isEnrollStatusGood": true,
-            "nickname": "Cloudy Tree",
-            "badges": [
-                {
-                    "badgeName": "Engineer Data in Google Cloud",
-                    "badgeID": "1419275",
-                    "badgeDate": 1634774400000
-                },
-                {
-                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1412886",
-                    "badgeDate": 1634688000000
-                },
-                {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1408700",
-                    "badgeDate": 1634688000000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1406909",
-                    "badgeDate": 1634688000000
-                },
-                {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1404948",
-                    "badgeDate": 1634688000000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1402488",
-                    "badgeDate": 1634688000000
-                },
-                {
-                    "badgeName": "Integrate with Machine Learning APIs",
-                    "badgeID": "1401944",
-                    "badgeDate": 1634601600000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1395098",
-                    "badgeDate": 1634601600000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1262306",
-                    "badgeDate": 1633219200000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1242542",
-                    "badgeDate": 1632960000000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1218863",
-                    "badgeDate": 1632700800000
-                }
-            ],
-            "skills": 11,
-            "trackOne": 6,
-            "trackTwo": 5
-        },
-        {
-            "name": "Narayani Singh",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/72a58e39-9934-45da-bb06-639cf1f576e4",
-            "enrollDate": 1632268800000,
-            "isEnrollStatusGood": true,
-            "nickname": "Best Werewolf",
-            "badges": [
-                {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1492610",
-                    "badgeDate": 1635292800000
-                },
-                {
-                    "badgeName": "Integrate with Machine Learning APIs",
-                    "badgeID": "1489615",
-                    "badgeDate": 1635292800000
-                },
-                {
-                    "badgeName": "Engineer Data in Google Cloud",
-                    "badgeID": "1486727",
-                    "badgeDate": 1635206400000
-                },
-                {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1463138",
-                    "badgeDate": 1635120000000
-                },
-                {
-                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1438586",
-                    "badgeDate": 1634947200000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1301377",
-                    "badgeDate": 1633651200000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1298062",
-                    "badgeDate": 1633564800000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1273758",
-                    "badgeDate": 1633305600000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1248708",
-                    "badgeDate": 1633046400000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1225569",
-                    "badgeDate": 1632787200000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1213966",
-                    "badgeDate": 1632614400000
-                }
-            ],
-            "skills": 11,
-            "trackOne": 6,
-            "trackTwo": 5
-        },
-        {
-            "name": "Aditya Yadav",
-            "profileLink": "https://run.qwiklabs.com/public_profiles/81f4b791-85d7-43f3-91a4-e90780bfd801",
-            "enrollDate": 1632268800000,
-            "isEnrollStatusGood": true,
-            "nickname": "Popular Wallflower",
-            "badges": [
-                {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1422598",
-                    "badgeDate": 1634774400000
-                },
-                {
-                    "badgeName": "Integrate with Machine Learning APIs",
-                    "badgeID": "1410134",
-                    "badgeDate": 1634688000000
-                },
-                {
-                    "badgeName": "Engineer Data in Google Cloud",
-                    "badgeID": "1395041",
-                    "badgeDate": 1634601600000
-                },
-                {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1384316",
-                    "badgeDate": 1634515200000
-                },
-                {
-                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1375043",
-                    "badgeDate": 1634428800000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1367537",
-                    "badgeDate": 1634342400000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1354068",
-                    "badgeDate": 1634169600000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1346236",
-                    "badgeDate": 1634083200000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1327035",
-                    "badgeDate": 1633910400000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1303519",
-                    "badgeDate": 1633651200000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1278789",
-                    "badgeDate": 1633392000000
-                }
-            ],
-            "skills": 11,
-            "trackOne": 6,
-            "trackTwo": 5
-        },
-        {
-            "name": "Yudhir Kothari",
-            "profileLink": "https://google.qwiklabs.com/public_profiles/9bd4bb25-0eb0-4e71-ae52-b99c20094aad",
-            "enrollDate": 1632268800000,
-            "isEnrollStatusGood": true,
-            "nickname": "Crazy VIP",
-            "badges": [
-                {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1435231",
-                    "badgeDate": 1634860800000
-                },
-                {
-                    "badgeName": "Integrate with Machine Learning APIs",
-                    "badgeID": "1427375",
-                    "badgeDate": 1634860800000
-                },
-                {
-                    "badgeName": "Engineer Data in Google Cloud",
-                    "badgeID": "1388751",
-                    "badgeDate": 1634515200000
-                },
-                {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1373644",
-                    "badgeDate": 1634428800000
-                },
-                {
-                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1357875",
-                    "badgeDate": 1634256000000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1350096",
-                    "badgeDate": 1634169600000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1335589",
-                    "badgeDate": 1633996800000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1334165",
-                    "badgeDate": 1633996800000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1331061",
-                    "badgeDate": 1633910400000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1326598",
-                    "badgeDate": 1633910400000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1319689",
-                    "badgeDate": 1633824000000
-                }
-            ],
-            "skills": 11,
-            "trackOne": 6,
-            "trackTwo": 5
-        },
-        {
-            "name": "DeepakSingh Kushwah",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/02e56e36-8d1e-4140-8b82-8ebfba000ced",
-            "enrollDate": 1632268800000,
-            "isEnrollStatusGood": true,
-            "nickname": "Hyper Zebra",
-            "badges": [
-                {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1355780",
-                    "badgeDate": 1634256000000
-                },
-                {
-                    "badgeName": "Integrate with Machine Learning APIs",
-                    "badgeID": "1353441",
-                    "badgeDate": 1634169600000
-                },
-                {
-                    "badgeName": "Engineer Data in Google Cloud",
-                    "badgeID": "1352345",
-                    "badgeDate": 1634169600000
-                },
-                {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1349399",
-                    "badgeDate": 1634169600000
-                },
-                {
-                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1346094",
-                    "badgeDate": 1634083200000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1312516",
-                    "badgeDate": 1633737600000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1309950",
-                    "badgeDate": 1633737600000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1305640",
-                    "badgeDate": 1633651200000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1296326",
-                    "badgeDate": 1633564800000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1255178",
-                    "badgeDate": 1633132800000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1244909",
-                    "badgeDate": 1633046400000
-                }
-            ],
-            "skills": 11,
-            "trackOne": 6,
-            "trackTwo": 5
-        },
-        {
-            "name": "Dhruvraj Balwant Solanki",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/c32046e4-f7e3-49c3-91d7-169624095ddf",
-            "enrollDate": 1632268800000,
-            "isEnrollStatusGood": true,
-            "nickname": "Silly Yeeter",
-            "badges": [
-                {
-                    "badgeName": "Integrate with Machine Learning APIs",
-                    "badgeID": "1511236",
-                    "badgeDate": 1635465600000
-                },
-                {
-                    "badgeName": "Engineer Data in Google Cloud",
-                    "badgeID": "1510662",
-                    "badgeDate": 1635465600000
-                },
-                {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1505269",
-                    "badgeDate": 1635465600000
-                },
-                {
-                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1501664",
-                    "badgeDate": 1635379200000
-                },
-                {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1484222",
-                    "badgeDate": 1635206400000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1474097",
-                    "badgeDate": 1635206400000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1457362",
-                    "badgeDate": 1635033600000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1449780",
-                    "badgeDate": 1635033600000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1349207",
-                    "badgeDate": 1634169600000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1289059",
-                    "badgeDate": 1633478400000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1266225",
-                    "badgeDate": 1633219200000
-                }
-            ],
-            "skills": 11,
-            "trackOne": 6,
-            "trackTwo": 5
-        },
-        {
-            "name": "Anushka Khandelwal",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/4ccb6e88-d5b2-42ee-88b2-11a2119048bb",
-            "enrollDate": 1632268800000,
-            "isEnrollStatusGood": true,
-            "nickname": "Glorious Sweeper",
-            "badges": [
-                {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1422733",
-                    "badgeDate": 1634774400000
-                },
-                {
-                    "badgeName": "Integrate with Machine Learning APIs",
-                    "badgeID": "1410142",
-                    "badgeDate": 1634688000000
-                },
-                {
-                    "badgeName": "Engineer Data in Google Cloud",
-                    "badgeID": "1395040",
-                    "badgeDate": 1634601600000
-                },
-                {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1384305",
-                    "badgeDate": 1634515200000
-                },
-                {
-                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1377774",
-                    "badgeDate": 1634428800000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1362455",
-                    "badgeDate": 1634256000000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1354067",
-                    "badgeDate": 1634169600000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1346316",
-                    "badgeDate": 1634083200000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1327076",
-                    "badgeDate": 1633910400000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1303536",
-                    "badgeDate": 1633651200000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1278788",
-                    "badgeDate": 1633392000000
-                }
-            ],
-            "skills": 11,
-            "trackOne": 6,
-            "trackTwo": 5
-        },
-        {
-            "name": "Shruti Bisen",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/f2749557-d766-4573-954e-9b9166d963e0",
-            "enrollDate": 1632268800000,
-            "isEnrollStatusGood": true,
-            "nickname": "Chic Toon",
-            "badges": [
-                {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1466786",
-                    "badgeDate": 1635120000000
-                },
-                {
-                    "badgeName": "Integrate with Machine Learning APIs",
-                    "badgeID": "1459943",
-                    "badgeDate": 1635120000000
-                },
-                {
-                    "badgeName": "Engineer Data in Google Cloud",
-                    "badgeID": "1445332",
-                    "badgeDate": 1634947200000
-                },
-                {
-                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1440752",
-                    "badgeDate": 1634947200000
-                },
-                {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1438805",
-                    "badgeDate": 1634947200000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1429983",
-                    "badgeDate": 1634860800000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1424642",
-                    "badgeDate": 1634860800000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1414664",
-                    "badgeDate": 1634774400000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1404207",
-                    "badgeDate": 1634688000000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1281205",
-                    "badgeDate": 1633392000000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1209794",
-                    "badgeDate": 1632528000000
-                }
-            ],
-            "skills": 11,
-            "trackOne": 6,
-            "trackTwo": 5
-        },
-        {
-            "name": "Shubham shailendra singh",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/baf2cc4b-0b4e-4eb2-a1ae-8a4380ee9376",
-            "enrollDate": 1632268800000,
-            "isEnrollStatusGood": true,
-            "nickname": "Tiny Superhero",
-            "badges": [
-                {
-                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1438924",
-                    "badgeDate": 1634947200000
-                },
-                {
-                    "badgeName": "Integrate with Machine Learning APIs",
-                    "badgeID": "1434000",
-                    "badgeDate": 1634860800000
-                },
-                {
-                    "badgeName": "Engineer Data in Google Cloud",
-                    "badgeID": "1428400",
-                    "badgeDate": 1634860800000
-                },
-                {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1406436",
-                    "badgeDate": 1634688000000
-                },
-                {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1405326",
-                    "badgeDate": 1634688000000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1390078",
-                    "badgeDate": 1634515200000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1389275",
-                    "badgeDate": 1634515200000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1379467",
-                    "badgeDate": 1634428800000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1377351",
-                    "badgeDate": 1634428800000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1369637",
-                    "badgeDate": 1634342400000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1214769",
-                    "badgeDate": 1632614400000
-                }
-            ],
-            "skills": 11,
-            "trackOne": 6,
-            "trackTwo": 5
-        },
-        {
-            "name": "SHRUTI MILIND FADNAVIS",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/b57a6d2c-032f-4e74-8b99-011d9a5e3c3c",
-            "enrollDate": 1632268800000,
-            "isEnrollStatusGood": true,
-            "nickname": "Lucky Winner",
-            "badges": [
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1320274",
-                    "badgeDate": 1633824000000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1319930",
-                    "badgeDate": 1633824000000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1314659",
-                    "badgeDate": 1633737600000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1285446",
-                    "badgeDate": 1633478400000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1265656",
-                    "badgeDate": 1633219200000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1216054",
-                    "badgeDate": 1632700800000
-                }
-            ],
-            "skills": 7,
-            "trackOne": 6,
-            "trackTwo": 1
-        },
-        {
-            "name": "Vedansh Jaiswal",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/a700a601-b6cb-4a37-9610-edde9569fac5",
-            "enrollDate": 1632268800000,
-            "isEnrollStatusGood": true,
-            "nickname": "Keen Wolf",
-            "badges": [
-                {
-                    "badgeName": "Integrate with Machine Learning APIs",
-                    "badgeID": "1356993",
-                    "badgeDate": 1634256000000
-                },
-                {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1356743",
-                    "badgeDate": 1634256000000
-                },
-                {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1355348",
-                    "badgeDate": 1634169600000
-                },
-                {
-                    "badgeName": "Engineer Data in Google Cloud",
-                    "badgeID": "1352344",
-                    "badgeDate": 1634169600000
-                },
-                {
-                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1351688",
-                    "badgeDate": 1634169600000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1340436",
-                    "badgeDate": 1633996800000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1340368",
-                    "badgeDate": 1633996800000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1328940",
-                    "badgeDate": 1633910400000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1321812",
-                    "badgeDate": 1633824000000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1318660",
-                    "badgeDate": 1633824000000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1317673",
-                    "badgeDate": 1633824000000
-                },
-                {
-                    "badgeName": "Baseline: Infrastructure",
-                    "badgeID": "1307238",
-                    "badgeDate": 1633651200000
-                },
-                {
-                    "badgeName": "Google Cloud Essentials",
-                    "badgeID": "1305219",
-                    "badgeDate": 1633651200000
-                }
-            ],
-            "skills": 11,
-            "trackOne": 6,
-            "trackTwo": 5
-        },
-        {
-            "name": "Anand thakur",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/b1e3d559-e905-4bff-a250-d0402c97839a",
-            "enrollDate": 1632268800000,
-            "isEnrollStatusGood": true,
-            "nickname": "Scared Yeeter",
-            "badges": [
-                {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1365252",
-                    "badgeDate": 1634342400000
-                },
-                {
-                    "badgeName": "Integrate with Machine Learning APIs",
-                    "badgeID": "1359739",
-                    "badgeDate": 1634256000000
-                },
-                {
-                    "badgeName": "Engineer Data in Google Cloud",
-                    "badgeID": "1357491",
-                    "badgeDate": 1634256000000
-                },
-                {
-                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1348942",
-                    "badgeDate": 1634169600000
-                },
-                {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1318207",
-                    "badgeDate": 1633824000000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1268643",
-                    "badgeDate": 1633305600000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1262751",
-                    "badgeDate": 1633219200000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1257237",
-                    "badgeDate": 1633132800000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1251628",
-                    "badgeDate": 1633132800000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1227973",
-                    "badgeDate": 1632873600000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1222146",
-                    "badgeDate": 1632787200000
-                }
-            ],
-            "skills": 11,
-            "trackOne": 6,
-            "trackTwo": 5
-        },
-        {
-            "name": "Bhushan Wanjari",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/f7fd870f-77ff-48f0-8152-a87c524b457f",
-            "enrollDate": 1632268800000,
-            "isEnrollStatusGood": true,
-            "nickname": "Giddy Villain",
-            "badges": [
-                {
-                    "badgeName": "Engineer Data in Google Cloud",
-                    "badgeID": "1441616",
-                    "badgeDate": 1634947200000
-                },
-                {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1433762",
-                    "badgeDate": 1634860800000
-                },
-                {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1430240",
-                    "badgeDate": 1634860800000
-                },
-                {
-                    "badgeName": "Integrate with Machine Learning APIs",
-                    "badgeID": "1411427",
-                    "badgeDate": 1634688000000
-                },
-                {
-                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1405132",
-                    "badgeDate": 1634688000000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1395388",
-                    "badgeDate": 1634601600000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1327348",
-                    "badgeDate": 1633910400000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1315313",
-                    "badgeDate": 1633737600000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1241912",
-                    "badgeDate": 1632960000000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1219675",
-                    "badgeDate": 1632700800000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1214815",
-                    "badgeDate": 1632614400000
-                }
-            ],
-            "skills": 11,
-            "trackOne": 6,
-            "trackTwo": 5
-        },
-        {
-            "name": "Madhav Jha",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/1d192aa3-51d2-444b-ae36-f54252af7adc",
-            "enrollDate": 1632355200000,
-            "isEnrollStatusGood": true,
-            "nickname": "Bouncy Vampire",
-            "badges": [
-                {
-                    "badgeName": "Engineer Data in Google Cloud",
-                    "badgeID": "1287743",
-                    "badgeDate": 1633478400000
-                },
-                {
-                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1285534",
-                    "badgeDate": 1633478400000
-                },
-                {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1281462",
-                    "badgeDate": 1633392000000
-                },
-                {
-                    "badgeName": "Integrate with Machine Learning APIs",
-                    "badgeID": "1279052",
-                    "badgeDate": 1633392000000
-                },
-                {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1260674",
-                    "badgeDate": 1633219200000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1252651",
-                    "badgeDate": 1633132800000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1247926",
-                    "badgeDate": 1633046400000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1244556",
-                    "badgeDate": 1633046400000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1237386",
-                    "badgeDate": 1632960000000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1225761",
-                    "badgeDate": 1632787200000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1214261",
-                    "badgeDate": 1632614400000
-                }
-            ],
-            "skills": 11,
-            "trackOne": 6,
-            "trackTwo": 5
-        },
-        {
-            "name": "Shrey Bharat Chachra",
-            "profileLink": "https://google.qwiklabs.com/public_profiles/a7a20f78-ce9b-4340-81a4-51502f21ebd4",
-            "enrollDate": 1632268800000,
-            "isEnrollStatusGood": true,
-            "nickname": "Chill Sponge",
             "badges": [],
             "skills": 0,
             "trackOne": 0,
             "trackTwo": 0
         },
         {
-            "name": "Anubhav sanjay jain",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/8fb35bae-0bcb-4b14-bc25-25885e454bb8",
-            "enrollDate": 1632268800000,
+            "name": "Devesh Pardhi",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/bdae5379-0c2e-4bd0-a695-064af5686718",
+            "enrollDate": 1695888412000,
             "isEnrollStatusGood": true,
-            "nickname": "Smashing Streamer",
-            "badges": [
-                {
-                    "badgeName": "Engineer Data in Google Cloud",
-                    "badgeID": "1463461",
-                    "badgeDate": 1635120000000
-                },
-                {
-                    "badgeName": "Integrate with Machine Learning APIs",
-                    "badgeID": "1459503",
-                    "badgeDate": 1635120000000
-                },
-                {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1457978",
-                    "badgeDate": 1635033600000
-                },
-                {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1457237",
-                    "badgeDate": 1635033600000
-                },
-                {
-                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1451160",
-                    "badgeDate": 1635033600000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1449224",
-                    "badgeDate": 1635033600000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1448808",
-                    "badgeDate": 1635033600000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1448542",
-                    "badgeDate": 1635033600000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1331861",
-                    "badgeDate": 1633910400000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1326835",
-                    "badgeDate": 1633910400000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1257764",
-                    "badgeDate": 1633132800000
-                }
-            ],
-            "skills": 11,
-            "trackOne": 6,
-            "trackTwo": 5
-        },
-        {
-            "name": "Prathamesh Vijay Tidke",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/600be8b3-c203-473a-970a-0f0feab8643f",
-            "enrollDate": 1632268800000,
-            "isEnrollStatusGood": true,
-            "nickname": "Posh Villain",
-            "badges": [
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1263816",
-                    "badgeDate": 1633219200000
-                },
-                {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1263122",
-                    "badgeDate": 1633219200000
-                },
-                {
-                    "badgeName": "Integrate with Machine Learning APIs",
-                    "badgeID": "1262888",
-                    "badgeDate": 1633219200000
-                },
-                {
-                    "badgeName": "Engineer Data in Google Cloud",
-                    "badgeID": "1262758",
-                    "badgeDate": 1633219200000
-                },
-                {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1257348",
-                    "badgeDate": 1633132800000
-                },
-                {
-                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1255445",
-                    "badgeDate": 1633132800000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1247205",
-                    "badgeDate": 1633046400000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1234104",
-                    "badgeDate": 1632873600000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1231760",
-                    "badgeDate": 1632873600000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1223163",
-                    "badgeDate": 1632787200000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1220025",
-                    "badgeDate": 1632700800000
-                }
-            ],
-            "skills": 11,
-            "trackOne": 6,
-            "trackTwo": 5
-        },
-        {
-            "name": "Siddharth shah",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/2c3f42fc-883d-4e65-8fe4-3234a8d24dd7",
-            "enrollDate": 1632268800000,
-            "isEnrollStatusGood": true,
-            "nickname": "Happy Summer",
             "badges": [],
             "skills": 0,
             "trackOne": 0,
             "trackTwo": 0
         },
         {
-            "name": "Anvi Burde",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/42741664-9a00-4b76-a163-3817090df196",
-            "enrollDate": 1632268800000,
+            "name": "Uttkarsh Shankarrao Khanke",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/de003c78-723e-4dc3-a79b-06520f0a317c",
+            "enrollDate": 1695893465000,
             "isEnrollStatusGood": true,
-            "nickname": "Swift Streamer",
-            "badges": [
-                {
-                    "badgeName": "Google Cloud Essentials",
-                    "badgeID": "2066491",
-                    "badgeDate": 1653350400000
-                },
-                {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1267127",
-                    "badgeDate": 1633219200000
-                },
-                {
-                    "badgeName": "Integrate with Machine Learning APIs",
-                    "badgeID": "1264657",
-                    "badgeDate": 1633219200000
-                },
-                {
-                    "badgeName": "Engineer Data in Google Cloud",
-                    "badgeID": "1262734",
-                    "badgeDate": 1633219200000
-                },
-                {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1257206",
-                    "badgeDate": 1633132800000
-                },
-                {
-                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1256112",
-                    "badgeDate": 1633132800000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1251972",
-                    "badgeDate": 1633132800000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1250323",
-                    "badgeDate": 1633132800000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1247590",
-                    "badgeDate": 1633046400000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1238277",
-                    "badgeDate": 1632960000000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1237210",
-                    "badgeDate": 1632960000000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1219524",
-                    "badgeDate": 1632700800000
-                }
-            ],
-            "skills": 11,
-            "trackOne": 6,
-            "trackTwo": 5
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
         },
         {
-            "name": "Shantanu Mane",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/ada4407e-e01d-4521-94e1-94bea5679f30",
-            "enrollDate": 1632268800000,
+            "name": "Aryan Jain",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/ad7ebec6-31b2-4e21-8274-34a5a96de3c8",
+            "enrollDate": 1695893819000,
             "isEnrollStatusGood": true,
-            "nickname": "Scared Vampire",
-            "badges": [
-                {
-                    "badgeName": "Engineer Data in Google Cloud",
-                    "badgeID": "1450587",
-                    "badgeDate": 1635033600000
-                },
-                {
-                    "badgeName": "DEPRECATED Explore Machine Learning Models with Explainable AI",
-                    "badgeID": "1438465",
-                    "badgeDate": 1634947200000
-                },
-                {
-                    "badgeName": "Integrate with Machine Learning APIs",
-                    "badgeID": "1436954",
-                    "badgeDate": 1634947200000
-                },
-                {
-                    "badgeName": "Insights from Data with BigQuery",
-                    "badgeID": "1425582",
-                    "badgeDate": 1634860800000
-                },
-                {
-                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
-                    "badgeID": "1422269",
-                    "badgeDate": 1634774400000
-                },
-                {
-                    "badgeName": "Deploy to Kubernetes in Google Cloud",
-                    "badgeID": "1358021",
-                    "badgeDate": 1634256000000
-                },
-                {
-                    "badgeName": "Build and Secure Networks in Google Cloud",
-                    "badgeID": "1357097",
-                    "badgeDate": 1634256000000
-                },
-                {
-                    "badgeName": "Deploy and Manage Cloud Environments with Google Cloud",
-                    "badgeID": "1351579",
-                    "badgeDate": 1634169600000
-                },
-                {
-                    "badgeName": "Set Up and Configure a Cloud Environment in Google Cloud",
-                    "badgeID": "1345492",
-                    "badgeDate": 1634083200000
-                },
-                {
-                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
-                    "badgeID": "1315929",
-                    "badgeDate": 1633737600000
-                },
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "1247301",
-                    "badgeDate": 1633046400000
-                }
-            ],
-            "skills": 11,
-            "trackOne": 6,
-            "trackTwo": 5
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
         },
         {
-            "name": "Shruti Shivkumar Shukla",
-            "profileLink": "https://www.qwiklabs.com/public_profiles/ed885b5f-a5a3-4da7-a2f4-16e3b99f6c8a",
-            "enrollDate": 1632268800000,
+            "name": "shrunkhal krushnakumar talmale",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/646bb7de-4ab8-444d-9156-8fd56724fcb6",
+            "enrollDate": 1695894429000,
             "isEnrollStatusGood": true,
-            "nickname": "Jumpy Wolf"
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Shreya Seth",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/93dbc367-faa9-43bd-a95f-750b3f38cc17",
+            "enrollDate": 1695894687000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Rishika",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/02d1f95b-c763-4c9b-ba64-27721882d9af",
+            "enrollDate": 1695897674000,
+            "isEnrollStatusGood": true,
+            "badges": [
+                {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "5550878",
+                    "badgeDate": 1696896000000
+                },
+                {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5550333",
+                    "badgeDate": 1696896000000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 0,
+            "trackTwo": 1
+        },
+        {
+            "name": "Komal Wankhade",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/2202dba9-392f-4161-9f9a-f8ab6583ed00",
+            "enrollDate": 1695898512000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "ANIRUDH PRAVIN PAWAR",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/66b60387-c319-4196-a4d7-00c62ba1955e",
+            "enrollDate": 1695904326000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Tanay Pande",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/1fb97a2f-31dd-4f07-89dd-87b16fe54de5",
+            "enrollDate": 1695904651000,
+            "isEnrollStatusGood": true,
+            "badges": [
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5538329",
+                    "badgeDate": 1696809600000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
+            "trackTwo": 0
+        },
+        {
+            "name": "Apurve Trivedi",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/b359655c-dde6-4af5-9ff1-fc30983ce1fb",
+            "enrollDate": 1695907947000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Mayank Mokhere",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/9357a0b3-2f18-4a7b-b4fc-1c515a190c35",
+            "enrollDate": 1695908118000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Anshika Gupta",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/f6185e8d-0ee3-4cb5-99cc-b831e0a41e90",
+            "enrollDate": 1695908280000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Gunangi Yashwantrao Bhagat",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/82229e96-1b11-44b5-ad0f-6dee31b7c375",
+            "enrollDate": 1695908612000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Akshay Padia",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/548035a6-a0d1-4308-ae6c-c5193fe3a705",
+            "enrollDate": 1695908832000,
+            "isEnrollStatusGood": true,
+            "badges": [
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5537719",
+                    "badgeDate": 1696809600000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
+            "trackTwo": 0
+        },
+        {
+            "name": "Mayuri Naresh Barapatre",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/8fa77705-e8e7-45d6-9b93-2e6269d6c812",
+            "enrollDate": 1695910761000,
+            "isEnrollStatusGood": true,
+            "badges": [
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5538792",
+                    "badgeDate": 1696809600000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
+            "trackTwo": 0
+        },
+        {
+            "name": "Tanisha Avinash",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/c9c6425a-d6a1-4d51-abcc-27fe908068bf",
+            "enrollDate": 1695910967000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Shinosha Rajesh Jain",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/f4196e3d-15b7-44c6-ac92-f55e4f114665",
+            "enrollDate": 1695911285000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Hariom Nabira",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/a3349c70-ba1e-4f62-9488-f1011b6100b7",
+            "enrollDate": 1695912491000,
+            "isEnrollStatusGood": true,
+            "badges": [
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5539185",
+                    "badgeDate": 1696809600000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
+            "trackTwo": 0
         }
     ],
-    "time": "09-10-2023 11:46 AM"
+    "time": "11-10-2023 00:24 AM"
 }

@@ -19,11 +19,11 @@ export const init = () => {
 		}
 
 		let color = "black";
-		if (profile[i]["trackOne"] == 6 || profile[i]["trackTwo"] == 6) {
-			color = "blue";
-		}
-		if (profile[i]["trackOne"] == 6 && profile[i]["trackTwo"] == 6) {
+		if (profile[i]["trackOne"] == 8 || profile[i]["trackTwo"] == 1) {
 			color = "green";
+		}
+		if (profile[i]["trackOne"] == 8 && profile[i]["trackTwo"] == 1) {
+			color = "blue";
 		}
 		let data = {
 			name: profile[i]["name"],

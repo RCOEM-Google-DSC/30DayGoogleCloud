@@ -42,27 +42,18 @@ export const init = async () => {
 	console.log("---Fetching Badge Data---");
 	console.log("=========================\n");
 
-	let participants = read("participants.json");
-	let profile = participants["profiles"];
-	let allBadges = [];
+	let profile = read("participants.json");
+
 	for (let i = 0; i < profile.length; i++) {
-		// await delay(400)
-		if (profile[i]["isEnrollStatusGood"] == false) {
-			continue;
-		}
+		if (!profile[i]["isEnrollStatusGood"]) continue;
 		console.log(`Fetching Person ${i + 1}`);
-		allBadges.push(getBadges(profile[i]["profileLink"], profile[i]["enrollDate"]));
-	}
-	allBadges = await Promise.all(allBadges);
-	for (let i = 0; i < profile.length; i++) {
-		profile[i]["badges"] = allBadges[i];
+		profile[i]["badges"] = await getBadges(profile[i]["profileLink"], profile[i]["enrollDate"]);
 	}
 	// count skills and quests
 	let track1 = trackData[0];
-	track1.skills = track1.skills.map((elem) => elem.name).map((elem) => joinStr(elem));
-
+	track1.skills = track1.skills.map((elem) => joinStr(elem));
 	let track2 = trackData[1];
-	track2.skills = track2.skills.map((elem) => elem.name).map((elem) => joinStr(elem));
+	track2.skills = track2.skills.map((elem) => joinStr(elem));
 
 	for (let i = 0; i < profile.length; i++) {
 		if (profile[i]["isEnrollStatusGood"] == false) {
@@ -93,11 +84,10 @@ export const init = async () => {
 	}
 
 	console.log("\nUpdating db.json\n");
-	let db = {
+	const db = {
 		participants: profile,
 		time: getCurrentTime(),
 	};
-	// console.log(db);
 	write(dbFileLoc, db);
 	console.log("\n---Data collection done---\n");
 };

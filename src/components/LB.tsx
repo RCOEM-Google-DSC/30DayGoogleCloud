@@ -21,8 +21,8 @@ export function LB({ search }: LBProps) {
 				<TableRow>
 					<TableHead className="w-[2rem]">Rank</TableHead>
 					<TableHead>Name</TableHead>
-					<TableHead className="text-center">Track 1</TableHead>
-					<TableHead className="text-center">Track 2</TableHead>
+					<TableHead className="text-center">GCCP</TableHead>
+					<TableHead className="text-center">Gen AI</TableHead>
 				</TableRow>
 			</TableHeader>
 			<TableBody>

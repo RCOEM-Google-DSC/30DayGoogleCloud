@@ -431,14 +431,19 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5567742",
+                    "badgeDate": 1696982400000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
                     "badgeID": "5562027",
                     "badgeDate": 1696982400000
                 }
             ],
-            "skills": 1,
+            "skills": 2,
             "trackOne": 1,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Suryansh Kashyap",
@@ -1459,6 +1464,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Create and Manage Cloud Resources",
+                    "badgeID": "5567765",
+                    "badgeDate": 1696982400000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud",
                     "badgeID": "5553191",
                     "badgeDate": 1696896000000
@@ -1479,8 +1489,8 @@
                     "badgeDate": 1696809600000
                 }
             ],
-            "skills": 4,
-            "trackOne": 4,
+            "skills": 5,
+            "trackOne": 5,
             "trackTwo": 0
         },
         {
@@ -1701,15 +1711,9 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/548035a6-a0d1-4308-ae6c-c5193fe3a705",
             "enrollDate": 1695908832000,
             "isEnrollStatusGood": true,
-            "badges": [
-                {
-                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
-                    "badgeID": "5537719",
-                    "badgeDate": 1696809600000
-                }
-            ],
-            "skills": 1,
-            "trackOne": 1,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
             "trackTwo": 0
         },
         {
@@ -1717,15 +1721,9 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/8fa77705-e8e7-45d6-9b93-2e6269d6c812",
             "enrollDate": 1695910761000,
             "isEnrollStatusGood": true,
-            "badges": [
-                {
-                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
-                    "badgeID": "5538792",
-                    "badgeDate": 1696809600000
-                }
-            ],
-            "skills": 1,
-            "trackOne": 1,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
             "trackTwo": 0
         },
         {
@@ -1753,17 +1751,11 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/a3349c70-ba1e-4f62-9488-f1011b6100b7",
             "enrollDate": 1695912491000,
             "isEnrollStatusGood": true,
-            "badges": [
-                {
-                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
-                    "badgeID": "5539185",
-                    "badgeDate": 1696809600000
-                }
-            ],
-            "skills": 1,
-            "trackOne": 1,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
             "trackTwo": 0
         }
     ],
-    "time": "Thursday, October 12, 2023 at 1:15 AM"
+    "time": "Thursday, October 12, 2023 at 1:39 AM"
 }

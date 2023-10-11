@@ -429,9 +429,15 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/57168b63-9b74-4880-ae36-f5434720a9c7",
             "enrollDate": 1695737212000,
             "isEnrollStatusGood": true,
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5562027",
+                    "badgeDate": 1696982400000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0
         },
         {
@@ -451,13 +457,18 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5553028",
+                    "badgeDate": 1696896000000
+                },
+                {
                     "badgeName": "Level 3 GenAI: Prompt Engineering",
                     "badgeID": "5526884",
                     "badgeDate": 1696809600000
                 }
             ],
-            "skills": 1,
-            "trackOne": 0,
+            "skills": 2,
+            "trackOne": 1,
             "trackTwo": 1
         },
         {
@@ -511,9 +522,15 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/b45a4940-78b8-4676-8e3a-de61f42628d7",
             "enrollDate": 1695737359000,
             "isEnrollStatusGood": true,
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5552998",
+                    "badgeDate": 1696896000000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0
         },
         {
@@ -773,13 +790,18 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5555249",
+                    "badgeDate": 1696896000000
+                },
+                {
                     "badgeName": "Level 3 GenAI: Prompt Engineering",
                     "badgeID": "5526658",
                     "badgeDate": 1696809600000
                 }
             ],
-            "skills": 1,
-            "trackOne": 0,
+            "skills": 2,
+            "trackOne": 1,
             "trackTwo": 1
         },
         {
@@ -1421,6 +1443,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud",
+                    "badgeID": "5553191",
+                    "badgeDate": 1696896000000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
                     "badgeID": "5552086",
                     "badgeDate": 1696896000000
@@ -1436,8 +1463,8 @@
                     "badgeDate": 1696809600000
                 }
             ],
-            "skills": 3,
-            "trackOne": 3,
+            "skills": 4,
+            "trackOne": 4,
             "trackTwo": 0
         },
         {
@@ -1722,5 +1749,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "11-10-2023 00:24 AM"
+    "time": "11-10-2023 16:21 PM"
 }

@@ -148,3 +148,26 @@ body,
 .black::after {
 	background: linear-gradient(90deg, #cacaca 1%, transparent);
 }
+
+#footer {
+	background: hsla(223, 84%, 5%, 0.7);
+	backdrop-filter: blur(40px);
+	-webkit-backdrop-filter: blur(40px);
+	box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.25);
+}
+
+.footer {
+	background: url(/images/bg.svg) no-repeat;
+	background-position: bottom;
+	background-size: 70%;
+}
+
+@media not all and (min-width: 768px) {
+	.footer {
+		background-size: cover;
+	}
+	#footer {
+		backdrop-filter: blur(30px);
+		-webkit-backdrop-filter: blur(30px);
+	}
+}

@@ -1,30 +1,20 @@
-import { getBadges } from "./scrape.js";
-import { read, write } from "./utils.js";
-import { trackData } from "./trackData.js";
+import { getBadges } from './scrape.js';
+import { read, write } from './utils.js';
+import { trackData } from './trackData.js';
 
-const dbFileLoc = "db.json";
+const dbFileLoc = 'db.json';
 export async function wait(ms) {
-	return (await import("node:util")).promisify(setTimeout)(ms);
+	return (await import('node:util')).promisify(setTimeout)(ms);
 }
 
-const AddZero = (num) => {
-	return num >= 0 && num < 10 ? "0" + num : num + "";
-};
-
 const getCurrentTime = () => {
-	var now = new Date();
-	var strDateTime = [
-		[AddZero(now.getDate()), AddZero(now.getMonth() + 1), now.getFullYear()].join("-"),
-		[AddZero(now.getHours()), AddZero(now.getMinutes())].join(":"),
-		now.getHours() >= 12 ? "PM" : "AM",
-	].join(" ");
-	return strDateTime;
+	return new Date().toLocaleString('en-US', { timeZone: 'Asia/Kolkata', dateStyle: 'full', timeStyle: 'short' });
 };
 
 const joinStr = (inp) => {
 	try {
-		inp = inp.replace("amp;", "");
-		inp = inp.toLowerCase().split(" ").join("").trim();
+		inp = inp.replace('amp;', '');
+		inp = inp.toLowerCase().split(' ').join('').trim();
 	} catch {
 		console.log(inp);
 	}
@@ -38,16 +28,16 @@ export const init = async () => {
 	 * 3. match badges
 	 * 4. send mails
 	 */
-	console.log("\n=========================");
-	console.log("---Fetching Badge Data---");
-	console.log("=========================\n");
+	console.log('\n=========================');
+	console.log('---Fetching Badge Data---');
+	console.log('=========================\n');
 
-	let profile = read("participants.json");
+	let profile = read('participants.json');
 
 	for (let i = 0; i < profile.length; i++) {
-		if (!profile[i]["isEnrollStatusGood"]) continue;
+		if (!profile[i]['isEnrollStatusGood']) continue;
 		console.log(`Fetching Person ${i + 1}`);
-		profile[i]["badges"] = await getBadges(profile[i]["profileLink"], profile[i]["enrollDate"]);
+		profile[i]['badges'] = await getBadges(profile[i]['profileLink'], profile[i]['enrollDate']);
 	}
 	// count skills and quests
 	let track1 = trackData[0];
@@ -56,12 +46,12 @@ export const init = async () => {
 	track2.skills = track2.skills.map((elem) => joinStr(elem));
 
 	for (let i = 0; i < profile.length; i++) {
-		if (profile[i]["isEnrollStatusGood"] == false) {
+		if (profile[i]['isEnrollStatusGood'] == false) {
 			continue;
 		}
-		let badges = profile[i]["badges"]?.map((elem) => elem.badgeName);
+		let badges = profile[i]['badges']?.map((elem) => elem.badgeName);
 		if (!badges) {
-			console.log(profile[i]["name"]);
+			console.log(profile[i]['name']);
 			break;
 		}
 		let skills = 0,
@@ -78,16 +68,16 @@ export const init = async () => {
 				skills++;
 			}
 		});
-		profile[i]["skills"] = skills;
-		profile[i]["trackOne"] = trackOne;
-		profile[i]["trackTwo"] = trackTwo;
+		profile[i]['skills'] = skills;
+		profile[i]['trackOne'] = trackOne;
+		profile[i]['trackTwo'] = trackTwo;
 	}
 
-	console.log("\nUpdating db.json\n");
+	console.log('\nUpdating db.json\n');
 	const db = {
 		participants: profile,
 		time: getCurrentTime(),
 	};
 	write(dbFileLoc, db);
-	console.log("\n---Data collection done---\n");
+	console.log('\n---Data collection done---\n');
 };

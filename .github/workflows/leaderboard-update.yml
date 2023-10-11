@@ -21,9 +21,7 @@ jobs:
         with:
           node-version: 18.x
           cache: yarn
-      - name: Install Dependencies
-        run: yarn --immutable
-      - run: yarn setup
+      - run: node scripts/index.js
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update leaderboard"

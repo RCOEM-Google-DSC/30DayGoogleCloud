@@ -8,6 +8,22 @@ export const leaderBoardData = [
         "latestSkill": 1696723200000
     },
     {
+        "name": "Pratyush Bhatt",
+        "skills": 9,
+        "trackOne": 8,
+        "trackTwo": 1,
+        "color": "blue",
+        "latestSkill": 1696809600000
+    },
+    {
+        "name": "Janav Dua",
+        "skills": 4,
+        "trackOne": 4,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1696896000000
+    },
+    {
         "name": "Aakhyan Jeyush",
         "skills": 3,
         "trackOne": 3,
@@ -213,6 +229,22 @@ export const leaderBoardData = [
         "trackOne": 1,
         "trackTwo": 0,
         "color": "black",
+        "latestSkill": 1696896000000
+    },
+    {
+        "name": "Sanchit Pahurkar",
+        "skills": 1,
+        "trackOne": 1,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1696896000000
+    },
+    {
+        "name": "Rishika",
+        "skills": 1,
+        "trackOne": 0,
+        "trackTwo": 1,
+        "color": "green",
         "latestSkill": 1696896000000
     },
     {
@@ -960,31 +992,7 @@ export const leaderBoardData = [
         "latestSkill": null
     },
     {
-        "name": "Sanchit Pahurkar",
-        "skills": 0,
-        "trackOne": 0,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": null
-    },
-    {
         "name": "Rishav Santosh Shukla",
-        "skills": 0,
-        "trackOne": 0,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": null
-    },
-    {
-        "name": "Janav Dua",
-        "skills": 0,
-        "trackOne": 0,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": null
-    },
-    {
-        "name": "Pratyush Bhatt",
         "skills": 0,
         "trackOne": 0,
         "trackTwo": 0,
@@ -1033,14 +1041,6 @@ export const leaderBoardData = [
     },
     {
         "name": "Shreya Seth",
-        "skills": 0,
-        "trackOne": 0,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": null
-    },
-    {
-        "name": "Rishika",
         "skills": 0,
         "trackOne": 0,
         "trackTwo": 0,
@@ -1121,4 +1121,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "11-10-2023 19:01 PM"
+export const updateTime =  "11-10-2023 19:14 PM"

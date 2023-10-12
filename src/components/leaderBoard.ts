@@ -296,6 +296,14 @@ export const leaderBoardData = [
         "latestSkill": 1697068800000
     },
     {
+        "name": "Atharva Yogesh Mundhada",
+        "skills": 1,
+        "trackOne": 1,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1697068800000
+    },
+    {
         "name": "Devesh Ashish Vyas",
         "skills": 1,
         "trackOne": 1,
@@ -417,14 +425,6 @@ export const leaderBoardData = [
     },
     {
         "name": "Atharva Devkant Bhakane",
-        "skills": 0,
-        "trackOne": 0,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": null
-    },
-    {
-        "name": "Atharva Yogesh Mundhada",
         "skills": 0,
         "trackOne": 0,
         "trackTwo": 0,
@@ -1121,4 +1121,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Thursday, October 12, 2023 at 9:40 PM"
+export const updateTime =  "Thursday, October 12, 2023 at 9:59 PM"

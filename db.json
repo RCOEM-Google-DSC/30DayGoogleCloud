@@ -1285,10 +1285,16 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/e9d40152-4203-43da-a1e1-5c9ceba8689c",
             "enrollDate": 1695748203000,
             "isEnrollStatusGood": true,
-            "badges": [],
-            "skills": 0,
+            "badges": [
+                {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5579322",
+                    "badgeDate": 1697068800000
+                }
+            ],
+            "skills": 1,
             "trackOne": 0,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Mimansa Deovrat Joshi",
@@ -1896,5 +1902,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Thursday, October 12, 2023 at 10:37 PM"
+    "time": "Thursday, October 12, 2023 at 10:52 PM"
 }

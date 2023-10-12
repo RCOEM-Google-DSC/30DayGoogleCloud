@@ -32,15 +32,15 @@ export const leaderBoardData = [
         "latestSkill": 1697068800000
     },
     {
-        "name": "Aishwary Jayant Gathe",
-        "skills": 4,
-        "trackOne": 3,
+        "name": "Vanshika Pawan Sarda",
+        "skills": 5,
+        "trackOne": 4,
         "trackTwo": 1,
         "color": "green",
         "latestSkill": 1697068800000
     },
     {
-        "name": "Vanshika Pawan Sarda",
+        "name": "Aishwary Jayant Gathe",
         "skills": 4,
         "trackOne": 3,
         "trackTwo": 1,
@@ -288,6 +288,14 @@ export const leaderBoardData = [
         "latestSkill": 1697068800000
     },
     {
+        "name": "Khushi Ajay Mantri",
+        "skills": 1,
+        "trackOne": 1,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1697068800000
+    },
+    {
         "name": "Ayush Sachan",
         "skills": 1,
         "trackOne": 0,
@@ -325,6 +333,14 @@ export const leaderBoardData = [
         "trackOne": 0,
         "trackTwo": 1,
         "color": "green",
+        "latestSkill": 1697068800000
+    },
+    {
+        "name": "Prathamesh Prashant Kurekar",
+        "skills": 1,
+        "trackOne": 1,
+        "trackTwo": 0,
+        "color": "black",
         "latestSkill": 1697068800000
     },
     {
@@ -377,14 +393,6 @@ export const leaderBoardData = [
     },
     {
         "name": "Manan Maheshwari",
-        "skills": 0,
-        "trackOne": 0,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": null
-    },
-    {
-        "name": "Khushi Ajay Mantri",
         "skills": 0,
         "trackOne": 0,
         "trackTwo": 0,
@@ -864,14 +872,6 @@ export const leaderBoardData = [
         "latestSkill": null
     },
     {
-        "name": "Prathamesh Prashant Kurekar",
-        "skills": 0,
-        "trackOne": 0,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": null
-    },
-    {
         "name": "Samar K",
         "skills": 0,
         "trackOne": 0,
@@ -1121,4 +1121,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Thursday, October 12, 2023 at 11:23 PM"
+export const updateTime =  "Thursday, October 12, 2023 at 11:40 PM"

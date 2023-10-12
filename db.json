@@ -141,14 +141,19 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5580581",
+                    "badgeDate": 1697068800000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
                     "badgeID": "5536579",
                     "badgeDate": 1696809600000
                 }
             ],
-            "skills": 1,
+            "skills": 2,
             "trackOne": 1,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Yash Vijayrao Tapre",
@@ -1929,5 +1934,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Friday, October 13, 2023 at 12:07 AM"
+    "time": "Friday, October 13, 2023 at 12:14 AM"
 }

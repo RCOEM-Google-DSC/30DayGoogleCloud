@@ -35,7 +35,7 @@ export const init = async () => {
 	let profile = read('participants.json');
 
 	for (let i = 0; i < profile.length; i++) {
-		await wait(100);
+		await wait(500);
 		if (!profile[i]['isEnrollStatusGood']) continue;
 		console.log(`Fetching Person ${i + 1}`);
 		profile[i]['badges'] = await getBadges(profile[i]['profileLink'], profile[i]['enrollDate']);

@@ -235,10 +235,16 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/159d59e2-defb-4add-8b05-526d050c22ac",
             "enrollDate": 1695736447000,
             "isEnrollStatusGood": true,
-            "badges": [],
-            "skills": 0,
+            "badges": [
+                {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5571096",
+                    "badgeDate": 1697068800000
+                }
+            ],
+            "skills": 1,
             "trackOne": 0,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Jagriti Radheshyam Sharma",
@@ -467,6 +473,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud",
+                    "badgeID": "5572535",
+                    "badgeDate": 1697068800000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
                     "badgeID": "5568108",
                     "badgeDate": 1696982400000
@@ -482,8 +493,8 @@
                     "badgeDate": 1696809600000
                 }
             ],
-            "skills": 3,
-            "trackOne": 2,
+            "skills": 4,
+            "trackOne": 3,
             "trackTwo": 1
         },
         {
@@ -948,6 +959,21 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5573214",
+                    "badgeDate": 1697068800000
+                },
+                {
+                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+                    "badgeID": "5571021",
+                    "badgeDate": 1697068800000
+                },
+                {
+                    "badgeName": "Build and Secure Networks in Google Cloud",
+                    "badgeID": "5570827",
+                    "badgeDate": 1697068800000
+                },
+                {
                     "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
                     "badgeID": "5570606",
                     "badgeDate": 1697068800000
@@ -978,9 +1004,9 @@
                     "badgeDate": 1696809600000
                 }
             ],
-            "skills": 6,
-            "trackOne": 6,
-            "trackTwo": 0
+            "skills": 9,
+            "trackOne": 8,
+            "trackTwo": 1
         },
         {
             "name": "Kunika Kamalkishor Bhutada",
@@ -1489,6 +1515,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+                    "badgeID": "5573226",
+                    "badgeDate": 1697068800000
+                },
+                {
                     "badgeName": "Build and Secure Networks in Google Cloud",
                     "badgeID": "5568278",
                     "badgeDate": 1696982400000
@@ -1524,8 +1555,8 @@
                     "badgeDate": 1696809600000
                 }
             ],
-            "skills": 7,
-            "trackOne": 7,
+            "skills": 8,
+            "trackOne": 8,
             "trackTwo": 0
         },
         {
@@ -1810,5 +1841,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Thursday, October 12, 2023 at 11:49 AM"
+    "time": "Thursday, October 12, 2023 at 3:35 PM"
 }

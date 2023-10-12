@@ -16,19 +16,19 @@ export const leaderBoardData = [
         "latestSkill": 1696809600000
     },
     {
-        "name": "Janav Dua",
-        "skills": 7,
-        "trackOne": 7,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1696982400000
+        "name": "Aakhyan Jeyush",
+        "skills": 9,
+        "trackOne": 8,
+        "trackTwo": 1,
+        "color": "blue",
+        "latestSkill": 1697068800000
     },
     {
-        "name": "Aakhyan Jeyush",
-        "skills": 6,
-        "trackOne": 6,
+        "name": "Janav Dua",
+        "skills": 8,
+        "trackOne": 8,
         "trackTwo": 0,
-        "color": "black",
+        "color": "green",
         "latestSkill": 1697068800000
     },
     {
@@ -41,11 +41,11 @@ export const leaderBoardData = [
     },
     {
         "name": "Vanshika Pawan Sarda",
-        "skills": 3,
-        "trackOne": 2,
+        "skills": 4,
+        "trackOne": 3,
         "trackTwo": 1,
         "color": "green",
-        "latestSkill": 1696982400000
+        "latestSkill": 1697068800000
     },
     {
         "name": "Khushi Sonkusare",
@@ -264,6 +264,14 @@ export const leaderBoardData = [
         "latestSkill": 1696982400000
     },
     {
+        "name": "Ayush Sachan",
+        "skills": 1,
+        "trackOne": 0,
+        "trackTwo": 1,
+        "color": "green",
+        "latestSkill": 1697068800000
+    },
+    {
         "name": "Onkar Sachin Pathak",
         "skills": 0,
         "trackOne": 0,
@@ -361,14 +369,6 @@ export const leaderBoardData = [
     },
     {
         "name": "Adesh Dhanraj Bode",
-        "skills": 0,
-        "trackOne": 0,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": null
-    },
-    {
-        "name": "Ayush Sachan",
         "skills": 0,
         "trackOne": 0,
         "trackTwo": 0,
@@ -1121,4 +1121,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Thursday, October 12, 2023 at 11:49 AM"
+export const updateTime =  "Thursday, October 12, 2023 at 3:35 PM"

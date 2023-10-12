@@ -33,8 +33,8 @@ export const leaderBoardData = [
     },
     {
         "name": "Vanshika Pawan Sarda",
-        "skills": 6,
-        "trackOne": 5,
+        "skills": 7,
+        "trackOne": 6,
         "trackTwo": 1,
         "color": "green",
         "latestSkill": 1697068800000
@@ -1121,4 +1121,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Friday, October 13, 2023 at 1:23 AM"
+export const updateTime =  "Friday, October 13, 2023 at 1:39 AM"

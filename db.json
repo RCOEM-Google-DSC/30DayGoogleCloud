@@ -47,10 +47,16 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/ae507c92-2ed0-4294-89bb-50a90d894e6e",
             "enrollDate": 1695733324000,
             "isEnrollStatusGood": true,
-            "badges": [],
-            "skills": 0,
+            "badges": [
+                {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5578244",
+                    "badgeDate": 1697068800000
+                }
+            ],
+            "skills": 1,
             "trackOne": 0,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Jay Ajay Gupta",
@@ -1874,5 +1880,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Thursday, October 12, 2023 at 9:15 PM"
+    "time": "Thursday, October 12, 2023 at 9:26 PM"
 }

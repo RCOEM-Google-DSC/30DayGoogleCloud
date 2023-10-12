@@ -1515,6 +1515,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5573394",
+                    "badgeDate": 1697068800000
+                },
+                {
                     "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
                     "badgeID": "5573226",
                     "badgeDate": 1697068800000
@@ -1555,9 +1560,9 @@
                     "badgeDate": 1696809600000
                 }
             ],
-            "skills": 8,
+            "skills": 9,
             "trackOne": 8,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Pratyush Bhatt",
@@ -1841,5 +1846,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Thursday, October 12, 2023 at 3:35 PM"
+    "time": "Thursday, October 12, 2023 at 5:39 PM"
 }

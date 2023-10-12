@@ -25,10 +25,10 @@ export const leaderBoardData = [
     },
     {
         "name": "Janav Dua",
-        "skills": 8,
+        "skills": 9,
         "trackOne": 8,
-        "trackTwo": 0,
-        "color": "green",
+        "trackTwo": 1,
+        "color": "blue",
         "latestSkill": 1697068800000
     },
     {
@@ -1121,4 +1121,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Thursday, October 12, 2023 at 3:35 PM"
+export const updateTime =  "Thursday, October 12, 2023 at 5:39 PM"

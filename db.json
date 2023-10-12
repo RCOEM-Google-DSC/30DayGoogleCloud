@@ -119,9 +119,15 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/d265433e-c596-40f5-92b0-e1be82ecd2e4",
             "enrollDate": 1695734054000,
             "isEnrollStatusGood": true,
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5581534",
+                    "badgeDate": 1697068800000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0
         },
         {
@@ -1959,5 +1965,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Friday, October 13, 2023 at 1:39 AM"
+    "time": "Friday, October 13, 2023 at 1:51 AM"
 }

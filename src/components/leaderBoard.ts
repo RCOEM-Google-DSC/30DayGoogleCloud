@@ -312,6 +312,14 @@ export const leaderBoardData = [
         "latestSkill": 1697068800000
     },
     {
+        "name": "Krushna Dande",
+        "skills": 1,
+        "trackOne": 1,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1697068800000
+    },
+    {
         "name": "Onkar Sachin Pathak",
         "skills": 0,
         "trackOne": 0,
@@ -1110,15 +1118,7 @@ export const leaderBoardData = [
         "trackTwo": 0,
         "color": "black",
         "latestSkill": null
-    },
-    {
-        "name": "Krushna Dande",
-        "skills": 0,
-        "trackOne": 0,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1696723200000
     }
 ];
 
-export const updateTime =  "Thursday, October 12, 2023 at 10:10 PM"
+export const updateTime =  "Thursday, October 12, 2023 at 10:16 PM"

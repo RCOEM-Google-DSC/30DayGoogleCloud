@@ -48,6 +48,14 @@ export const leaderBoardData = [
         "latestSkill": 1697068800000
     },
     {
+        "name": "Aayush Suresh Dharpure",
+        "skills": 3,
+        "trackOne": 2,
+        "trackTwo": 1,
+        "color": "green",
+        "latestSkill": 1697068800000
+    },
+    {
         "name": "Khushi Sonkusare",
         "skills": 2,
         "trackOne": 2,
@@ -89,14 +97,6 @@ export const leaderBoardData = [
     },
     {
         "name": "Atharva Pritam Rakshak",
-        "skills": 2,
-        "trackOne": 2,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1697068800000
-    },
-    {
-        "name": "Aayush Suresh Dharpure",
         "skills": 2,
         "trackOne": 2,
         "trackTwo": 0,
@@ -1121,4 +1121,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Friday, October 13, 2023 at 12:23 AM"
+export const updateTime =  "Friday, October 13, 2023 at 12:37 AM"

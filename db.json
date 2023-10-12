@@ -999,6 +999,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5580821",
+                    "badgeDate": 1697068800000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
                     "badgeID": "5576273",
                     "badgeDate": 1697068800000
@@ -1009,9 +1014,9 @@
                     "badgeDate": 1696809600000
                 }
             ],
-            "skills": 2,
+            "skills": 3,
             "trackOne": 2,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "kritank singh",
@@ -1939,5 +1944,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Friday, October 13, 2023 at 12:23 AM"
+    "time": "Friday, October 13, 2023 at 12:37 AM"
 }

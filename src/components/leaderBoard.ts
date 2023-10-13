@@ -136,6 +136,14 @@ export const leaderBoardData = [
         "latestSkill": 1697068800000
     },
     {
+        "name": "Meharsh Mohitkumar Chandure",
+        "skills": 2,
+        "trackOne": 2,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1697155200000
+    },
+    {
         "name": "Khushi Ajay Mantri",
         "skills": 2,
         "trackOne": 2,
@@ -174,14 +182,6 @@ export const leaderBoardData = [
         "trackTwo": 1,
         "color": "green",
         "latestSkill": 1697155200000
-    },
-    {
-        "name": "Meharsh Mohitkumar Chandure",
-        "skills": 1,
-        "trackOne": 1,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1696636800000
     },
     {
         "name": "Jagriti Radheshyam Sharma",
@@ -1153,4 +1153,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Saturday, October 14, 2023 at 12:54 AM"
+export const updateTime =  "Saturday, October 14, 2023 at 1:04 AM"

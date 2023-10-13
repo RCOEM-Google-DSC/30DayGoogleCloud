@@ -1380,6 +1380,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Create and Manage Cloud Resources",
+                    "badgeID": "5591812",
+                    "badgeDate": 1697155200000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
                     "badgeID": "5589374",
                     "badgeDate": 1697155200000
@@ -1400,8 +1405,8 @@
                     "badgeDate": 1697068800000
                 }
             ],
-            "skills": 4,
-            "trackOne": 3,
+            "skills": 5,
+            "trackOne": 4,
             "trackTwo": 1
         },
         {
@@ -2028,5 +2033,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Friday, October 13, 2023 at 10:39 PM"
+    "time": "Friday, October 13, 2023 at 10:53 PM"
 }

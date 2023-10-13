@@ -1,6 +1,32 @@
 {
     "participants": [
         {
+            "name": "Tanisha Avinash Bharvesh",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/1f0ca009-c2c6-4c06-9943-f102f322cfe1",
+            "enrollDate": 1695712902000,
+            "isEnrollStatusGood": true,
+            "badges": [
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
+                    "badgeID": "5538359",
+                    "badgeDate": 1696809600000
+                },
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
+                    "badgeID": "5499953",
+                    "badgeDate": 1696550400000
+                },
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5499251",
+                    "badgeDate": 1696550400000
+                }
+            ],
+            "skills": 3,
+            "trackOne": 3,
+            "trackTwo": 0
+        },
+        {
             "name": "Onkar Sachin Pathak",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/9fe52107-4b45-4782-939e-6e2df9d7f495",
             "enrollDate": 1695732971000,
@@ -368,18 +394,12 @@
         },
         {
             "name": "Saket Anand Rathi",
-            "profileLink": "https://www.cloudskillsboost.google/public_profiles/e50465ad-b0c4-4fff-a65d-ede94445ece7",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/0d5bdf7f-b72f-4271-905e-5ab75802103f",
             "enrollDate": 1695736718000,
             "isEnrollStatusGood": true,
-            "badges": [
-                {
-                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
-                    "badgeID": "5578074",
-                    "badgeDate": 1697068800000
-                }
-            ],
-            "skills": 1,
-            "trackOne": 1,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
             "trackTwo": 0
         },
         {
@@ -922,6 +942,32 @@
             "trackTwo": 0
         },
         {
+            "name": "Jaya Singh",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/4e590b97-620f-4357-a03e-e503d055b016",
+            "enrollDate": 1695738533000,
+            "isEnrollStatusGood": true,
+            "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Vaibhav Rajendrasingh Gautam",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/fa9fbe61-c18d-4e0c-a49e-51c65abbe534",
+            "enrollDate": 1695738596000,
+            "isEnrollStatusGood": true,
+            "badges": [
+                {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "5563657",
+                    "badgeDate": 1696982400000
+                }
+            ],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
             "name": "Ananya Raut",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/2bee50ba-b260-426e-a72f-979d58bde05a",
             "enrollDate": 1695738606000,
@@ -1193,6 +1239,22 @@
             "enrollDate": 1695741284000,
             "isEnrollStatusGood": true,
             "badges": [],
+            "skills": 0,
+            "trackOne": 0,
+            "trackTwo": 0
+        },
+        {
+            "name": "Vedant Prashant Madhwe",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/5b805327-2cae-4468-bf30-01ad572b73ed",
+            "enrollDate": 1695741304000,
+            "isEnrollStatusGood": true,
+            "badges": [
+                {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "5491550",
+                    "badgeDate": 1696464000000
+                }
+            ],
             "skills": 0,
             "trackOne": 0,
             "trackTwo": 0
@@ -2038,5 +2100,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Friday, October 13, 2023 at 11:42 PM"
+    "time": "Saturday, October 14, 2023 at 12:02 AM"
 }

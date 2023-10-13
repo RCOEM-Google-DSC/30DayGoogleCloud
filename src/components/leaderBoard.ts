@@ -64,6 +64,14 @@ export const leaderBoardData = [
         "latestSkill": 1697068800000
     },
     {
+        "name": "Tanisha Avinash Bharvesh",
+        "skills": 3,
+        "trackOne": 3,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1696809600000
+    },
+    {
         "name": "Himanshu Sadhwani",
         "skills": 3,
         "trackOne": 2,
@@ -328,14 +336,6 @@ export const leaderBoardData = [
         "latestSkill": 1697068800000
     },
     {
-        "name": "Saket Anand Rathi",
-        "skills": 1,
-        "trackOne": 1,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1697068800000
-    },
-    {
         "name": "Gaurav Singh",
         "skills": 1,
         "trackOne": 1,
@@ -473,6 +473,14 @@ export const leaderBoardData = [
     },
     {
         "name": "Atharva Devkant Bhakane",
+        "skills": 0,
+        "trackOne": 0,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": null
+    },
+    {
+        "name": "Saket Anand Rathi",
         "skills": 0,
         "trackOne": 0,
         "trackTwo": 0,
@@ -633,6 +641,14 @@ export const leaderBoardData = [
     },
     {
         "name": "Rashi R. Potey",
+        "skills": 0,
+        "trackOne": 0,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": null
+    },
+    {
+        "name": "Jaya Singh",
         "skills": 0,
         "trackOne": 0,
         "trackTwo": 0,
@@ -1118,7 +1134,23 @@ export const leaderBoardData = [
         "trackTwo": 0,
         "color": "black",
         "latestSkill": null
+    },
+    {
+        "name": "Vedant Prashant Madhwe",
+        "skills": 0,
+        "trackOne": 0,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1696464000000
+    },
+    {
+        "name": "Vaibhav Rajendrasingh Gautam",
+        "skills": 0,
+        "trackOne": 0,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1696982400000
     }
 ];
 
-export const updateTime =  "Friday, October 13, 2023 at 11:42 PM"
+export const updateTime =  "Saturday, October 14, 2023 at 12:02 AM"

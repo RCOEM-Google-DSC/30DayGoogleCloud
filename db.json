@@ -1501,10 +1501,16 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/1845f1ac-c0e1-4b65-9896-875c3ab1ddda",
             "enrollDate": 1695748415000,
             "isEnrollStatusGood": true,
-            "badges": [],
-            "skills": 0,
+            "badges": [
+                {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5593696",
+                    "badgeDate": 1697155200000
+                }
+            ],
+            "skills": 1,
             "trackOne": 0,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Rudra Ranjan",
@@ -2110,5 +2116,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Saturday, October 14, 2023 at 12:48 AM"
+    "time": "Saturday, October 14, 2023 at 12:54 AM"
 }

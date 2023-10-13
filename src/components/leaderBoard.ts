@@ -40,20 +40,20 @@ export const leaderBoardData = [
         "latestSkill": 1697068800000
     },
     {
+        "name": "Abhishek Kishorkumar Lakhote",
+        "skills": 4,
+        "trackOne": 4,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1697155200000
+    },
+    {
         "name": "Aishwary Jayant Gathe",
         "skills": 4,
         "trackOne": 3,
         "trackTwo": 1,
         "color": "green",
         "latestSkill": 1697068800000
-    },
-    {
-        "name": "Abhishek Kishorkumar Lakhote",
-        "skills": 3,
-        "trackOne": 3,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1697155200000
     },
     {
         "name": "Himanshu Sadhwani",
@@ -1121,4 +1121,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Friday, October 13, 2023 at 5:46 PM"
+export const updateTime =  "Friday, October 13, 2023 at 6:15 PM"

@@ -41,8 +41,8 @@ export const leaderBoardData = [
     },
     {
         "name": "Prathamesh Ratthe",
-        "skills": 6,
-        "trackOne": 5,
+        "skills": 7,
+        "trackOne": 6,
         "trackTwo": 1,
         "color": "green",
         "latestSkill": 1697155200000
@@ -1153,4 +1153,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Saturday, October 14, 2023 at 12:24 AM"
+export const updateTime =  "Saturday, October 14, 2023 at 12:37 AM"

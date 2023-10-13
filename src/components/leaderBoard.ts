@@ -33,11 +33,11 @@ export const leaderBoardData = [
     },
     {
         "name": "Vanshika Pawan Sarda",
-        "skills": 7,
-        "trackOne": 6,
+        "skills": 8,
+        "trackOne": 7,
         "trackTwo": 1,
         "color": "green",
-        "latestSkill": 1697068800000
+        "latestSkill": 1697155200000
     },
     {
         "name": "Abhishek Kishorkumar Lakhote",
@@ -1121,4 +1121,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Friday, October 13, 2023 at 7:55 PM"
+export const updateTime =  "Friday, October 13, 2023 at 8:05 PM"

@@ -1836,6 +1836,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
+                    "badgeID": "5607522",
+                    "badgeDate": 1697241600000
+                },
+                {
                     "badgeName": "Introduction to Generative AI",
                     "badgeID": "5604013",
                     "badgeDate": 1697241600000
@@ -1851,8 +1856,8 @@
                     "badgeDate": 1696809600000
                 }
             ],
-            "skills": 2,
-            "trackOne": 1,
+            "skills": 3,
+            "trackOne": 2,
             "trackTwo": 1
         },
         {
@@ -2198,5 +2203,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Sunday, October 15, 2023 at 12:47 AM"
+    "time": "Sunday, October 15, 2023 at 12:54 AM"
 }

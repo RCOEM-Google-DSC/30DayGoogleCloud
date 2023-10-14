@@ -2024,6 +2024,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5599564",
+                    "badgeDate": 1697241600000
+                },
+                {
                     "badgeName": "Introduction to Generative AI",
                     "badgeID": "5550878",
                     "badgeDate": 1696896000000
@@ -2034,8 +2039,8 @@
                     "badgeDate": 1696896000000
                 }
             ],
-            "skills": 1,
-            "trackOne": 0,
+            "skills": 2,
+            "trackOne": 1,
             "trackTwo": 1
         },
         {
@@ -2183,5 +2188,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Saturday, October 14, 2023 at 3:24 PM"
+    "time": "Saturday, October 14, 2023 at 3:39 PM"
 }

@@ -1831,14 +1831,19 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5603908",
+                    "badgeDate": 1697241600000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
                     "badgeID": "5535009",
                     "badgeDate": 1696809600000
                 }
             ],
-            "skills": 1,
+            "skills": 2,
             "trackOne": 1,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Janav Dua",
@@ -2183,5 +2188,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Saturday, October 14, 2023 at 8:57 PM"
+    "time": "Saturday, October 14, 2023 at 9:04 PM"
 }

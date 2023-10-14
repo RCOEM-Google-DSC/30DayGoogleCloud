@@ -1831,6 +1831,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "5604013",
+                    "badgeDate": 1697241600000
+                },
+                {
                     "badgeName": "Level 3 GenAI: Prompt Engineering",
                     "badgeID": "5603908",
                     "badgeDate": 1697241600000
@@ -2188,5 +2193,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Saturday, October 14, 2023 at 9:04 PM"
+    "time": "Saturday, October 14, 2023 at 9:14 PM"
 }

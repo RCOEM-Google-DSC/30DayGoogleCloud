@@ -1,37 +1,6 @@
 {
     "participants": [
         {
-            "name": "Tanisha Avinash Bharvesh",
-            "profileLink": "https://www.cloudskillsboost.google/public_profiles/1f0ca009-c2c6-4c06-9943-f102f322cfe1",
-            "enrollDate": 1695712902000,
-            "isEnrollStatusGood": true,
-            "badges": [
-                {
-                    "badgeName": "Create and Manage Cloud Resources",
-                    "badgeID": "5594756",
-                    "badgeDate": 1697155200000
-                },
-                {
-                    "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
-                    "badgeID": "5538359",
-                    "badgeDate": 1696809600000
-                },
-                {
-                    "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
-                    "badgeID": "5499953",
-                    "badgeDate": 1696550400000
-                },
-                {
-                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
-                    "badgeID": "5499251",
-                    "badgeDate": 1696550400000
-                }
-            ],
-            "skills": 4,
-            "trackOne": 4,
-            "trackTwo": 0
-        },
-        {
             "name": "Onkar Sachin Pathak",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/9fe52107-4b45-4782-939e-6e2df9d7f495",
             "enrollDate": 1695732971000,
@@ -2214,5 +2183,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Saturday, October 14, 2023 at 8:39 PM"
+    "time": "Saturday, October 14, 2023 at 8:57 PM"
 }

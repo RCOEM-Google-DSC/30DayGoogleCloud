@@ -85,13 +85,18 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5599445",
+                    "badgeDate": 1697241600000
+                },
+                {
                     "badgeName": "Level 3 GenAI: Prompt Engineering",
                     "badgeID": "5578244",
                     "badgeDate": 1697068800000
                 }
             ],
-            "skills": 1,
-            "trackOne": 0,
+            "skills": 2,
+            "trackOne": 1,
             "trackTwo": 1
         },
         {
@@ -2178,5 +2183,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Saturday, October 14, 2023 at 3:15 PM"
+    "time": "Saturday, October 14, 2023 at 3:24 PM"
 }

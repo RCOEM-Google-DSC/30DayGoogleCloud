@@ -1134,6 +1134,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
+                    "badgeID": "5597606",
+                    "badgeDate": 1697241600000
+                },
+                {
                     "badgeName": "Level 3 GenAI: Prompt Engineering",
                     "badgeID": "5580821",
                     "badgeDate": 1697068800000
@@ -1149,8 +1154,8 @@
                     "badgeDate": 1696809600000
                 }
             ],
-            "skills": 3,
-            "trackOne": 2,
+            "skills": 4,
+            "trackOne": 3,
             "trackTwo": 1
         },
         {
@@ -2153,5 +2158,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Saturday, October 14, 2023 at 12:38 PM"
+    "time": "Saturday, October 14, 2023 at 12:49 PM"
 }

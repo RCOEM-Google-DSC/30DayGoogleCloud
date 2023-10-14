@@ -21,7 +21,7 @@ export function LB({ search }: LBProps) {
 				<TableRow>
 					<TableHead className="w-[2rem]">Rank</TableHead>
 					<TableHead>Name</TableHead>
-					<TableHead className="text-center">GCCP</TableHead>
+					<TableHead className="text-center">GCCF</TableHead>
 					<TableHead className="text-center">Gen AI</TableHead>
 				</TableRow>
 			</TableHeader>

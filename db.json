@@ -994,6 +994,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Understanding Google Cloud Security and Operations",
+                    "badgeID": "5611334",
+                    "badgeDate": 1697328000000
+                },
+                {
                     "badgeName": "Infrastructure and Application Modernization with Google Cloud",
                     "badgeID": "5611016",
                     "badgeDate": 1697328000000
@@ -2218,5 +2223,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Sunday, October 15, 2023 at 12:14 PM"
+    "time": "Sunday, October 15, 2023 at 12:24 PM"
 }

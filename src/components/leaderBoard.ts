@@ -400,6 +400,14 @@ export const leaderBoardData = [
         "latestSkill": 1697241600000
     },
     {
+        "name": "Vaibhav Rajendrasingh Gautam",
+        "skills": 1,
+        "trackOne": 0,
+        "trackTwo": 1,
+        "color": "green",
+        "latestSkill": 1697328000000
+    },
+    {
         "name": "Onkar Sachin Pathak",
         "skills": 0,
         "trackOne": 0,
@@ -1134,15 +1142,7 @@ export const leaderBoardData = [
         "trackTwo": 0,
         "color": "black",
         "latestSkill": 1696464000000
-    },
-    {
-        "name": "Vaibhav Rajendrasingh Gautam",
-        "skills": 0,
-        "trackOne": 0,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1696982400000
     }
 ];
 
-export const updateTime =  "Sunday, October 15, 2023 at 9:24 AM"
+export const updateTime =  "Sunday, October 15, 2023 at 9:40 AM"

@@ -994,6 +994,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Infrastructure and Application Modernization with Google Cloud",
+                    "badgeID": "5611016",
+                    "badgeDate": 1697328000000
+                },
+                {
                     "badgeName": "Innovating with Data and Google Cloud",
                     "badgeID": "5610037",
                     "badgeDate": 1697328000000
@@ -2213,5 +2218,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Sunday, October 15, 2023 at 11:42 AM"
+    "time": "Sunday, October 15, 2023 at 11:57 AM"
 }

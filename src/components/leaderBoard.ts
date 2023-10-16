@@ -1145,4 +1145,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Tuesday, October 17, 2023 at 3:15 AM"
+export const updateTime =  "Tuesday, October 17, 2023 at 3:25 AM"

@@ -54,6 +54,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+                    "badgeID": "5627500",
+                    "badgeDate": 1697414400000
+                },
+                {
                     "badgeName": "Create and Manage Cloud Resources",
                     "badgeID": "5602979",
                     "badgeDate": 1697241600000
@@ -84,8 +89,8 @@
                     "badgeDate": 1697068800000
                 }
             ],
-            "skills": 6,
-            "trackOne": 5,
+            "skills": 7,
+            "trackOne": 6,
             "trackTwo": 1
         },
         {
@@ -2233,5 +2238,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Monday, October 16, 2023 at 1:24 PM"
+    "time": "Monday, October 16, 2023 at 1:43 PM"
 }

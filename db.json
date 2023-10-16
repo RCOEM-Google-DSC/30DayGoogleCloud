@@ -151,6 +151,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5624984",
+                    "badgeDate": 1697414400000
+                },
+                {
                     "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
                     "badgeID": "5624947",
                     "badgeDate": 1697414400000
@@ -191,9 +196,9 @@
                     "badgeDate": 1697068800000
                 }
             ],
-            "skills": 8,
+            "skills": 9,
             "trackOne": 8,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Tushar Pamnani",
@@ -2228,5 +2233,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Monday, October 16, 2023 at 10:40 AM"
+    "time": "Monday, October 16, 2023 at 10:48 AM"
 }

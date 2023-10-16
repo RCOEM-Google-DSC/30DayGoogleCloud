@@ -49,10 +49,10 @@ export const leaderBoardData = [
     },
     {
         "name": "Abhishek Kishorkumar Lakhote",
-        "skills": 8,
+        "skills": 9,
         "trackOne": 8,
-        "trackTwo": 0,
-        "color": "green",
+        "trackTwo": 1,
+        "color": "blue",
         "latestSkill": 1697414400000
     },
     {
@@ -1145,4 +1145,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Monday, October 16, 2023 at 10:40 AM"
+export const updateTime =  "Monday, October 16, 2023 at 10:48 AM"

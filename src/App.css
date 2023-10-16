@@ -32,11 +32,11 @@ body,
 	width: 95vw;
 }
 
-.switch_thumb[data-state="checked"] > .sun {
+.switch_thumb[data-state='checked'] > .sun {
 	display: none;
 }
 
-.switch_thumb[data-state="unchecked"] > .moon {
+.switch_thumb[data-state='unchecked'] > .moon {
 	display: none;
 }
 
@@ -51,14 +51,14 @@ body,
 .menu::before,
 .menu::after {
 	display: block;
-	background-color: hsl(var(--foreground));
+	background-color: hsl(var(--secondary));
 	position: absolute;
 	left: 0;
 	height: 0.2rem;
 	width: 2rem;
 	transition: transform 500ms cubic-bezier(0.25, 1, 0.75, 1);
 	border-radius: 2px;
-	content: "";
+	content: '';
 }
 
 .menu {
@@ -131,7 +131,7 @@ body,
 .blue::after,
 .green::after,
 .black::after {
-	content: "";
+	content: '';
 	background: linear-gradient(90deg, var(--blue) 1%, transparent);
 	left: 0px;
 	bottom: 10%;

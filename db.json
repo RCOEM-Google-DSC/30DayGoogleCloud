@@ -227,6 +227,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud",
+                    "badgeID": "5668816",
+                    "badgeDate": 1697587200000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
                     "badgeID": "5647516",
                     "badgeDate": 1697500800000
@@ -247,8 +252,8 @@
                     "badgeDate": 1696809600000
                 }
             ],
-            "skills": 4,
-            "trackOne": 3,
+            "skills": 5,
+            "trackOne": 4,
             "trackTwo": 1
         },
         {
@@ -2269,5 +2274,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Thursday, October 19, 2023 at 12:55 AM"
+    "time": "Thursday, October 19, 2023 at 1:04 AM"
 }

@@ -54,6 +54,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
+                    "badgeID": "5658866",
+                    "badgeDate": 1697587200000
+                },
+                {
                     "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
                     "badgeID": "5627500",
                     "badgeDate": 1697414400000
@@ -89,8 +94,8 @@
                     "badgeDate": 1697068800000
                 }
             ],
-            "skills": 7,
-            "trackOne": 6,
+            "skills": 8,
+            "trackOne": 7,
             "trackTwo": 1
         },
         {
@@ -2254,5 +2259,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Wednesday, October 18, 2023 at 1:42 PM"
+    "time": "Wednesday, October 18, 2023 at 1:59 PM"
 }

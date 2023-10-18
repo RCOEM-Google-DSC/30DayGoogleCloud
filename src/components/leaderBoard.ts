@@ -65,8 +65,8 @@ export const leaderBoardData = [
     },
     {
         "name": "Aayush Suresh Dharpure",
-        "skills": 6,
-        "trackOne": 5,
+        "skills": 7,
+        "trackOne": 6,
         "trackTwo": 1,
         "color": "green",
         "latestSkill": 1697587200000
@@ -1145,4 +1145,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Wednesday, October 18, 2023 at 7:40 PM"
+export const updateTime =  "Wednesday, October 18, 2023 at 7:56 PM"

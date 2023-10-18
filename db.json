@@ -1189,6 +1189,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Create and Manage Cloud Resources",
+                    "badgeID": "5663800",
+                    "badgeDate": 1697587200000
+                },
+                {
                     "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
                     "badgeID": "5663349",
                     "badgeDate": 1697587200000
@@ -1219,8 +1224,8 @@
                     "badgeDate": 1696809600000
                 }
             ],
-            "skills": 6,
-            "trackOne": 5,
+            "skills": 7,
+            "trackOne": 6,
             "trackTwo": 1
         },
         {
@@ -2264,5 +2269,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Wednesday, October 18, 2023 at 7:40 PM"
+    "time": "Wednesday, October 18, 2023 at 7:56 PM"
 }

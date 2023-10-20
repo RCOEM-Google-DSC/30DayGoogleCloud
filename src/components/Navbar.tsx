@@ -1,19 +1,28 @@
-import { Switch } from "@/components/ui/switch";
-import { useTheme } from "./theme-provider";
-import logo from "/logo.svg";
-import { useEffect } from "react";
-import { Burger } from "./Burger";
-import { Link } from "./Link";
+import { Switch } from '@/components/ui/switch';
+import { useTheme } from './theme-provider';
+import logo from '/logo.svg';
+import { useEffect } from 'react';
+import { Burger } from './Burger';
+import { Link } from './Link';
 
 export function Navbar() {
 	const { theme, setTheme } = useTheme();
-	const toggleTheme = () => (theme === "light" ? setTheme("dark") : setTheme("light"));
+	const toggleTheme = () => (theme === 'light' ? setTheme('dark') : setTheme('light'));
 
 	useEffect(() => {
-		const button = document.querySelector(".switch")!;
-		const thumb = document.querySelector(".switch_thumb")!;
-		button.setAttribute("data-state", theme === "dark" ? "checked" : "unchecked");
-		thumb.setAttribute("data-state", theme === "dark" ? "checked" : "unchecked");
+		const toggle = (e: KeyboardEvent) => {
+			e.preventDefault();
+			if (e.altKey && e.code === 'KeyD') toggleTheme();
+		};
+		document.addEventListener('keydown', toggle);
+		return () => document.removeEventListener('keydown', toggle);
+	}, [toggleTheme]);
+
+	useEffect(() => {
+		const button = document.querySelector('.switch')!;
+		const thumb = document.querySelector('.switch_thumb')!;
+		button.setAttribute('data-state', theme === 'dark' ? 'checked' : 'unchecked');
+		thumb.setAttribute('data-state', theme === 'dark' ? 'checked' : 'unchecked');
 	}, [theme]);
 
 	return (
@@ -24,17 +33,10 @@ export function Navbar() {
 				<h3 className="text-xl font-medium uppercase tracking-wide text-secondary max-md:hidden">
 					Google Cloud Study Jams
 				</h3>
-				<h3 className="text-xl font-medium uppercase tracking-wide text-secondary hidden max-md:block">
-					Study Jams
-				</h3>
+				<h3 className="hidden text-xl font-medium uppercase tracking-wide text-secondary max-md:block">Study Jams</h3>
 			</div>
 			<div className="flex w-2/3 justify-end gap-11 text-xl uppercase">
-				<Link
-					href="https://events.withgoogle.com/cloud-studyjam/"
-					text="Home"
-					newTab
-					className="max-md:hidden"
-				/>
+				<Link href="https://events.withgoogle.com/cloud-studyjam/" text="Home" newTab className="max-md:hidden" />
 				<Link href="#leaderboard" text="Leaderboard" className="max-md:hidden" />
 				<Link href="#footer" text="About" className="max-md:hidden" />
 				<Switch onClick={toggleTheme} />

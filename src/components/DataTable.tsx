@@ -39,7 +39,7 @@ export function DataTable<TData, TValue>({ columns, data }: DataTableProps<TData
 							table.getRowModel().rows.map((row) => (
 								<TableRow className="max-md:h-12" key={row.id} data-state={row.getIsSelected() && 'selected'}>
 									{row.getVisibleCells().map((cell) => (
-										<TableCell className="p-0 h-12" key={cell.id}>
+										<TableCell className="h-12 p-0" key={cell.id}>
 											{flexRender(cell.column.columnDef.cell, cell.getContext())}
 										</TableCell>
 									))}
@@ -59,12 +59,19 @@ export function DataTable<TData, TValue>({ columns, data }: DataTableProps<TData
 				<Button
 					variant="outline"
 					size="default"
+					className="text-secondary shadow-blue-400"
 					onClick={() => table.previousPage()}
 					disabled={!table.getCanPreviousPage()}
 				>
 					Previous
 				</Button>
-				<Button variant="outline" size="default" onClick={() => table.nextPage()} disabled={!table.getCanNextPage()}>
+				<Button
+					variant="outline"
+					className="text-secondary shadow-green-400"
+					size="default"
+					onClick={() => table.nextPage()}
+					disabled={!table.getCanNextPage()}
+				>
 					Next
 				</Button>
 			</div>

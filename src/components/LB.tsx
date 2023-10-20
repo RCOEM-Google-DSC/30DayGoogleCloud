@@ -20,7 +20,7 @@ export function LB({ search }: LBProps) {
 		gen: r.trackTwo,
 	}));
 	return (
-		<div className="my-4 w-4/5 max-md:w-[92vw]">
+		<div id="leaderboard" className="my-4 w-4/5 max-md:w-[92vw]">
 			<DataTable columns={columns} data={rows} />
 		</div>
 	);

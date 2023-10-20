@@ -65,11 +65,11 @@ export const leaderBoardData = [
     },
     {
         "name": "Aayush Suresh Dharpure",
-        "skills": 7,
-        "trackOne": 6,
+        "skills": 8,
+        "trackOne": 7,
         "trackTwo": 1,
         "color": "green",
-        "latestSkill": 1697587200000
+        "latestSkill": 1697760000000
     },
     {
         "name": "Himanshu Sadhwani",
@@ -1145,4 +1145,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Friday, October 20, 2023 at 10:54 AM"
+export const updateTime =  "Friday, October 20, 2023 at 11:04 AM"

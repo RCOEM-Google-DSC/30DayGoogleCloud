@@ -192,6 +192,14 @@ export const leaderBoardData = [
         "latestSkill": 1697241600000
     },
     {
+        "name": "Devesh Ashish Vyas",
+        "skills": 2,
+        "trackOne": 2,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1697760000000
+    },
+    {
         "name": "Harshika Manish Rathod",
         "skills": 2,
         "trackOne": 1,
@@ -361,14 +369,6 @@ export const leaderBoardData = [
     },
     {
         "name": "Gaurav Singh",
-        "skills": 1,
-        "trackOne": 1,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1697068800000
-    },
-    {
-        "name": "Devesh Ashish Vyas",
         "skills": 1,
         "trackOne": 1,
         "trackTwo": 0,
@@ -1145,4 +1145,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Friday, October 20, 2023 at 3:24 PM"
+export const updateTime =  "Friday, October 20, 2023 at 3:40 PM"

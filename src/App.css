@@ -157,9 +157,11 @@ body,
 }
 
 .footer {
-	background: url(/images/bg.svg) no-repeat;
+	background: url(/images/bg.svg);
 	background-position: bottom;
+	background-repeat: repeat-x;
 	background-size: 70%;
+	animation: bgMove 180s ease-in-out alternate infinite;
 }
 
 @media not all and (min-width: 768px) {
@@ -169,5 +171,52 @@ body,
 	#footer {
 		backdrop-filter: blur(30px);
 		-webkit-backdrop-filter: blur(30px);
+	}
+}
+
+@keyframes bgMove {
+	0% {
+		background-position: 0 0;
+		background-size: 50%;
+	}
+	10% {
+		background-position: 10% 10%;
+		background-size: 170%;
+	}
+	20% {
+		background-position: 60% -10%;
+		background-size: 30%;
+	}
+	30% {
+		background-position: 30% 30%;
+		background-size: 50%;
+	}
+	40% {
+		background-position: 100% 0;
+		background-size: 70%;
+	}
+	50% {
+		background-position: bottom;
+		background-size: 150%;
+	}
+	60% {
+		background-position: 10% 10%;
+		background-size: 70%;
+	}
+	70% {
+		background-position: 60% -10%;
+		background-size: 30%;
+	}
+	80% {
+		background-position: 30% 30%;
+		background-size: 50%;
+	}
+	90% {
+		background-position: 100% 0;
+		background-size: 70%;
+	}
+	100% {
+		background-position: 100% 0;
+		background-size: 80%;
 	}
 }

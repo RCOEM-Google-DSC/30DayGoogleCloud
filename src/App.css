@@ -125,7 +125,7 @@ body,
 .green,
 .black {
 	position: relative;
-	overflow: hidden;
+	/* overflow: hidden; */
 }
 
 .blue::after,
@@ -133,11 +133,11 @@ body,
 .black::after {
 	content: '';
 	background: linear-gradient(90deg, var(--blue) 1%, transparent);
-	left: 0px;
-	bottom: 10%;
+	left: 0;
 	height: 80%;
+	bottom: 10%;
 	width: 0.5rem;
-	border-radius: 0 0.2rem 0.2rem 0;
+	border-radius: 0 0.25rem 0.25rem 0;
 	position: absolute;
 }
 

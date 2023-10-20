@@ -8,8 +8,8 @@ export function Details() {
 			<div className="flex flex-col">
 				<p className="text-center text-primary uppercase">Legend</p>
 				<div className="flex max-md:flex-col justify-around">
-					<div className="blue pl-4 text-primary max-md:border-b-[1px]">Both Tracks</div>
-					<div className="green pl-4 text-primary">Single Track</div>
+					<div className="blue pl-4 h-8 text-primary max-md:border-b-[1px] flex items-center">Both Tracks</div>
+					<div className="green pl-4 h-8 text-primary flex items-center">Single Track</div>
 				</div>
 				<span className="text-gray-400 text-sm drop-shadow-md p-2 font-light">Last Updated: {updateTime}</span>
 			</div>

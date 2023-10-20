@@ -1219,6 +1219,16 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "5687231",
+                    "badgeDate": 1697760000000
+                },
+                {
+                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+                    "badgeID": "5687114",
+                    "badgeDate": 1697760000000
+                },
+                {
                     "badgeName": "Build and Secure Networks in Google Cloud",
                     "badgeID": "5686559",
                     "badgeDate": 1697760000000
@@ -1259,8 +1269,8 @@
                     "badgeDate": 1696809600000
                 }
             ],
-            "skills": 8,
-            "trackOne": 7,
+            "skills": 9,
+            "trackOne": 8,
             "trackTwo": 1
         },
         {
@@ -2304,5 +2314,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Friday, October 20, 2023 at 11:43 AM"
+    "time": "Friday, October 20, 2023 at 12:02 PM"
 }

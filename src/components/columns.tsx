@@ -11,8 +11,8 @@ export const columns: ColumnDef<Columns>[] = [
 	{
 		accessorKey: 'rank',
 		header: () => <div className="w-[2rem] text-center">Rank</div>,
-		cell: ({ getValue, table }) => {
-			const data = table.getRow(String(getValue<number>() - 1)).original;
+		cell: ({ getValue, row }) => {
+			const data = row.original;
 			const color = data.gccf === 8 && data.gen === 1 ? 'blue' : data.gccf === 8 || data.gen === 1 ? 'green' : 'black';
 
 			const className = `w-[2rem] flex items-center h-8 text-center text-primary font-medium ${color} pl-4`;

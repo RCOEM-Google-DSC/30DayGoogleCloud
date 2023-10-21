@@ -598,14 +598,24 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "5705389",
+                    "badgeDate": 1697846400000
+                },
+                {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5705273",
+                    "badgeDate": 1697846400000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
                     "badgeID": "5581968",
                     "badgeDate": 1697068800000
                 }
             ],
-            "skills": 1,
+            "skills": 2,
             "trackOne": 1,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Sanchit Misra",
@@ -2370,5 +2380,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Saturday, October 21, 2023 at 4:37 PM"
+    "time": "Saturday, October 21, 2023 at 5:44 PM"
 }

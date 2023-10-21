@@ -453,13 +453,18 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
+                    "badgeID": "5710691",
+                    "badgeDate": 1697846400000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
                     "badgeID": "5578074",
                     "badgeDate": 1697068800000
                 }
             ],
-            "skills": 1,
-            "trackOne": 1,
+            "skills": 2,
+            "trackOne": 2,
             "trackTwo": 0
         },
         {
@@ -2392,5 +2397,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Saturday, October 21, 2023 at 11:40 PM"
+    "time": "Sunday, October 22, 2023 at 12:37 AM"
 }

@@ -11,8 +11,10 @@ export function Navbar() {
 
 	useEffect(() => {
 		const toggle = (e: KeyboardEvent) => {
-			e.preventDefault();
-			if (e.altKey && e.code === 'KeyD') toggleTheme();
+			if (e.altKey && e.code === 'KeyD') {
+				e.preventDefault();
+				toggleTheme();
+			}
 		};
 		document.addEventListener('keydown', toggle);
 		return () => document.removeEventListener('keydown', toggle);

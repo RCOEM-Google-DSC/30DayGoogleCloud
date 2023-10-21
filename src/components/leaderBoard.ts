@@ -424,6 +424,14 @@ export const leaderBoardData = [
         "latestSkill": 1697328000000
     },
     {
+        "name": "Ashlesha Purushottam Bhandarkar",
+        "skills": 1,
+        "trackOne": 0,
+        "trackTwo": 1,
+        "color": "green",
+        "latestSkill": 1697846400000
+    },
+    {
         "name": "Prathamesh Manoj Rokade",
         "skills": 1,
         "trackOne": 1,
@@ -1024,14 +1032,6 @@ export const leaderBoardData = [
         "latestSkill": null
     },
     {
-        "name": "Ashlesha Purushottam Bhandarkar",
-        "skills": 0,
-        "trackOne": 0,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": null
-    },
-    {
         "name": "Harsh Tiwari",
         "skills": 0,
         "trackOne": 0,
@@ -1145,4 +1145,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Sunday, October 22, 2023 at 12:37 AM"
+export const updateTime =  "Sunday, October 22, 2023 at 1:39 AM"

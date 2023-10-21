@@ -1954,10 +1954,21 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/25c3f95b-cf21-4dca-9205-478741babc61",
             "enrollDate": 1695885152000,
             "isEnrollStatusGood": true,
-            "badges": [],
-            "skills": 0,
+            "badges": [
+                {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "5711313",
+                    "badgeDate": 1697846400000
+                },
+                {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5711201",
+                    "badgeDate": 1697846400000
+                }
+            ],
+            "skills": 1,
             "trackOne": 0,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Harsh Tiwari",
@@ -2397,5 +2408,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Sunday, October 22, 2023 at 12:37 AM"
+    "time": "Sunday, October 22, 2023 at 1:39 AM"
 }

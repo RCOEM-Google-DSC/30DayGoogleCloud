@@ -81,11 +81,19 @@ export const leaderBoardData = [
     },
     {
         "name": "Himanshu Sadhwani",
-        "skills": 6,
-        "trackOne": 5,
+        "skills": 7,
+        "trackOne": 6,
         "trackTwo": 1,
         "color": "green",
-        "latestSkill": 1697846400000
+        "latestSkill": 1697932800000
+    },
+    {
+        "name": "Ayush Wankhede",
+        "skills": 5,
+        "trackOne": 4,
+        "trackTwo": 1,
+        "color": "green",
+        "latestSkill": 1697932800000
     },
     {
         "name": "Aishwary Jayant Gathe",
@@ -94,14 +102,6 @@ export const leaderBoardData = [
         "trackTwo": 1,
         "color": "green",
         "latestSkill": 1697068800000
-    },
-    {
-        "name": "Ayush Wankhede",
-        "skills": 4,
-        "trackOne": 3,
-        "trackTwo": 1,
-        "color": "green",
-        "latestSkill": 1697932800000
     },
     {
         "name": "Varad Bodkhe",
@@ -240,6 +240,14 @@ export const leaderBoardData = [
         "latestSkill": 1697932800000
     },
     {
+        "name": "Suryansh Kashyap",
+        "skills": 2,
+        "trackOne": 2,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1697932800000
+    },
+    {
         "name": "Harshika Manish Rathod",
         "skills": 2,
         "trackOne": 1,
@@ -269,7 +277,7 @@ export const leaderBoardData = [
         "trackOne": 1,
         "trackTwo": 1,
         "color": "green",
-        "latestSkill": 1697846400000
+        "latestSkill": 1697932800000
     },
     {
         "name": "Ashlesha Purushottam Bhandarkar",
@@ -438,14 +446,6 @@ export const leaderBoardData = [
         "trackTwo": 1,
         "color": "green",
         "latestSkill": 1697328000000
-    },
-    {
-        "name": "Suryansh Kashyap",
-        "skills": 1,
-        "trackOne": 1,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1697846400000
     },
     {
         "name": "Ayush Haresh Dhamecha",
@@ -1145,4 +1145,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Sunday, October 22, 2023 at 12:39 PM"
+export const updateTime =  "Sunday, October 22, 2023 at 1:40 PM"

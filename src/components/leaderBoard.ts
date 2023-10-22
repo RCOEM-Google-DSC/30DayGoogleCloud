@@ -81,10 +81,10 @@ export const leaderBoardData = [
     },
     {
         "name": "Himanshu Sadhwani",
-        "skills": 8,
-        "trackOne": 7,
+        "skills": 9,
+        "trackOne": 8,
         "trackTwo": 1,
-        "color": "green",
+        "color": "blue",
         "latestSkill": 1697932800000
     },
     {
@@ -142,6 +142,14 @@ export const leaderBoardData = [
         "trackTwo": 1,
         "color": "green",
         "latestSkill": 1697846400000
+    },
+    {
+        "name": "Gaurav Singh",
+        "skills": 3,
+        "trackOne": 2,
+        "trackTwo": 1,
+        "color": "green",
+        "latestSkill": 1697932800000
     },
     {
         "name": "Mrunal Vinod Thakre",
@@ -248,6 +256,14 @@ export const leaderBoardData = [
         "latestSkill": 1697932800000
     },
     {
+        "name": "Aditya Pratap Singh",
+        "skills": 2,
+        "trackOne": 2,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1697932800000
+    },
+    {
         "name": "Ayush Haresh Dhamecha",
         "skills": 2,
         "trackOne": 2,
@@ -278,14 +294,6 @@ export const leaderBoardData = [
         "trackTwo": 1,
         "color": "green",
         "latestSkill": 1697155200000
-    },
-    {
-        "name": "Gaurav Singh",
-        "skills": 2,
-        "trackOne": 1,
-        "trackTwo": 1,
-        "color": "green",
-        "latestSkill": 1697932800000
     },
     {
         "name": "Ashlesha Purushottam Bhandarkar",
@@ -373,14 +381,6 @@ export const leaderBoardData = [
         "trackOne": 0,
         "trackTwo": 1,
         "color": "green",
-        "latestSkill": 1696896000000
-    },
-    {
-        "name": "Aditya Pratap Singh",
-        "skills": 1,
-        "trackOne": 1,
-        "trackTwo": 0,
-        "color": "black",
         "latestSkill": 1696896000000
     },
     {
@@ -1145,4 +1145,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Sunday, October 22, 2023 at 2:38 PM"
+export const updateTime =  "Sunday, October 22, 2023 at 3:39 PM"

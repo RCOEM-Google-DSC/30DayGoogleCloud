@@ -634,6 +634,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
+                    "badgeID": "5717383",
+                    "badgeDate": 1697932800000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
                     "badgeID": "5716545",
                     "badgeDate": 1697932800000
@@ -659,8 +664,8 @@
                     "badgeDate": 1697068800000
                 }
             ],
-            "skills": 3,
-            "trackOne": 2,
+            "skills": 4,
+            "trackOne": 3,
             "trackTwo": 1
         },
         {
@@ -1268,10 +1273,21 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/bcc1c581-b7bf-4dfa-82a7-575c732c9c01",
             "enrollDate": 1695738892000,
             "isEnrollStatusGood": true,
-            "badges": [],
-            "skills": 0,
+            "badges": [
+                {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "5716909",
+                    "badgeDate": 1697932800000
+                },
+                {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5716794",
+                    "badgeDate": 1697932800000
+                }
+            ],
+            "skills": 1,
             "trackOne": 0,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Devesh Ashish Vyas",
@@ -1793,6 +1809,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5717360",
+                    "badgeDate": 1697932800000
+                },
+                {
                     "badgeName": "Introduction to Generative AI",
                     "badgeID": "5593805",
                     "badgeDate": 1697155200000
@@ -1803,8 +1824,8 @@
                     "badgeDate": 1697155200000
                 }
             ],
-            "skills": 1,
-            "trackOne": 0,
+            "skills": 2,
+            "trackOne": 1,
             "trackTwo": 1
         },
         {
@@ -1977,9 +1998,20 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/08a7f861-05f5-4e69-8eb3-1a6055b5c805",
             "enrollDate": 1695854800000,
             "isEnrollStatusGood": true,
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5717226",
+                    "badgeDate": 1697932800000
+                },
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
+                    "badgeID": "5717108",
+                    "badgeDate": 1697932800000
+                }
+            ],
+            "skills": 2,
+            "trackOne": 2,
             "trackTwo": 0
         },
         {
@@ -2315,6 +2347,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Create and Manage Cloud Resources",
+                    "badgeID": "5716991",
+                    "badgeDate": 1697932800000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
                     "badgeID": "5701578",
                     "badgeDate": 1697846400000
@@ -2335,8 +2372,8 @@
                     "badgeDate": 1696896000000
                 }
             ],
-            "skills": 3,
-            "trackOne": 2,
+            "skills": 4,
+            "trackOne": 3,
             "trackTwo": 1
         },
         {
@@ -2506,5 +2543,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Sunday, October 22, 2023 at 3:39 PM"
+    "time": "Sunday, October 22, 2023 at 4:37 PM"
 }

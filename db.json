@@ -118,9 +118,15 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/574fcd4a-1afd-479c-a8f8-c9b85c4cc261",
             "enrollDate": 1695733883000,
             "isEnrollStatusGood": true,
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5714389",
+                    "badgeDate": 1697932800000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0
         },
         {
@@ -474,13 +480,18 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
+                    "badgeID": "5714061",
+                    "badgeDate": 1697932800000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
                     "badgeID": "5525371",
                     "badgeDate": 1696723200000
                 }
             ],
-            "skills": 1,
-            "trackOne": 1,
+            "skills": 2,
+            "trackOne": 2,
             "trackTwo": 0
         },
         {
@@ -1973,6 +1984,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5714437",
+                    "badgeDate": 1697932800000
+                },
+                {
                     "badgeName": "Introduction to Generative AI",
                     "badgeID": "5711313",
                     "badgeDate": 1697846400000
@@ -1983,8 +1999,8 @@
                     "badgeDate": 1697846400000
                 }
             ],
-            "skills": 1,
-            "trackOne": 0,
+            "skills": 2,
+            "trackOne": 1,
             "trackTwo": 1
         },
         {
@@ -2030,6 +2046,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Create and Manage Cloud Resources",
+                    "badgeID": "5713950",
+                    "badgeDate": 1697932800000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
                     "badgeID": "5607522",
                     "badgeDate": 1697241600000
@@ -2050,8 +2071,8 @@
                     "badgeDate": 1696809600000
                 }
             ],
-            "skills": 3,
-            "trackOne": 2,
+            "skills": 4,
+            "trackOne": 3,
             "trackTwo": 1
         },
         {
@@ -2430,5 +2451,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Sunday, October 22, 2023 at 11:41 AM"
+    "time": "Sunday, October 22, 2023 at 12:39 PM"
 }

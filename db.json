@@ -444,13 +444,18 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
+                    "badgeID": "5731819",
+                    "badgeDate": 1698019200000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
                     "badgeID": "5524932",
                     "badgeDate": 1696723200000
                 }
             ],
-            "skills": 1,
-            "trackOne": 1,
+            "skills": 2,
+            "trackOne": 2,
             "trackTwo": 0
         },
         {
@@ -644,6 +649,11 @@
             "enrollDate": 1695736962000,
             "isEnrollStatusGood": true,
             "badges": [
+                {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "5732401",
+                    "badgeDate": 1698019200000
+                },
                 {
                     "badgeName": "Level 3 GenAI: Prompt Engineering",
                     "badgeID": "5724119",
@@ -1418,6 +1428,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5731720",
+                    "badgeDate": 1698019200000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
                     "badgeID": "5722588",
                     "badgeDate": 1697932800000
@@ -1433,9 +1448,9 @@
                     "badgeDate": 1697068800000
                 }
             ],
-            "skills": 3,
+            "skills": 4,
             "trackOne": 3,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Atharva Pritam Rakshak",
@@ -2431,6 +2446,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
+                    "badgeID": "5731937",
+                    "badgeDate": 1698019200000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
                     "badgeID": "5721341",
                     "badgeDate": 1697932800000
@@ -2451,8 +2471,8 @@
                     "badgeDate": 1697846400000
                 }
             ],
-            "skills": 3,
-            "trackOne": 2,
+            "skills": 4,
+            "trackOne": 3,
             "trackTwo": 1
         },
         {
@@ -2703,5 +2723,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Monday, October 23, 2023 at 5:46 PM"
+    "time": "Monday, October 23, 2023 at 6:43 PM"
 }

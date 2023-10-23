@@ -526,6 +526,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
+                    "badgeID": "5736051",
+                    "badgeDate": 1698019200000
+                },
+                {
                     "badgeName": "Create and Manage Cloud Resources",
                     "badgeID": "5722299",
                     "badgeDate": 1697932800000
@@ -546,8 +551,8 @@
                     "badgeDate": 1696723200000
                 }
             ],
-            "skills": 4,
-            "trackOne": 4,
+            "skills": 5,
+            "trackOne": 5,
             "trackTwo": 0
         },
         {
@@ -2309,6 +2314,16 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+                    "badgeID": "5735974",
+                    "badgeDate": 1698019200000
+                },
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud",
+                    "badgeID": "5735580",
+                    "badgeDate": 1698019200000
+                },
+                {
                     "badgeName": "Build and Secure Networks in Google Cloud",
                     "badgeID": "5715696",
                     "badgeDate": 1697932800000
@@ -2344,8 +2359,8 @@
                     "badgeDate": 1696809600000
                 }
             ],
-            "skills": 6,
-            "trackOne": 5,
+            "skills": 8,
+            "trackOne": 7,
             "trackTwo": 1
         },
         {
@@ -2744,5 +2759,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Monday, October 23, 2023 at 9:41 PM"
+    "time": "Monday, October 23, 2023 at 10:38 PM"
 }

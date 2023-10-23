@@ -59,7 +59,7 @@ export function DataTable<TData, TValue>({ columns, data }: DataTableProps<TData
 				<Button
 					variant="outline"
 					size="default"
-					className="text-secondary shadow-blue-400"
+					className="text-secondary shadow-blue-400 select-none"
 					onClick={() => table.previousPage()}
 					disabled={!table.getCanPreviousPage()}
 				>
@@ -67,7 +67,7 @@ export function DataTable<TData, TValue>({ columns, data }: DataTableProps<TData
 				</Button>
 				<Button
 					variant="outline"
-					className="text-secondary shadow-green-400"
+					className="text-secondary shadow-green-400 select-none"
 					size="default"
 					onClick={() => table.nextPage()}
 					disabled={!table.getCanNextPage()}

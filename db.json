@@ -552,6 +552,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
+                    "badgeID": "5731223",
+                    "badgeDate": 1698019200000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
                     "badgeID": "5579215",
                     "badgeDate": 1697068800000
@@ -562,8 +567,8 @@
                     "badgeDate": 1697068800000
                 }
             ],
-            "skills": 2,
-            "trackOne": 2,
+            "skills": 3,
+            "trackOne": 3,
             "trackTwo": 0
         },
         {
@@ -979,6 +984,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
+                    "badgeID": "5731421",
+                    "badgeDate": 1698019200000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
                     "badgeID": "5728411",
                     "badgeDate": 1698019200000
@@ -989,8 +999,8 @@
                     "badgeDate": 1698019200000
                 }
             ],
-            "skills": 2,
-            "trackOne": 1,
+            "skills": 3,
+            "trackOne": 2,
             "trackTwo": 1
         },
         {
@@ -1037,6 +1047,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
+                    "badgeID": "5730806",
+                    "badgeDate": 1698019200000
+                },
+                {
                     "badgeName": "Introduction to Generative AI",
                     "badgeID": "5724069",
                     "badgeDate": 1697932800000
@@ -1057,8 +1072,8 @@
                     "badgeDate": 1697846400000
                 }
             ],
-            "skills": 3,
-            "trackOne": 3,
+            "skills": 4,
+            "trackOne": 4,
             "trackTwo": 0
         },
         {
@@ -2688,5 +2703,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Monday, October 23, 2023 at 4:39 PM"
+    "time": "Monday, October 23, 2023 at 5:46 PM"
 }

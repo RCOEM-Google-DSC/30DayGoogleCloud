@@ -96,7 +96,7 @@ export const leaderBoardData = [
         "latestSkill": 1698019200000
     },
     {
-        "name": "Ayush Wankhede",
+        "name": "Gaurav Singh",
         "skills": 8,
         "trackOne": 7,
         "trackTwo": 1,
@@ -104,9 +104,17 @@ export const leaderBoardData = [
         "latestSkill": 1698019200000
     },
     {
-        "name": "Gaurav Singh",
-        "skills": 7,
-        "trackOne": 6,
+        "name": "Devesh Ashish Vyas",
+        "skills": 8,
+        "trackOne": 7,
+        "trackTwo": 1,
+        "color": "green",
+        "latestSkill": 1698019200000
+    },
+    {
+        "name": "Ayush Wankhede",
+        "skills": 8,
+        "trackOne": 7,
         "trackTwo": 1,
         "color": "green",
         "latestSkill": 1698019200000
@@ -117,14 +125,6 @@ export const leaderBoardData = [
         "trackOne": 6,
         "trackTwo": 0,
         "color": "black",
-        "latestSkill": 1698019200000
-    },
-    {
-        "name": "Devesh Ashish Vyas",
-        "skills": 6,
-        "trackOne": 5,
-        "trackTwo": 1,
-        "color": "green",
         "latestSkill": 1698019200000
     },
     {
@@ -144,6 +144,14 @@ export const leaderBoardData = [
         "latestSkill": 1697932800000
     },
     {
+        "name": "Atharva Telrandhe",
+        "skills": 5,
+        "trackOne": 4,
+        "trackTwo": 1,
+        "color": "green",
+        "latestSkill": 1698019200000
+    },
+    {
         "name": "Ayush Haresh Dhamecha",
         "skills": 4,
         "trackOne": 4,
@@ -160,7 +168,7 @@ export const leaderBoardData = [
         "latestSkill": 1697068800000
     },
     {
-        "name": "Atharva Telrandhe",
+        "name": "Aditi Kishor Thakre",
         "skills": 4,
         "trackOne": 3,
         "trackTwo": 1,
@@ -168,7 +176,7 @@ export const leaderBoardData = [
         "latestSkill": 1698019200000
     },
     {
-        "name": "Aditi Kishor Thakre",
+        "name": "Jaya Singh",
         "skills": 4,
         "trackOne": 3,
         "trackTwo": 1,
@@ -289,14 +297,6 @@ export const leaderBoardData = [
     },
     {
         "name": "Jagriti Radheshyam Sharma",
-        "skills": 3,
-        "trackOne": 2,
-        "trackTwo": 1,
-        "color": "green",
-        "latestSkill": 1698019200000
-    },
-    {
-        "name": "Jaya Singh",
         "skills": 3,
         "trackOne": 2,
         "trackTwo": 1,
@@ -1105,4 +1105,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Tuesday, October 24, 2023 at 1:39 AM"
+export const updateTime =  "Tuesday, October 24, 2023 at 2:39 AM"

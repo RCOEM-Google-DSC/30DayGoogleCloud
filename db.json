@@ -977,10 +977,16 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/a532158c-10d7-49c7-bc29-48b816cfb923",
             "enrollDate": 1695737520000,
             "isEnrollStatusGood": true,
-            "badges": [],
-            "skills": 0,
+            "badges": [
+                {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5726436",
+                    "badgeDate": 1698019200000
+                }
+            ],
+            "skills": 1,
             "trackOne": 0,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Om Ghumre",
@@ -2704,5 +2710,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Monday, October 23, 2023 at 10:39 AM"
+    "time": "Monday, October 23, 2023 at 11:43 AM"
 }

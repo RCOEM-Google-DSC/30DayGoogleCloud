@@ -656,6 +656,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5735003",
+                    "badgeDate": 1698019200000
+                },
+                {
                     "badgeName": "Introduction to Generative AI",
                     "badgeID": "5732401",
                     "badgeDate": 1698019200000
@@ -666,8 +671,8 @@
                     "badgeDate": 1697932800000
                 }
             ],
-            "skills": 1,
-            "trackOne": 0,
+            "skills": 2,
+            "trackOne": 1,
             "trackTwo": 1
         },
         {
@@ -2232,6 +2237,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
+                    "badgeID": "5735558",
+                    "badgeDate": 1698019200000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
                     "badgeID": "5723482",
                     "badgeDate": 1697932800000
@@ -2252,8 +2262,8 @@
                     "badgeDate": 1697846400000
                 }
             ],
-            "skills": 3,
-            "trackOne": 2,
+            "skills": 4,
+            "trackOne": 3,
             "trackTwo": 1
         },
         {
@@ -2734,5 +2744,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Monday, October 23, 2023 at 8:40 PM"
+    "time": "Monday, October 23, 2023 at 9:41 PM"
 }

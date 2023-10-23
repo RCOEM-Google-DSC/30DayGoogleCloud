@@ -400,6 +400,14 @@ export const leaderBoardData = [
         "latestSkill": 1697932800000
     },
     {
+        "name": "Jaya Singh",
+        "skills": 2,
+        "trackOne": 1,
+        "trackTwo": 1,
+        "color": "green",
+        "latestSkill": 1698019200000
+    },
+    {
         "name": "Mohitsingh Sahare",
         "skills": 1,
         "trackOne": 1,
@@ -525,14 +533,6 @@ export const leaderBoardData = [
         "trackOne": 1,
         "trackTwo": 0,
         "color": "black",
-        "latestSkill": 1697932800000
-    },
-    {
-        "name": "Jaya Singh",
-        "skills": 1,
-        "trackOne": 0,
-        "trackTwo": 1,
-        "color": "green",
         "latestSkill": 1697932800000
     },
     {
@@ -1105,4 +1105,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Monday, October 23, 2023 at 6:43 PM"
+export const updateTime =  "Monday, October 23, 2023 at 7:40 PM"

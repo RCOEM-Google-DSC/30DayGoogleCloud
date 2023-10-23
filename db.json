@@ -1118,7 +1118,13 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/2442fb47-659a-4d92-b4e6-0308a9ea79f8",
             "enrollDate": 1695738104000,
             "isEnrollStatusGood": true,
-            "badges": [],
+            "badges": [
+                {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "5729925",
+                    "badgeDate": 1698019200000
+                }
+            ],
             "skills": 0,
             "trackOne": 0,
             "trackTwo": 0
@@ -2682,5 +2688,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Monday, October 23, 2023 at 3:40 PM"
+    "time": "Monday, October 23, 2023 at 4:39 PM"
 }

@@ -979,13 +979,18 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5728411",
+                    "badgeDate": 1698019200000
+                },
+                {
                     "badgeName": "Level 3 GenAI: Prompt Engineering",
                     "badgeID": "5726436",
                     "badgeDate": 1698019200000
                 }
             ],
-            "skills": 1,
-            "trackOne": 0,
+            "skills": 2,
+            "trackOne": 1,
             "trackTwo": 1
         },
         {
@@ -1014,9 +1019,15 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/49558928-b834-4b0d-afcb-3b44eebd4e15",
             "enrollDate": 1695737579000,
             "isEnrollStatusGood": true,
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5728856",
+                    "badgeDate": 1698019200000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0
         },
         {
@@ -1948,9 +1959,15 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/beefab33-138e-441b-8ae2-7c062559d252",
             "enrollDate": 1695748717000,
             "isEnrollStatusGood": true,
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5728940",
+                    "badgeDate": 1698019200000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0
         },
         {
@@ -2715,5 +2732,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Monday, October 23, 2023 at 1:43 PM"
+    "time": "Monday, October 23, 2023 at 2:40 PM"
 }

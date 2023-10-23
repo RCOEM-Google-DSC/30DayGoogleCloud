@@ -1753,12 +1753,18 @@
         },
         {
             "name": "Sayyam Mutha",
-            "profileLink": "https://www.cloudskillsboost.google/public_profiles/030e3845-832b-4889-bcac-e715bf428719",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/a075f57a-3c3b-4e3a-8ccd-4318426c6ae5",
             "enrollDate": 1695744982000,
             "isEnrollStatusGood": true,
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5599832",
+                    "badgeDate": 1697241600000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0
         },
         {
@@ -1955,22 +1961,6 @@
             "trackTwo": 0
         },
         {
-            "name": "Riya S",
-            "profileLink": "https://www.cloudskillsboost.google/public_profiles/beefab33-138e-441b-8ae2-7c062559d252",
-            "enrollDate": 1695748717000,
-            "isEnrollStatusGood": true,
-            "badges": [
-                {
-                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
-                    "badgeID": "5728940",
-                    "badgeDate": 1698019200000
-                }
-            ],
-            "skills": 1,
-            "trackOne": 1,
-            "trackTwo": 0
-        },
-        {
             "name": "Sanket Suryawanshi",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/60f91e7b-9698-45e2-bf96-85ea8c5fc524",
             "enrollDate": 1695748858000,
@@ -2013,16 +2003,6 @@
             "trackTwo": 0
         },
         {
-            "name": "Samar K",
-            "profileLink": "https://www.cloudskillsboost.google/public_profiles/6f5edaae-1f29-482e-975d-ce2138c0bb51",
-            "enrollDate": 1695748912000,
-            "isEnrollStatusGood": true,
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
-            "trackTwo": 0
-        },
-        {
             "name": "Awadhesh Gosewade",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/43345cc3-6141-471e-8e2f-2196fbe47703",
             "enrollDate": 1695749056000,
@@ -2036,26 +2016,6 @@
             "name": "AADI AMIT RINGAY",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/5b46025d-37bc-4a58-b929-ebbbb197d9bc",
             "enrollDate": 1695749654000,
-            "isEnrollStatusGood": true,
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
-            "trackTwo": 0
-        },
-        {
-            "name": "Trisha L",
-            "profileLink": "https://www.cloudskillsboost.google/public_profiles/780f7839-02a0-463d-8e1a-dd5211945b9f",
-            "enrollDate": 1695750406000,
-            "isEnrollStatusGood": true,
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
-            "trackTwo": 0
-        },
-        {
-            "name": "Raj B",
-            "profileLink": "https://www.cloudskillsboost.google/public_profiles/e9602705-91ff-422d-b451-73e7b70bf21f",
-            "enrollDate": 1695750971000,
             "isEnrollStatusGood": true,
             "badges": [],
             "skills": 0,
@@ -2685,16 +2645,6 @@
             "trackTwo": 0
         },
         {
-            "name": "Tanisha Avinash",
-            "profileLink": "https://www.cloudskillsboost.google/public_profiles/c9c6425a-d6a1-4d51-abcc-27fe908068bf",
-            "enrollDate": 1695910967000,
-            "isEnrollStatusGood": true,
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
-            "trackTwo": 0
-        },
-        {
             "name": "Shinosha Rajesh Jain",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/f4196e3d-15b7-44c6-ac92-f55e4f114665",
             "enrollDate": 1695911285000,
@@ -2732,5 +2682,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Monday, October 23, 2023 at 2:40 PM"
+    "time": "Monday, October 23, 2023 at 3:40 PM"
 }

@@ -112,6 +112,14 @@ export const leaderBoardData = [
         "latestSkill": 1697932800000
     },
     {
+        "name": "Khushi Sonkusare",
+        "skills": 4,
+        "trackOne": 4,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1697932800000
+    },
+    {
         "name": "Aishwary Jayant Gathe",
         "skills": 4,
         "trackOne": 3,
@@ -144,14 +152,6 @@ export const leaderBoardData = [
         "latestSkill": 1697673600000
     },
     {
-        "name": "Khushi Sonkusare",
-        "skills": 3,
-        "trackOne": 3,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1697760000000
-    },
-    {
         "name": "Atharva Pritam Rakshak",
         "skills": 3,
         "trackOne": 3,
@@ -161,6 +161,14 @@ export const leaderBoardData = [
     },
     {
         "name": "Meharsh Mohitkumar Chandure",
+        "skills": 3,
+        "trackOne": 3,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1697932800000
+    },
+    {
+        "name": "Harshit Sahu",
         "skills": 3,
         "trackOne": 3,
         "trackTwo": 0,
@@ -304,14 +312,6 @@ export const leaderBoardData = [
         "latestSkill": 1697846400000
     },
     {
-        "name": "Harshit Sahu",
-        "skills": 2,
-        "trackOne": 2,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1697932800000
-    },
-    {
         "name": "Suryansh Kashyap",
         "skills": 2,
         "trackOne": 2,
@@ -321,6 +321,14 @@ export const leaderBoardData = [
     },
     {
         "name": "Aditya Pratap Singh",
+        "skills": 2,
+        "trackOne": 2,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1697932800000
+    },
+    {
+        "name": "Rashi R. Potey",
         "skills": 2,
         "trackOne": 2,
         "trackTwo": 0,
@@ -509,14 +517,6 @@ export const leaderBoardData = [
         "trackOne": 0,
         "trackTwo": 1,
         "color": "green",
-        "latestSkill": 1697932800000
-    },
-    {
-        "name": "Rashi R. Potey",
-        "skills": 1,
-        "trackOne": 1,
-        "trackTwo": 0,
-        "color": "black",
         "latestSkill": 1697932800000
     },
     {
@@ -1145,4 +1145,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Monday, October 23, 2023 at 8:40 AM"
+export const updateTime =  "Monday, October 23, 2023 at 9:41 AM"

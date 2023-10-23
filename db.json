@@ -131,6 +131,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
+                    "badgeID": "5725405",
+                    "badgeDate": 1697932800000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
                     "badgeID": "5718959",
                     "badgeDate": 1697932800000
@@ -141,8 +146,8 @@
                     "badgeDate": 1697932800000
                 }
             ],
-            "skills": 2,
-            "trackOne": 2,
+            "skills": 3,
+            "trackOne": 3,
             "trackTwo": 0
         },
         {
@@ -578,6 +583,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Create and Manage Cloud Resources",
+                    "badgeID": "5725567",
+                    "badgeDate": 1697932800000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
                     "badgeID": "5698284",
                     "badgeDate": 1697760000000
@@ -593,8 +603,8 @@
                     "badgeDate": 1696723200000
                 }
             ],
-            "skills": 3,
-            "trackOne": 3,
+            "skills": 4,
+            "trackOne": 4,
             "trackTwo": 0
         },
         {
@@ -1205,13 +1215,18 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
+                    "badgeID": "5725515",
+                    "badgeDate": 1697932800000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
                     "badgeID": "5717726",
                     "badgeDate": 1697932800000
                 }
             ],
-            "skills": 1,
-            "trackOne": 1,
+            "skills": 2,
+            "trackOne": 2,
             "trackTwo": 0
         },
         {
@@ -2679,5 +2694,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Monday, October 23, 2023 at 8:40 AM"
+    "time": "Monday, October 23, 2023 at 9:41 AM"
 }

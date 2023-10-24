@@ -53,16 +53,6 @@
             "trackTwo": 0
         },
         {
-            "name": "Amit Vishwakarma",
-            "profileLink": "https://www.cloudskillsboost.google/public_profiles/28be6db5-a023-4540-b099-9e864a19ae67",
-            "enrollDate": 1695733147000,
-            "isEnrollStatusGood": true,
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
-            "trackTwo": 0
-        },
-        {
             "name": "Shehzan Sheikh",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/ae507c92-2ed0-4294-89bb-50a90d894e6e",
             "enrollDate": 1695733324000,
@@ -261,16 +251,6 @@
             "skills": 9,
             "trackOne": 8,
             "trackTwo": 1
-        },
-        {
-            "name": "Prathamesh Manoj Rokade",
-            "profileLink": "https://www.cloudskillsboost.google/public_profiles/5f497d3e-976d-4b9d-ba4c-7836e4e4b16e",
-            "enrollDate": 1695734398000,
-            "isEnrollStatusGood": true,
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
-            "trackTwo": 0
         },
         {
             "name": "Tushar Pamnani",
@@ -540,16 +520,6 @@
             "trackTwo": 0
         },
         {
-            "name": "Sanchit Pahurkar",
-            "profileLink": "https://www.cloudskillsboost.google/public_profiles/8f32139d-f95e-441b-b342-7ab7c56fe44e",
-            "enrollDate": 1695736589000,
-            "isEnrollStatusGood": true,
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
-            "trackTwo": 0
-        },
-        {
             "name": "Abubakr Khanooni",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/56c84812-45b3-46dc-95f1-c2b456be3ae1",
             "enrollDate": 1695736621000,
@@ -585,6 +555,11 @@
             "enrollDate": 1695736738000,
             "isEnrollStatusGood": true,
             "badges": [
+                {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5751970",
+                    "badgeDate": 1698105600000
+                },
                 {
                     "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
                     "badgeID": "5739296",
@@ -626,9 +601,9 @@
                     "badgeDate": 1696723200000
                 }
             ],
-            "skills": 8,
+            "skills": 9,
             "trackOne": 8,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Atharva Yogesh Mundhada",
@@ -1184,6 +1159,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud",
+                    "badgeID": "5752039",
+                    "badgeDate": 1698105600000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
                     "badgeID": "5749604",
                     "badgeDate": 1698105600000
@@ -1209,8 +1189,8 @@
                     "badgeDate": 1698105600000
                 }
             ],
-            "skills": 5,
-            "trackOne": 5,
+            "skills": 6,
+            "trackOne": 6,
             "trackTwo": 0
         },
         {
@@ -1422,6 +1402,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud",
+                    "badgeID": "5751918",
+                    "badgeDate": 1698105600000
+                },
+                {
                     "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
                     "badgeID": "5751487",
                     "badgeDate": 1698105600000
@@ -1452,8 +1437,8 @@
                     "badgeDate": 1697846400000
                 }
             ],
-            "skills": 5,
-            "trackOne": 5,
+            "skills": 6,
+            "trackOne": 6,
             "trackTwo": 0
         },
         {
@@ -1787,6 +1772,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Build and Secure Networks in Google Cloud",
+                    "badgeID": "5751974",
+                    "badgeDate": 1698105600000
+                },
+                {
                     "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
                     "badgeID": "5751363",
                     "badgeDate": 1698105600000
@@ -1822,8 +1812,8 @@
                     "badgeDate": 1696809600000
                 }
             ],
-            "skills": 7,
-            "trackOne": 6,
+            "skills": 8,
+            "trackOne": 7,
             "trackTwo": 1
         },
         {
@@ -2333,16 +2323,6 @@
             "trackTwo": 0
         },
         {
-            "name": "Shinosha Rajesh Jain",
-            "profileLink": "https://www.cloudskillsboost.google/public_profiles/a4562ded-934c-424c-9655-03ebacdab51a",
-            "enrollDate": 1695745228000,
-            "isEnrollStatusGood": true,
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
-            "trackTwo": 0
-        },
-        {
             "name": "Laxita Hawelikar",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/f9b5e4bd-0622-4997-ae2c-c585b80cbb37",
             "enrollDate": 1695745450000,
@@ -2647,16 +2627,6 @@
             ],
             "skills": 1,
             "trackOne": 1,
-            "trackTwo": 0
-        },
-        {
-            "name": "Tanay Pande",
-            "profileLink": "https://www.cloudskillsboost.google/public_profiles/413e567a-cbeb-4e3a-98d4-0b65e4a350be",
-            "enrollDate": 1695794937000,
-            "isEnrollStatusGood": true,
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
             "trackTwo": 0
         },
         {
@@ -3578,5 +3548,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Tuesday, October 24, 2023 at 5:45 PM"
+    "time": "Tuesday, October 24, 2023 at 5:57 PM"
 }

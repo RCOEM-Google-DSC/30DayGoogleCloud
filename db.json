@@ -125,6 +125,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
+                    "badgeID": "5750808",
+                    "badgeDate": 1698105600000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
                     "badgeID": "5748704",
                     "badgeDate": 1698105600000
@@ -135,8 +140,8 @@
                     "badgeDate": 1697932800000
                 }
             ],
-            "skills": 2,
-            "trackOne": 2,
+            "skills": 3,
+            "trackOne": 3,
             "trackTwo": 0
         },
         {
@@ -632,6 +637,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5751221",
+                    "badgeDate": 1698105600000
+                },
+                {
                     "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
                     "badgeID": "5749324",
                     "badgeDate": 1698105600000
@@ -672,9 +682,9 @@
                     "badgeDate": 1697068800000
                 }
             ],
-            "skills": 8,
+            "skills": 9,
             "trackOne": 8,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Om Aryan",
@@ -861,32 +871,6 @@
             "trackTwo": 1
         },
         {
-            "name": "Pratyush Bhatt",
-            "profileLink": "https://www.cloudskillsboost.google/public_profiles/df73fa26-3d00-4489-b998-fe3e6944923f",
-            "enrollDate": 1695736979000,
-            "isEnrollStatusGood": true,
-            "badges": [
-                {
-                    "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
-                    "badgeID": "5739756",
-                    "badgeDate": 1698019200000
-                },
-                {
-                    "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
-                    "badgeID": "5738434",
-                    "badgeDate": 1698019200000
-                },
-                {
-                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
-                    "badgeID": "5710281",
-                    "badgeDate": 1697846400000
-                }
-            ],
-            "skills": 3,
-            "trackOne": 3,
-            "trackTwo": 0
-        },
-        {
             "name": "Gaurav Rakesh Singh",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/03c6b385-be82-4cb5-a963-9d34a1eeb985",
             "enrollDate": 1695736998000,
@@ -903,6 +887,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud",
+                    "badgeID": "5751150",
+                    "badgeDate": 1698105600000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
                     "badgeID": "5746495",
                     "badgeDate": 1698105600000
@@ -918,8 +907,8 @@
                     "badgeDate": 1698019200000
                 }
             ],
-            "skills": 3,
-            "trackOne": 3,
+            "skills": 4,
+            "trackOne": 4,
             "trackTwo": 0
         },
         {
@@ -1778,6 +1767,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
+                    "badgeID": "5751363",
+                    "badgeDate": 1698105600000
+                },
+                {
                     "badgeName": "Create and Manage Cloud Resources",
                     "badgeID": "5747649",
                     "badgeDate": 1698105600000
@@ -1808,8 +1802,8 @@
                     "badgeDate": 1696809600000
                 }
             ],
-            "skills": 6,
-            "trackOne": 5,
+            "skills": 7,
+            "trackOne": 6,
             "trackTwo": 1
         },
         {
@@ -2549,6 +2543,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5750792",
+                    "badgeDate": 1698105600000
+                },
+                {
                     "badgeName": "Create and Manage Cloud Resources",
                     "badgeID": "5748554",
                     "badgeDate": 1698105600000
@@ -2574,9 +2573,9 @@
                     "badgeDate": 1697068800000
                 }
             ],
-            "skills": 5,
+            "skills": 6,
             "trackOne": 5,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Awadhesh Gosewade",
@@ -2889,6 +2888,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+                    "badgeID": "5750907",
+                    "badgeDate": 1698105600000
+                },
+                {
                     "badgeName": "Build and Secure Networks in Google Cloud",
                     "badgeID": "5750375",
                     "badgeDate": 1698105600000
@@ -2924,8 +2928,8 @@
                     "badgeDate": 1698019200000
                 }
             ],
-            "skills": 7,
-            "trackOne": 7,
+            "skills": 8,
+            "trackOne": 8,
             "trackTwo": 0
         },
         {
@@ -3267,7 +3271,7 @@
             "trackTwo": 0
         },
         {
-            "name": "Rishika",
+            "name": "Saket Rahate",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/02d1f95b-c763-4c9b-ba64-27721882d9af",
             "enrollDate": 1695897674000,
             "isEnrollStatusGood": true,
@@ -3442,6 +3446,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Build and Secure Networks in Google Cloud",
+                    "badgeID": "5751369",
+                    "badgeDate": 1698105600000
+                },
+                {
                     "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
                     "badgeID": "5750334",
                     "badgeDate": 1698105600000
@@ -3472,8 +3481,8 @@
                     "badgeDate": 1696809600000
                 }
             ],
-            "skills": 6,
-            "trackOne": 6,
+            "skills": 7,
+            "trackOne": 7,
             "trackTwo": 0
         },
         {
@@ -3539,5 +3548,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Tuesday, October 24, 2023 at 4:38 PM"
+    "time": "Tuesday, October 24, 2023 at 5:24 PM"
 }

@@ -208,27 +208,27 @@ export const leaderBoardData = [
         "latestSkill": 1698105600000
     },
     {
-        "name": "Prathamesh Prashant Kurekar",
-        "skills": 7,
-        "trackOne": 6,
-        "trackTwo": 1,
-        "color": "green",
-        "latestSkill": 1698105600000
-    },
-    {
         "name": "Khushi Ajay Mantri",
-        "skills": 6,
-        "trackOne": 6,
+        "skills": 7,
+        "trackOne": 7,
         "trackTwo": 0,
         "color": "black",
         "latestSkill": 1698105600000
     },
     {
         "name": "Jayesh Shete",
-        "skills": 6,
-        "trackOne": 6,
+        "skills": 7,
+        "trackOne": 7,
         "trackTwo": 0,
         "color": "black",
+        "latestSkill": 1698105600000
+    },
+    {
+        "name": "Prathamesh Prashant Kurekar",
+        "skills": 7,
+        "trackOne": 6,
+        "trackTwo": 1,
+        "color": "green",
         "latestSkill": 1698105600000
     },
     {
@@ -560,6 +560,22 @@ export const leaderBoardData = [
         "latestSkill": 1698105600000
     },
     {
+        "name": "Varada Kulkarni",
+        "skills": 2,
+        "trackOne": 2,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1698105600000
+    },
+    {
+        "name": "Adnan Shabbir Husain",
+        "skills": 2,
+        "trackOne": 1,
+        "trackTwo": 1,
+        "color": "green",
+        "latestSkill": 1698105600000
+    },
+    {
         "name": "Ankit Pande",
         "skills": 2,
         "trackOne": 1,
@@ -632,14 +648,6 @@ export const leaderBoardData = [
         "latestSkill": 1697241600000
     },
     {
-        "name": "Varada Kulkarni",
-        "skills": 1,
-        "trackOne": 1,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1697241600000
-    },
-    {
         "name": "Vaibhav Rajendrasingh Gautam",
         "skills": 1,
         "trackOne": 0,
@@ -672,15 +680,15 @@ export const leaderBoardData = [
         "latestSkill": 1698019200000
     },
     {
-        "name": "Adnan Shabbir Husain",
+        "name": "Vedant Prashant Madhwe",
         "skills": 1,
-        "trackOne": 0,
-        "trackTwo": 1,
-        "color": "green",
+        "trackOne": 1,
+        "trackTwo": 0,
+        "color": "black",
         "latestSkill": 1698105600000
     },
     {
-        "name": "Vedant Prashant Madhwe",
+        "name": "Divyani Raut",
         "skills": 1,
         "trackOne": 1,
         "trackTwo": 0,
@@ -960,14 +968,6 @@ export const leaderBoardData = [
         "latestSkill": null
     },
     {
-        "name": "Divyani Raut",
-        "skills": 0,
-        "trackOne": 0,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": null
-    },
-    {
         "name": "Anushree Thosar",
         "skills": 0,
         "trackOne": 0,
@@ -1153,4 +1153,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Tuesday, October 24, 2023 at 11:42 PM"
+export const updateTime =  "Wednesday, October 25, 2023 at 12:38 AM"

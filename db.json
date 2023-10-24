@@ -350,6 +350,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Create and Manage Cloud Resources",
+                    "badgeID": "5755446",
+                    "badgeDate": 1698105600000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud",
                     "badgeID": "5754473",
                     "badgeDate": 1698105600000
@@ -370,8 +375,8 @@
                     "badgeDate": 1697068800000
                 }
             ],
-            "skills": 4,
-            "trackOne": 4,
+            "skills": 5,
+            "trackOne": 5,
             "trackTwo": 0
         },
         {
@@ -1163,6 +1168,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud",
+                    "badgeID": "5756451",
+                    "badgeDate": 1698105600000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
                     "badgeID": "5750121",
                     "badgeDate": 1698105600000
@@ -1178,8 +1188,8 @@
                     "badgeDate": 1698105600000
                 }
             ],
-            "skills": 3,
-            "trackOne": 3,
+            "skills": 4,
+            "trackOne": 4,
             "trackTwo": 0
         },
         {
@@ -3019,6 +3029,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud",
+                    "badgeID": "5755662",
+                    "badgeDate": 1698105600000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
                     "badgeID": "5710691",
                     "badgeDate": 1697846400000
@@ -3029,8 +3044,8 @@
                     "badgeDate": 1697068800000
                 }
             ],
-            "skills": 2,
-            "trackOne": 2,
+            "skills": 3,
+            "trackOne": 3,
             "trackTwo": 0
         },
         {
@@ -3409,16 +3424,6 @@
         },
         {
             "name": "R Kumar",
-            "profileLink": "https://www.cloudskillsboost.google/public_profiles/2e0f1ead-efbc-4d26-9867-783cc26de426",
-            "enrollDate": 1695897925000,
-            "isEnrollStatusGood": true,
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
-            "trackTwo": 0
-        },
-        {
-            "name": "R Kumar",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/45eba746-0d09-4be2-8d42-9ad5b1ebcf03",
             "enrollDate": 1695898233000,
             "isEnrollStatusGood": true,
@@ -3666,5 +3671,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Tuesday, October 24, 2023 at 8:40 PM"
+    "time": "Tuesday, October 24, 2023 at 9:41 PM"
 }

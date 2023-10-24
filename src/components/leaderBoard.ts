@@ -176,6 +176,14 @@ export const leaderBoardData = [
         "latestSkill": 1698019200000
     },
     {
+        "name": "Om Aryan",
+        "skills": 4,
+        "trackOne": 4,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1698105600000
+    },
+    {
         "name": "Aishwary Jayant Gathe",
         "skills": 4,
         "trackOne": 3,
@@ -257,14 +265,6 @@ export const leaderBoardData = [
     },
     {
         "name": "Atharva Yogesh Mundhada",
-        "skills": 3,
-        "trackOne": 3,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1698019200000
-    },
-    {
-        "name": "Om Aryan",
         "skills": 3,
         "trackOne": 3,
         "trackTwo": 0,
@@ -424,7 +424,23 @@ export const leaderBoardData = [
         "latestSkill": 1698019200000
     },
     {
+        "name": "Akshay Padia",
+        "skills": 2,
+        "trackOne": 2,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1698019200000
+    },
+    {
         "name": "Mayuri Naresh Barapatre",
+        "skills": 2,
+        "trackOne": 2,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1698019200000
+    },
+    {
+        "name": "Hariom Nabira",
         "skills": 2,
         "trackOne": 2,
         "trackTwo": 0,
@@ -489,22 +505,6 @@ export const leaderBoardData = [
     },
     {
         "name": "Tanay Pande",
-        "skills": 1,
-        "trackOne": 1,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1696809600000
-    },
-    {
-        "name": "Akshay Padia",
-        "skills": 1,
-        "trackOne": 1,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1696809600000
-    },
-    {
-        "name": "Hariom Nabira",
         "skills": 1,
         "trackOne": 1,
         "trackTwo": 0,
@@ -1105,4 +1105,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Tuesday, October 24, 2023 at 8:41 AM"
+export const updateTime =  "Tuesday, October 24, 2023 at 9:41 AM"

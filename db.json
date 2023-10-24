@@ -629,6 +629,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
+                    "badgeID": "5742853",
+                    "badgeDate": 1698105600000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
                     "badgeID": "5739810",
                     "badgeDate": 1698019200000
@@ -644,8 +649,8 @@
                     "badgeDate": 1698019200000
                 }
             ],
-            "skills": 3,
-            "trackOne": 3,
+            "skills": 4,
+            "trackOne": 4,
             "trackTwo": 0
         },
         {
@@ -2924,13 +2929,18 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
+                    "badgeID": "5742706",
+                    "badgeDate": 1698019200000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
                     "badgeID": "5537719",
                     "badgeDate": 1696809600000
                 }
             ],
-            "skills": 1,
-            "trackOne": 1,
+            "skills": 2,
+            "trackOne": 2,
             "trackTwo": 0
         },
         {
@@ -2982,15 +2992,20 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
+                    "badgeID": "5742708",
+                    "badgeDate": 1698019200000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
                     "badgeID": "5539185",
                     "badgeDate": 1696809600000
                 }
             ],
-            "skills": 1,
-            "trackOne": 1,
+            "skills": 2,
+            "trackOne": 2,
             "trackTwo": 0
         }
     ],
-    "time": "Tuesday, October 24, 2023 at 8:41 AM"
+    "time": "Tuesday, October 24, 2023 at 9:41 AM"
 }

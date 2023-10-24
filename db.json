@@ -660,6 +660,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud",
+                    "badgeID": "5744039",
+                    "badgeDate": 1698105600000
+                },
+                {
                     "badgeName": "Build and Secure Networks in Google Cloud",
                     "badgeID": "5725899",
                     "badgeDate": 1698019200000
@@ -690,8 +695,8 @@
                     "badgeDate": 1696723200000
                 }
             ],
-            "skills": 6,
-            "trackOne": 6,
+            "skills": 7,
+            "trackOne": 7,
             "trackTwo": 0
         },
         {
@@ -716,6 +721,11 @@
             "enrollDate": 1695736962000,
             "isEnrollStatusGood": true,
             "badges": [
+                {
+                    "badgeName": "Create and Manage Cloud Resources",
+                    "badgeID": "5743807",
+                    "badgeDate": 1698105600000
+                },
                 {
                     "badgeName": "Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud",
                     "badgeID": "5740329",
@@ -747,8 +757,8 @@
                     "badgeDate": 1697932800000
                 }
             ],
-            "skills": 5,
-            "trackOne": 4,
+            "skills": 6,
+            "trackOne": 5,
             "trackTwo": 1
         },
         {
@@ -1006,9 +1016,20 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/77dc7ca1-9f62-40f3-80c7-cb6c84a5ebe5",
             "enrollDate": 1695737309000,
             "isEnrollStatusGood": true,
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5744482",
+                    "badgeDate": 1698105600000
+                },
+                {
+                    "badgeName": "Create and Manage Cloud Resources",
+                    "badgeID": "5744249",
+                    "badgeDate": 1698105600000
+                }
+            ],
+            "skills": 2,
+            "trackOne": 2,
             "trackTwo": 0
         },
         {
@@ -3017,5 +3038,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Tuesday, October 24, 2023 at 10:40 AM"
+    "time": "Tuesday, October 24, 2023 at 11:42 AM"
 }

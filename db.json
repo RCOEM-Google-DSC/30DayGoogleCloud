@@ -350,6 +350,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+                    "badgeID": "5760692",
+                    "badgeDate": 1698105600000
+                },
+                {
                     "badgeName": "Build and Secure Networks in Google Cloud",
                     "badgeID": "5759265",
                     "badgeDate": 1698105600000
@@ -385,8 +390,8 @@
                     "badgeDate": 1697068800000
                 }
             ],
-            "skills": 7,
-            "trackOne": 7,
+            "skills": 8,
+            "trackOne": 8,
             "trackTwo": 0
         },
         {
@@ -933,6 +938,16 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5760804",
+                    "badgeDate": 1698105600000
+                },
+                {
+                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+                    "badgeID": "5760388",
+                    "badgeDate": 1698105600000
+                },
+                {
                     "badgeName": "Build and Secure Networks in Google Cloud",
                     "badgeID": "5759786",
                     "badgeDate": 1698105600000
@@ -968,9 +983,9 @@
                     "badgeDate": 1698019200000
                 }
             ],
-            "skills": 7,
-            "trackOne": 7,
-            "trackTwo": 0
+            "skills": 9,
+            "trackOne": 8,
+            "trackTwo": 1
         },
         {
             "name": "Arnav Kadoo",
@@ -3779,5 +3794,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Wednesday, October 25, 2023 at 12:38 AM"
+    "time": "Wednesday, October 25, 2023 at 1:40 AM"
 }

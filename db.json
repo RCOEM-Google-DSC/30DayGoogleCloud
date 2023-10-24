@@ -350,6 +350,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5761767",
+                    "badgeDate": 1698105600000
+                },
+                {
                     "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
                     "badgeID": "5760692",
                     "badgeDate": 1698105600000
@@ -390,9 +395,9 @@
                     "badgeDate": 1697068800000
                 }
             ],
-            "skills": 8,
+            "skills": 9,
             "trackOne": 8,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Radhika Manish Shukla",
@@ -3794,5 +3799,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Wednesday, October 25, 2023 at 2:39 AM"
+    "time": "Wednesday, October 25, 2023 at 3:39 AM"
 }

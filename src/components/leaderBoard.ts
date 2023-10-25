@@ -209,11 +209,11 @@ export const leaderBoardData = [
     },
     {
         "name": "Ayush Haresh Dhamecha",
-        "skills": 8,
+        "skills": 9,
         "trackOne": 8,
-        "trackTwo": 0,
-        "color": "green",
-        "latestSkill": 1698105600000
+        "trackTwo": 1,
+        "color": "blue",
+        "latestSkill": 1698192000000
     },
     {
         "name": "Mayuri Naresh Barapatre",
@@ -1153,4 +1153,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Wednesday, October 25, 2023 at 4:38 PM"
+export const updateTime =  "Wednesday, October 25, 2023 at 5:45 PM"

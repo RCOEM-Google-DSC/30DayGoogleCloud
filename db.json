@@ -1538,6 +1538,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5770853",
+                    "badgeDate": 1698192000000
+                },
+                {
                     "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
                     "badgeID": "5757935",
                     "badgeDate": 1698105600000
@@ -1583,9 +1588,9 @@
                     "badgeDate": 1697846400000
                 }
             ],
-            "skills": 8,
+            "skills": 9,
             "trackOne": 8,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Nipun Kupatkar",
@@ -3889,5 +3894,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Wednesday, October 25, 2023 at 4:38 PM"
+    "time": "Wednesday, October 25, 2023 at 5:45 PM"
 }

@@ -514,13 +514,18 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5772042",
+                    "badgeDate": 1698192000000
+                },
+                {
                     "badgeName": "Level 3 GenAI: Prompt Engineering",
                     "badgeID": "5571096",
                     "badgeDate": 1697068800000
                 }
             ],
-            "skills": 1,
-            "trackOne": 0,
+            "skills": 2,
+            "trackOne": 1,
             "trackTwo": 1
         },
         {
@@ -2026,13 +2031,18 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Create and Manage Cloud Resources",
+                    "badgeID": "5772094",
+                    "badgeDate": 1698192000000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
                     "badgeID": "5771371",
                     "badgeDate": 1698192000000
                 }
             ],
-            "skills": 1,
-            "trackOne": 1,
+            "skills": 2,
+            "trackOne": 2,
             "trackTwo": 0
         },
         {
@@ -2550,13 +2560,23 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
+                    "badgeID": "5772569",
+                    "badgeDate": 1698192000000
+                },
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5772165",
+                    "badgeDate": 1698192000000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
                     "badgeID": "5771859",
                     "badgeDate": 1698192000000
                 }
             ],
-            "skills": 1,
-            "trackOne": 1,
+            "skills": 3,
+            "trackOne": 3,
             "trackTwo": 0
         },
         {
@@ -3916,5 +3936,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Wednesday, October 25, 2023 at 6:42 PM"
+    "time": "Wednesday, October 25, 2023 at 7:39 PM"
 }

@@ -225,16 +225,16 @@ export const leaderBoardData = [
     },
     {
         "name": "Prathamesh Prashant Kurekar",
-        "skills": 7,
-        "trackOne": 6,
+        "skills": 8,
+        "trackOne": 7,
         "trackTwo": 1,
         "color": "green",
-        "latestSkill": 1698105600000
+        "latestSkill": 1698192000000
     },
     {
         "name": "Yagyesh Bobde",
-        "skills": 7,
-        "trackOne": 6,
+        "skills": 8,
+        "trackOne": 7,
         "trackTwo": 1,
         "color": "green",
         "latestSkill": 1698192000000
@@ -272,6 +272,22 @@ export const leaderBoardData = [
         "latestSkill": 1698192000000
     },
     {
+        "name": "Sanket Suryawanshi",
+        "skills": 6,
+        "trackOne": 6,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1698192000000
+    },
+    {
+        "name": "Jagriti Radheshyam Sharma",
+        "skills": 6,
+        "trackOne": 5,
+        "trackTwo": 1,
+        "color": "green",
+        "latestSkill": 1698192000000
+    },
+    {
         "name": "Vivek Radheshyam Katre",
         "skills": 6,
         "trackOne": 5,
@@ -304,6 +320,14 @@ export const leaderBoardData = [
         "latestSkill": 1698192000000
     },
     {
+        "name": "Saket Rathi",
+        "skills": 5,
+        "trackOne": 5,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1698192000000
+    },
+    {
         "name": "Saket Rahate",
         "skills": 5,
         "trackOne": 4,
@@ -318,14 +342,6 @@ export const leaderBoardData = [
         "trackTwo": 1,
         "color": "green",
         "latestSkill": 1698105600000
-    },
-    {
-        "name": "Jagriti Radheshyam Sharma",
-        "skills": 5,
-        "trackOne": 4,
-        "trackTwo": 1,
-        "color": "green",
-        "latestSkill": 1698192000000
     },
     {
         "name": "Krushna Dande",
@@ -368,7 +384,15 @@ export const leaderBoardData = [
         "latestSkill": 1698105600000
     },
     {
-        "name": "Sanket Suryawanshi",
+        "name": "Netal Rathi",
+        "skills": 4,
+        "trackOne": 4,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1698192000000
+    },
+    {
+        "name": "Khushi Bajpai",
         "skills": 4,
         "trackOne": 4,
         "trackTwo": 0,
@@ -464,14 +488,6 @@ export const leaderBoardData = [
         "latestSkill": 1698105600000
     },
     {
-        "name": "Netal Rathi",
-        "skills": 3,
-        "trackOne": 3,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1698105600000
-    },
-    {
         "name": "Sarvesh Tiwari",
         "skills": 3,
         "trackOne": 3,
@@ -504,23 +520,7 @@ export const leaderBoardData = [
         "latestSkill": 1698105600000
     },
     {
-        "name": "Saket Rathi",
-        "skills": 3,
-        "trackOne": 3,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1698105600000
-    },
-    {
         "name": "Rashi R. Potey",
-        "skills": 3,
-        "trackOne": 3,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1698192000000
-    },
-    {
-        "name": "Khushi Bajpai",
         "skills": 3,
         "trackOne": 3,
         "trackTwo": 0,
@@ -593,6 +593,14 @@ export const leaderBoardData = [
     },
     {
         "name": "Jayesh Ashok Landge",
+        "skills": 2,
+        "trackOne": 2,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1698192000000
+    },
+    {
+        "name": "Dixita Hawelikar",
         "skills": 2,
         "trackOne": 2,
         "trackTwo": 0,
@@ -705,14 +713,6 @@ export const leaderBoardData = [
     },
     {
         "name": "Aryan Khokle",
-        "skills": 1,
-        "trackOne": 1,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1698105600000
-    },
-    {
-        "name": "Dixita Hawelikar",
         "skills": 1,
         "trackOne": 1,
         "trackTwo": 0,
@@ -1153,4 +1153,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Wednesday, October 25, 2023 at 8:39 PM"
+export const updateTime =  "Wednesday, October 25, 2023 at 9:42 PM"

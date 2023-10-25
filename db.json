@@ -2723,6 +2723,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Build and Secure Networks in Google Cloud",
+                    "badgeID": "5769787",
+                    "badgeDate": 1698192000000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
                     "badgeID": "5767527",
                     "badgeDate": 1698192000000
@@ -2753,8 +2758,8 @@
                     "badgeDate": 1697155200000
                 }
             ],
-            "skills": 5,
-            "trackOne": 4,
+            "skills": 6,
+            "trackOne": 5,
             "trackTwo": 1
         },
         {
@@ -2774,6 +2779,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
+                    "badgeID": "5769302",
+                    "badgeDate": 1698192000000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
                     "badgeID": "5767035",
                     "badgeDate": 1698192000000
@@ -2784,8 +2794,8 @@
                     "badgeDate": 1696896000000
                 }
             ],
-            "skills": 2,
-            "trackOne": 2,
+            "skills": 3,
+            "trackOne": 3,
             "trackTwo": 0
         },
         {
@@ -3879,5 +3889,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Wednesday, October 25, 2023 at 3:40 PM"
+    "time": "Wednesday, October 25, 2023 at 4:38 PM"
 }

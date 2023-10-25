@@ -514,13 +514,18 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5780479",
+                    "badgeDate": 1698192000000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
                     "badgeID": "5780447",
                     "badgeDate": 1698192000000
                 }
             ],
-            "skills": 1,
-            "trackOne": 1,
+            "skills": 2,
+            "trackOne": 2,
             "trackTwo": 0
         },
         {
@@ -529,6 +534,11 @@
             "enrollDate": 1695736447000,
             "isEnrollStatusGood": true,
             "badges": [
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
+                    "badgeID": "5780675",
+                    "badgeDate": 1698192000000
+                },
                 {
                     "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
                     "badgeID": "5772042",
@@ -540,8 +550,8 @@
                     "badgeDate": 1697068800000
                 }
             ],
-            "skills": 2,
-            "trackOne": 1,
+            "skills": 3,
+            "trackOne": 2,
             "trackTwo": 1
         },
         {
@@ -550,6 +560,11 @@
             "enrollDate": 1695736464000,
             "isEnrollStatusGood": true,
             "badges": [
+                {
+                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+                    "badgeID": "5781087",
+                    "badgeDate": 1698192000000
+                },
                 {
                     "badgeName": "Build and Secure Networks in Google Cloud",
                     "badgeID": "5779883",
@@ -596,8 +611,8 @@
                     "badgeDate": 1696723200000
                 }
             ],
-            "skills": 8,
-            "trackOne": 7,
+            "skills": 9,
+            "trackOne": 8,
             "trackTwo": 1
         },
         {
@@ -2445,6 +2460,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
+                    "badgeID": "5780687",
+                    "badgeDate": 1698192000000
+                },
+                {
                     "badgeName": "Build and Secure Networks in Google Cloud",
                     "badgeID": "5780005",
                     "badgeDate": 1698192000000
@@ -2480,8 +2500,8 @@
                     "badgeDate": 1696809600000
                 }
             ],
-            "skills": 7,
-            "trackOne": 7,
+            "skills": 8,
+            "trackOne": 8,
             "trackTwo": 0
         },
         {
@@ -2666,13 +2686,18 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
+                    "badgeID": "5780755",
+                    "badgeDate": 1698192000000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
                     "badgeID": "5779277",
                     "badgeDate": 1698192000000
                 }
             ],
-            "skills": 1,
-            "trackOne": 1,
+            "skills": 2,
+            "trackOne": 2,
             "trackTwo": 0
         },
         {
@@ -3138,6 +3163,16 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "5781011",
+                    "badgeDate": 1698192000000
+                },
+                {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5780929",
+                    "badgeDate": 1698192000000
+                },
+                {
                     "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
                     "badgeID": "5778882",
                     "badgeDate": 1698192000000
@@ -3178,9 +3213,9 @@
                     "badgeDate": 1697241600000
                 }
             ],
-            "skills": 8,
+            "skills": 9,
             "trackOne": 8,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Sarthak Chaure",
@@ -3188,6 +3223,11 @@
             "enrollDate": 1695797612000,
             "isEnrollStatusGood": true,
             "badges": [
+                {
+                    "badgeName": "Create and Manage Cloud Resources",
+                    "badgeID": "5780517",
+                    "badgeDate": 1698192000000
+                },
                 {
                     "badgeName": "Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud",
                     "badgeID": "5779531",
@@ -3209,8 +3249,8 @@
                     "badgeDate": 1697068800000
                 }
             ],
-            "skills": 4,
-            "trackOne": 4,
+            "skills": 5,
+            "trackOne": 5,
             "trackTwo": 0
         },
         {
@@ -4154,6 +4194,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Build and Secure Networks in Google Cloud",
+                    "badgeID": "5781079",
+                    "badgeDate": 1698192000000
+                },
+                {
                     "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
                     "badgeID": "5780377",
                     "badgeDate": 1698192000000
@@ -4184,8 +4229,8 @@
                     "badgeDate": 1697846400000
                 }
             ],
-            "skills": 6,
-            "trackOne": 6,
+            "skills": 7,
+            "trackOne": 7,
             "trackTwo": 0
         },
         {
@@ -4230,5 +4275,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Thursday, October 26, 2023 at 1:40 AM"
+    "time": "Thursday, October 26, 2023 at 2:38 AM"
 }

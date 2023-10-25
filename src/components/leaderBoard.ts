@@ -680,6 +680,22 @@ export const leaderBoardData = [
         "latestSkill": 1698019200000
     },
     {
+        "name": "Aryan Khokle",
+        "skills": 1,
+        "trackOne": 1,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1698105600000
+    },
+    {
+        "name": "Dixita Hawelikar",
+        "skills": 1,
+        "trackOne": 1,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1698105600000
+    },
+    {
         "name": "Vedant Prashant Madhwe",
         "skills": 1,
         "trackOne": 1,
@@ -689,6 +705,14 @@ export const leaderBoardData = [
     },
     {
         "name": "Divyani Raut",
+        "skills": 1,
+        "trackOne": 1,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1698105600000
+    },
+    {
+        "name": "Ankit Bhad",
         "skills": 1,
         "trackOne": 1,
         "trackTwo": 0,
@@ -840,14 +864,6 @@ export const leaderBoardData = [
         "latestSkill": null
     },
     {
-        "name": "Aryan Khokle",
-        "skills": 0,
-        "trackOne": 0,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": null
-    },
-    {
         "name": "Aastha Sahu",
         "skills": 0,
         "trackOne": 0,
@@ -889,14 +905,6 @@ export const leaderBoardData = [
     },
     {
         "name": "Jayesh Ashok Landge",
-        "skills": 0,
-        "trackOne": 0,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": null
-    },
-    {
-        "name": "Dixita Hawelikar",
         "skills": 0,
         "trackOne": 0,
         "trackTwo": 0,
@@ -1001,14 +1009,6 @@ export const leaderBoardData = [
     },
     {
         "name": "Laxita Hawelikar",
-        "skills": 0,
-        "trackOne": 0,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": null
-    },
-    {
-        "name": "Ankit Bhad",
         "skills": 0,
         "trackOne": 0,
         "trackTwo": 0,
@@ -1153,4 +1153,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Wednesday, October 25, 2023 at 8:40 AM"
+export const updateTime =  "Wednesday, October 25, 2023 at 9:41 AM"

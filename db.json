@@ -1655,9 +1655,15 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/6385cc59-f8f4-48c4-9238-313e67e0e7b5",
             "enrollDate": 1695738219000,
             "isEnrollStatusGood": true,
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5763453",
+                    "badgeDate": 1698105600000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0
         },
         {
@@ -2120,9 +2126,15 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/a4b60304-0142-4526-9aa8-32dcd6872593",
             "enrollDate": 1695739291000,
             "isEnrollStatusGood": true,
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5763539",
+                    "badgeDate": 1698105600000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0
         },
         {
@@ -2534,9 +2546,15 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/f3c1a17a-5042-418d-87fa-ab674ff1fa08",
             "enrollDate": 1695745919000,
             "isEnrollStatusGood": true,
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
+            "badges": [
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
+                    "badgeID": "5763464",
+                    "badgeDate": 1698105600000
+                }
+            ],
+            "skills": 1,
+            "trackOne": 1,
             "trackTwo": 0
         },
         {
@@ -3804,5 +3822,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Wednesday, October 25, 2023 at 8:40 AM"
+    "time": "Wednesday, October 25, 2023 at 9:41 AM"
 }

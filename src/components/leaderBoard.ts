@@ -496,6 +496,14 @@ export const leaderBoardData = [
         "latestSkill": 1698105600000
     },
     {
+        "name": "Rashi R. Potey",
+        "skills": 3,
+        "trackOne": 3,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1698192000000
+    },
+    {
         "name": "Sanket Suryawanshi",
         "skills": 3,
         "trackOne": 3,
@@ -544,14 +552,6 @@ export const leaderBoardData = [
         "latestSkill": 1697846400000
     },
     {
-        "name": "Rashi R. Potey",
-        "skills": 2,
-        "trackOne": 2,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1697932800000
-    },
-    {
         "name": "Priyansh Subhash Nigam",
         "skills": 2,
         "trackOne": 2,
@@ -574,6 +574,14 @@ export const leaderBoardData = [
         "trackTwo": 0,
         "color": "black",
         "latestSkill": 1698105600000
+    },
+    {
+        "name": "Vedant Gajendra Tinkhede",
+        "skills": 2,
+        "trackOne": 2,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1698192000000
     },
     {
         "name": "Adnan Shabbir Husain",
@@ -662,14 +670,6 @@ export const leaderBoardData = [
         "trackTwo": 1,
         "color": "green",
         "latestSkill": 1697932800000
-    },
-    {
-        "name": "Vedant Gajendra Tinkhede",
-        "skills": 1,
-        "trackOne": 1,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1698019200000
     },
     {
         "name": "Devesh Pardhi",
@@ -768,7 +768,23 @@ export const leaderBoardData = [
         "latestSkill": 1698192000000
     },
     {
+        "name": "Jayesh Ashok Landge",
+        "skills": 1,
+        "trackOne": 1,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1698192000000
+    },
+    {
         "name": "Srushti Gawande",
+        "skills": 1,
+        "trackOne": 1,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1698192000000
+    },
+    {
+        "name": "Khushi Bajpai",
         "skills": 1,
         "trackOne": 1,
         "trackTwo": 0,
@@ -912,14 +928,6 @@ export const leaderBoardData = [
         "latestSkill": null
     },
     {
-        "name": "Jayesh Ashok Landge",
-        "skills": 0,
-        "trackOne": 0,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": null
-    },
-    {
         "name": "Shruti Sharma",
         "skills": 0,
         "trackOne": 0,
@@ -993,14 +1001,6 @@ export const leaderBoardData = [
     },
     {
         "name": "Tejas Gangane",
-        "skills": 0,
-        "trackOne": 0,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": null
-    },
-    {
-        "name": "Khushi Bajpai",
         "skills": 0,
         "trackOne": 0,
         "trackTwo": 0,
@@ -1153,4 +1153,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Wednesday, October 25, 2023 at 5:45 PM"
+export const updateTime =  "Wednesday, October 25, 2023 at 6:42 PM"

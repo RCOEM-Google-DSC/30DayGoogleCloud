@@ -462,6 +462,16 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "5796871",
+                    "badgeDate": 1698278400000
+                },
+                {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5796727",
+                    "badgeDate": 1698278400000
+                },
+                {
                     "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
                     "badgeID": "5791050",
                     "badgeDate": 1698278400000
@@ -502,9 +512,9 @@
                     "badgeDate": 1698019200000
                 }
             ],
-            "skills": 8,
+            "skills": 9,
             "trackOne": 8,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Ashutosh Tripathi",
@@ -591,6 +601,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
+                    "badgeID": "5797252",
+                    "badgeDate": 1698278400000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
                     "badgeID": "5780675",
                     "badgeDate": 1698192000000
@@ -606,8 +621,8 @@
                     "badgeDate": 1697068800000
                 }
             ],
-            "skills": 3,
-            "trackOne": 2,
+            "skills": 4,
+            "trackOne": 3,
             "trackTwo": 1
         },
         {
@@ -1485,6 +1500,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud",
+                    "badgeID": "5796760",
+                    "badgeDate": 1698278400000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
                     "badgeID": "5683771",
                     "badgeDate": 1697673600000
@@ -1500,8 +1520,8 @@
                     "badgeDate": 1697500800000
                 }
             ],
-            "skills": 3,
-            "trackOne": 3,
+            "skills": 4,
+            "trackOne": 4,
             "trackTwo": 0
         },
         {
@@ -2532,6 +2552,16 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
+                    "badgeID": "5797430",
+                    "badgeDate": 1698278400000
+                },
+                {
+                    "badgeName": "Build and Secure Networks in Google Cloud",
+                    "badgeID": "5797084",
+                    "badgeDate": 1698278400000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud",
                     "badgeID": "5789741",
                     "badgeDate": 1698278400000
@@ -2562,8 +2592,8 @@
                     "badgeDate": 1698019200000
                 }
             ],
-            "skills": 6,
-            "trackOne": 6,
+            "skills": 8,
+            "trackOne": 8,
             "trackTwo": 0
         },
         {
@@ -2720,6 +2750,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5797506",
+                    "badgeDate": 1698278400000
+                },
+                {
                     "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
                     "badgeID": "5793009",
                     "badgeDate": 1698278400000
@@ -2760,9 +2795,9 @@
                     "badgeDate": 1698019200000
                 }
             ],
-            "skills": 8,
+            "skills": 9,
             "trackOne": 8,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Vedant Prashant Madhwe",
@@ -4547,6 +4582,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
+                    "badgeID": "5796815",
+                    "badgeDate": 1698278400000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
                     "badgeID": "5702598",
                     "badgeDate": 1697846400000
@@ -4557,8 +4597,8 @@
                     "badgeDate": 1697846400000
                 }
             ],
-            "skills": 2,
-            "trackOne": 2,
+            "skills": 3,
+            "trackOne": 3,
             "trackTwo": 0
         },
         {
@@ -4787,5 +4827,5 @@
             "trackTwo": 1
         }
     ],
-    "time": "Friday, October 27, 2023 at 12:37 AM"
+    "time": "Friday, October 27, 2023 at 1:40 AM"
 }

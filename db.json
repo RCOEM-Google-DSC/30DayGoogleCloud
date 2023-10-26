@@ -1690,6 +1690,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Introduction to Image Generation",
+                    "badgeID": "5782359",
+                    "badgeDate": 1698192000000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
                     "badgeID": "5538320",
                     "badgeDate": 1696809600000
@@ -4285,5 +4290,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Thursday, October 26, 2023 at 7:13 AM"
+    "time": "Thursday, October 26, 2023 at 7:46 AM"
 }

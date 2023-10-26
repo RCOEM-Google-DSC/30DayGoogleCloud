@@ -2491,6 +2491,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5788259",
+                    "badgeDate": 1698278400000
+                },
+                {
                     "badgeName": "Introduction to Generative AI",
                     "badgeID": "5783275",
                     "badgeDate": 1698278400000
@@ -2536,9 +2541,9 @@
                     "badgeDate": 1696809600000
                 }
             ],
-            "skills": 8,
+            "skills": 9,
             "trackOne": 8,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Sarvesh Tiwari",
@@ -4367,5 +4372,5 @@
             "trackTwo": 0
         }
     ],
-    "time": "Thursday, October 26, 2023 at 4:38 PM"
+    "time": "Thursday, October 26, 2023 at 5:45 PM"
 }

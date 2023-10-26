@@ -400,6 +400,22 @@ export const leaderBoardData = [
         "latestSkill": 1698192000000
     },
     {
+        "name": "Sarvesh Tiwari",
+        "skills": 5,
+        "trackOne": 5,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1698278400000
+    },
+    {
+        "name": "Ankit Bhad",
+        "skills": 5,
+        "trackOne": 5,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1698278400000
+    },
+    {
         "name": "Prathamesh Manoj Rokade",
         "skills": 5,
         "trackOne": 4,
@@ -417,22 +433,6 @@ export const leaderBoardData = [
     },
     {
         "name": "Aastha Sahu",
-        "skills": 4,
-        "trackOne": 4,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1698192000000
-    },
-    {
-        "name": "Sarvesh Tiwari",
-        "skills": 4,
-        "trackOne": 4,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1698192000000
-    },
-    {
-        "name": "Ankit Bhad",
         "skills": 4,
         "trackOne": 4,
         "trackTwo": 0,
@@ -688,6 +688,14 @@ export const leaderBoardData = [
         "latestSkill": 1698192000000
     },
     {
+        "name": "Awadhesh Gosewade",
+        "skills": 2,
+        "trackOne": 2,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1698278400000
+    },
+    {
         "name": "Adnan Shabbir Husain",
         "skills": 2,
         "trackOne": 1,
@@ -777,14 +785,6 @@ export const leaderBoardData = [
     },
     {
         "name": "Divyani Raut",
-        "skills": 1,
-        "trackOne": 1,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1698105600000
-    },
-    {
-        "name": "Awadhesh Gosewade",
         "skills": 1,
         "trackOne": 1,
         "trackTwo": 0,
@@ -1153,4 +1153,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Thursday, October 26, 2023 at 10:39 AM"
+export const updateTime =  "Thursday, October 26, 2023 at 11:42 AM"

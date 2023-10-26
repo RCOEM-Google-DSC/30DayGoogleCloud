@@ -1953,6 +1953,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5797801",
+                    "badgeDate": 1698278400000
+                },
+                {
                     "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
                     "badgeID": "5796409",
                     "badgeDate": 1698278400000
@@ -1993,9 +1998,9 @@
                     "badgeDate": 1698105600000
                 }
             ],
-            "skills": 8,
+            "skills": 9,
             "trackOne": 8,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Aarsh Vilas Gangulwar",
@@ -4387,6 +4392,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud",
+                    "badgeID": "5798206",
+                    "badgeDate": 1698278400000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
                     "badgeID": "5794308",
                     "badgeDate": 1698278400000
@@ -4402,8 +4412,8 @@
                     "badgeDate": 1698105600000
                 }
             ],
-            "skills": 3,
-            "trackOne": 3,
+            "skills": 4,
+            "trackOne": 4,
             "trackTwo": 0
         },
         {
@@ -4827,5 +4837,5 @@
             "trackTwo": 1
         }
     ],
-    "time": "Friday, October 27, 2023 at 1:40 AM"
+    "time": "Friday, October 27, 2023 at 2:40 AM"
 }

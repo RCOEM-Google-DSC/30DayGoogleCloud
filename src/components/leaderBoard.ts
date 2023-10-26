@@ -264,7 +264,7 @@ export const leaderBoardData = [
         "latestSkill": 1698105600000
     },
     {
-        "name": "Netal Rathi",
+        "name": "Khushi Bajpai",
         "skills": 8,
         "trackOne": 8,
         "trackTwo": 0,
@@ -272,12 +272,12 @@ export const leaderBoardData = [
         "latestSkill": 1698192000000
     },
     {
-        "name": "Khushi Bajpai",
+        "name": "Netal Rathi",
         "skills": 8,
         "trackOne": 8,
         "trackTwo": 0,
         "color": "green",
-        "latestSkill": 1698192000000
+        "latestSkill": 1698278400000
     },
     {
         "name": "Saket Rahate",
@@ -568,6 +568,14 @@ export const leaderBoardData = [
         "latestSkill": 1698192000000
     },
     {
+        "name": "Ankit Pande",
+        "skills": 3,
+        "trackOne": 2,
+        "trackTwo": 1,
+        "color": "green",
+        "latestSkill": 1698278400000
+    },
+    {
         "name": "Atharva Dilip Werulkar",
         "skills": 2,
         "trackOne": 2,
@@ -681,14 +689,6 @@ export const leaderBoardData = [
     },
     {
         "name": "Adnan Shabbir Husain",
-        "skills": 2,
-        "trackOne": 1,
-        "trackTwo": 1,
-        "color": "green",
-        "latestSkill": 1698105600000
-    },
-    {
-        "name": "Ankit Pande",
         "skills": 2,
         "trackOne": 1,
         "trackTwo": 1,
@@ -1153,4 +1153,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Thursday, October 26, 2023 at 9:41 AM"
+export const updateTime =  "Thursday, October 26, 2023 at 10:39 AM"

@@ -536,6 +536,14 @@ export const leaderBoardData = [
         "latestSkill": 1698278400000
     },
     {
+        "name": "Jayesh Ashok Landge",
+        "skills": 4,
+        "trackOne": 4,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1698364800000
+    },
+    {
         "name": "Aishwary Jayant Gathe",
         "skills": 4,
         "trackOne": 3,
@@ -609,14 +617,6 @@ export const leaderBoardData = [
     },
     {
         "name": "Naman Dhoot",
-        "skills": 3,
-        "trackOne": 3,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1698278400000
-    },
-    {
-        "name": "Jayesh Ashok Landge",
         "skills": 3,
         "trackOne": 3,
         "trackTwo": 0,
@@ -1153,4 +1153,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Friday, October 27, 2023 at 2:39 PM"
+export const updateTime =  "Friday, October 27, 2023 at 3:40 PM"

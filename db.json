@@ -2361,6 +2361,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
+                    "badgeID": "5805282",
+                    "badgeDate": 1698364800000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
                     "badgeID": "5793687",
                     "badgeDate": 1698278400000
@@ -2376,8 +2381,8 @@
                     "badgeDate": 1698192000000
                 }
             ],
-            "skills": 3,
-            "trackOne": 3,
+            "skills": 4,
+            "trackOne": 4,
             "trackTwo": 0
         },
         {
@@ -4897,5 +4902,5 @@
             "trackTwo": 1
         }
     ],
-    "time": "Friday, October 27, 2023 at 2:39 PM"
+    "time": "Friday, October 27, 2023 at 3:40 PM"
 }

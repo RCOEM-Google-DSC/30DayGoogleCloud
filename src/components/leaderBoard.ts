@@ -384,6 +384,14 @@ export const leaderBoardData = [
         "latestSkill": 1698364800000
     },
     {
+        "name": "Aastha Sahu",
+        "skills": 9,
+        "trackOne": 8,
+        "trackTwo": 1,
+        "color": "blue",
+        "latestSkill": 1698364800000
+    },
+    {
         "name": "Rashi R. Potey",
         "skills": 9,
         "trackOne": 8,
@@ -480,14 +488,6 @@ export const leaderBoardData = [
         "latestSkill": 1698364800000
     },
     {
-        "name": "Aastha Sahu",
-        "skills": 7,
-        "trackOne": 7,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1698278400000
-    },
-    {
         "name": "Aditya Pratap Singh",
         "skills": 7,
         "trackOne": 7,
@@ -505,6 +505,14 @@ export const leaderBoardData = [
     },
     {
         "name": "Saket Rathi",
+        "skills": 7,
+        "trackOne": 7,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1698364800000
+    },
+    {
+        "name": "Shreya Seth",
         "skills": 7,
         "trackOne": 7,
         "trackTwo": 0,
@@ -593,14 +601,6 @@ export const leaderBoardData = [
     },
     {
         "name": "Priyansh Subhash Nigam",
-        "skills": 5,
-        "trackOne": 5,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1698364800000
-    },
-    {
-        "name": "Shreya Seth",
         "skills": 5,
         "trackOne": 5,
         "trackTwo": 0,
@@ -736,6 +736,14 @@ export const leaderBoardData = [
         "latestSkill": 1698278400000
     },
     {
+        "name": "Adesh Dhanraj Bode",
+        "skills": 3,
+        "trackOne": 3,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1698364800000
+    },
+    {
         "name": "Dixita Hawelikar",
         "skills": 3,
         "trackOne": 3,
@@ -766,14 +774,6 @@ export const leaderBoardData = [
         "trackTwo": 1,
         "color": "green",
         "latestSkill": 1698364800000
-    },
-    {
-        "name": "Adesh Dhanraj Bode",
-        "skills": 2,
-        "trackOne": 2,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1698192000000
     },
     {
         "name": "Vedant Gajendra Tinkhede",
@@ -1153,4 +1153,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Saturday, October 28, 2023 at 1:40 AM"
+export const updateTime =  "Saturday, October 28, 2023 at 2:38 AM"

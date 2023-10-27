@@ -682,6 +682,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
+                    "badgeID": "5818332",
+                    "badgeDate": 1698364800000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
                     "badgeID": "5780479",
                     "badgeDate": 1698192000000
@@ -692,8 +697,8 @@
                     "badgeDate": 1698192000000
                 }
             ],
-            "skills": 2,
-            "trackOne": 2,
+            "skills": 3,
+            "trackOne": 3,
             "trackTwo": 0
         },
         {
@@ -2308,6 +2313,16 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5818652",
+                    "badgeDate": 1698364800000
+                },
+                {
+                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+                    "badgeID": "5818575",
+                    "badgeDate": 1698364800000
+                },
+                {
                     "badgeName": "Build and Secure Networks in Google Cloud",
                     "badgeID": "5794457",
                     "badgeDate": 1698278400000
@@ -2343,9 +2358,9 @@
                     "badgeDate": 1698192000000
                 }
             ],
-            "skills": 7,
-            "trackOne": 7,
-            "trackTwo": 0
+            "skills": 9,
+            "trackOne": 8,
+            "trackTwo": 1
         },
         {
             "name": "Rashi R. Potey",
@@ -4946,6 +4961,16 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Build and Secure Networks in Google Cloud",
+                    "badgeID": "5818799",
+                    "badgeDate": 1698364800000
+                },
+                {
+                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
+                    "badgeID": "5818512",
+                    "badgeDate": 1698364800000
+                },
+                {
                     "badgeName": "Create and Manage Cloud Resources",
                     "badgeID": "5817870",
                     "badgeDate": 1698364800000
@@ -4971,8 +4996,8 @@
                     "badgeDate": 1698105600000
                 }
             ],
-            "skills": 5,
-            "trackOne": 5,
+            "skills": 7,
+            "trackOne": 7,
             "trackTwo": 0
         },
         {
@@ -5446,5 +5471,5 @@
             "trackTwo": 1
         }
     ],
-    "time": "Saturday, October 28, 2023 at 1:40 AM"
+    "time": "Saturday, October 28, 2023 at 2:38 AM"
 }

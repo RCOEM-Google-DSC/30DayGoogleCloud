@@ -384,15 +384,15 @@ export const leaderBoardData = [
         "latestSkill": 1698278400000
     },
     {
-        "name": "Aastha Sahu",
-        "skills": 7,
-        "trackOne": 7,
+        "name": "Apurve Trivedi",
+        "skills": 8,
+        "trackOne": 8,
         "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1698278400000
+        "color": "green",
+        "latestSkill": 1698364800000
     },
     {
-        "name": "Apurve Trivedi",
+        "name": "Aastha Sahu",
         "skills": 7,
         "trackOne": 7,
         "trackTwo": 0,
@@ -488,6 +488,14 @@ export const leaderBoardData = [
         "latestSkill": 1698278400000
     },
     {
+        "name": "Jayesh Ashok Landge",
+        "skills": 5,
+        "trackOne": 5,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1698364800000
+    },
+    {
         "name": "Mrunal Vinod Thakre",
         "skills": 5,
         "trackOne": 4,
@@ -534,14 +542,6 @@ export const leaderBoardData = [
         "trackTwo": 0,
         "color": "black",
         "latestSkill": 1698278400000
-    },
-    {
-        "name": "Jayesh Ashok Landge",
-        "skills": 4,
-        "trackOne": 4,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1698364800000
     },
     {
         "name": "Aishwary Jayant Gathe",
@@ -617,6 +617,14 @@ export const leaderBoardData = [
     },
     {
         "name": "Naman Dhoot",
+        "skills": 3,
+        "trackOne": 3,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1698278400000
+    },
+    {
+        "name": "Nipun Kupatkar",
         "skills": 3,
         "trackOne": 3,
         "trackTwo": 0,
@@ -952,14 +960,6 @@ export const leaderBoardData = [
         "latestSkill": null
     },
     {
-        "name": "Nipun Kupatkar",
-        "skills": 0,
-        "trackOne": 0,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": null
-    },
-    {
         "name": "Yash Rajendra Patni",
         "skills": 0,
         "trackOne": 0,
@@ -1153,4 +1153,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Friday, October 27, 2023 at 3:40 PM"
+export const updateTime =  "Friday, October 27, 2023 at 4:38 PM"

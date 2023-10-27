@@ -3031,6 +3031,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
+                    "badgeID": "5807746",
+                    "badgeDate": 1698364800000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
                     "badgeID": "5793031",
                     "badgeDate": 1698278400000
@@ -3041,8 +3046,8 @@
                     "badgeDate": 1698105600000
                 }
             ],
-            "skills": 2,
-            "trackOne": 2,
+            "skills": 3,
+            "trackOne": 3,
             "trackTwo": 0
         },
         {
@@ -3072,6 +3077,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
+                    "badgeID": "5808005",
+                    "badgeDate": 1698364800000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
                     "badgeID": "5780755",
                     "badgeDate": 1698192000000
@@ -3082,8 +3092,8 @@
                     "badgeDate": 1698192000000
                 }
             ],
-            "skills": 2,
-            "trackOne": 2,
+            "skills": 3,
+            "trackOne": 3,
             "trackTwo": 0
         },
         {
@@ -4632,6 +4642,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5808025",
+                    "badgeDate": 1698364800000
+                },
+                {
                     "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
                     "badgeID": "5806648",
                     "badgeDate": 1698364800000
@@ -4672,9 +4687,9 @@
                     "badgeDate": 1698105600000
                 }
             ],
-            "skills": 8,
+            "skills": 9,
             "trackOne": 8,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Mayank Mokhere",
@@ -4928,5 +4943,5 @@
             "trackTwo": 1
         }
     ],
-    "time": "Friday, October 27, 2023 at 4:38 PM"
+    "time": "Friday, October 27, 2023 at 5:45 PM"
 }

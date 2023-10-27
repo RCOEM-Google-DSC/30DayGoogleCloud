@@ -360,6 +360,14 @@ export const leaderBoardData = [
         "latestSkill": 1698278400000
     },
     {
+        "name": "Apurve Trivedi",
+        "skills": 9,
+        "trackOne": 8,
+        "trackTwo": 1,
+        "color": "blue",
+        "latestSkill": 1698364800000
+    },
+    {
         "name": "Atharva Pritam Rakshak",
         "skills": 8,
         "trackOne": 8,
@@ -382,14 +390,6 @@ export const leaderBoardData = [
         "trackTwo": 0,
         "color": "green",
         "latestSkill": 1698278400000
-    },
-    {
-        "name": "Apurve Trivedi",
-        "skills": 8,
-        "trackOne": 8,
-        "trackTwo": 0,
-        "color": "green",
-        "latestSkill": 1698364800000
     },
     {
         "name": "Aastha Sahu",
@@ -656,6 +656,22 @@ export const leaderBoardData = [
         "latestSkill": 1698278400000
     },
     {
+        "name": "Divyani Raut",
+        "skills": 3,
+        "trackOne": 3,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1698364800000
+    },
+    {
+        "name": "Tejas Gangane",
+        "skills": 3,
+        "trackOne": 3,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1698364800000
+    },
+    {
         "name": "Adnan Shabbir Husain",
         "skills": 3,
         "trackOne": 2,
@@ -720,23 +736,7 @@ export const leaderBoardData = [
         "latestSkill": 1698192000000
     },
     {
-        "name": "Tejas Gangane",
-        "skills": 2,
-        "trackOne": 2,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1698192000000
-    },
-    {
         "name": "Onkar Sachin Pathak",
-        "skills": 2,
-        "trackOne": 2,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1698278400000
-    },
-    {
-        "name": "Divyani Raut",
         "skills": 2,
         "trackOne": 2,
         "trackTwo": 0,
@@ -1153,4 +1153,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Friday, October 27, 2023 at 4:38 PM"
+export const updateTime =  "Friday, October 27, 2023 at 5:45 PM"

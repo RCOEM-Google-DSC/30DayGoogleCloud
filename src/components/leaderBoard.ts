@@ -360,6 +360,14 @@ export const leaderBoardData = [
         "latestSkill": 1698278400000
     },
     {
+        "name": "Rashi R. Potey",
+        "skills": 9,
+        "trackOne": 8,
+        "trackTwo": 1,
+        "color": "blue",
+        "latestSkill": 1698364800000
+    },
+    {
         "name": "Apurve Trivedi",
         "skills": 9,
         "trackOne": 8,
@@ -392,7 +400,7 @@ export const leaderBoardData = [
         "latestSkill": 1698278400000
     },
     {
-        "name": "Rashi R. Potey",
+        "name": "Nipun Kupatkar",
         "skills": 8,
         "trackOne": 8,
         "trackTwo": 0,
@@ -416,11 +424,27 @@ export const leaderBoardData = [
         "latestSkill": 1698278400000
     },
     {
-        "name": "Nipun Kupatkar",
+        "name": "Satyam Nagendra Mishra",
         "skills": 7,
         "trackOne": 7,
         "trackTwo": 0,
         "color": "black",
+        "latestSkill": 1698364800000
+    },
+    {
+        "name": "Jay Ajay Gupta",
+        "skills": 7,
+        "trackOne": 6,
+        "trackTwo": 1,
+        "color": "green",
+        "latestSkill": 1698364800000
+    },
+    {
+        "name": "Adnan Shabbir Husain",
+        "skills": 7,
+        "trackOne": 6,
+        "trackTwo": 1,
+        "color": "green",
         "latestSkill": 1698364800000
     },
     {
@@ -440,14 +464,6 @@ export const leaderBoardData = [
         "latestSkill": 1698192000000
     },
     {
-        "name": "Jay Ajay Gupta",
-        "skills": 6,
-        "trackOne": 6,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1698278400000
-    },
-    {
         "name": "Sarthak Chaure",
         "skills": 6,
         "trackOne": 6,
@@ -465,14 +481,6 @@ export const leaderBoardData = [
     },
     {
         "name": "Divyani Raut",
-        "skills": 6,
-        "trackOne": 6,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1698364800000
-    },
-    {
-        "name": "Satyam Nagendra Mishra",
         "skills": 6,
         "trackOne": 6,
         "trackTwo": 0,
@@ -528,11 +536,19 @@ export const leaderBoardData = [
         "latestSkill": 1698364800000
     },
     {
-        "name": "Adnan Shabbir Husain",
+        "name": "Mayank Mokhere",
         "skills": 5,
-        "trackOne": 4,
-        "trackTwo": 1,
-        "color": "green",
+        "trackOne": 5,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1698364800000
+    },
+    {
+        "name": "Akshay Padia",
+        "skills": 5,
+        "trackOne": 5,
+        "trackTwo": 0,
+        "color": "black",
         "latestSkill": 1698364800000
     },
     {
@@ -601,22 +617,6 @@ export const leaderBoardData = [
     },
     {
         "name": "Tejas Gangane",
-        "skills": 4,
-        "trackOne": 4,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1698364800000
-    },
-    {
-        "name": "Mayank Mokhere",
-        "skills": 4,
-        "trackOne": 4,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1698364800000
-    },
-    {
-        "name": "Akshay Padia",
         "skills": 4,
         "trackOne": 4,
         "trackTwo": 0,
@@ -800,20 +800,20 @@ export const leaderBoardData = [
         "latestSkill": 1698278400000
     },
     {
+        "name": "Vedant Ramesh Bhutada",
+        "skills": 2,
+        "trackOne": 1,
+        "trackTwo": 1,
+        "color": "green",
+        "latestSkill": 1698364800000
+    },
+    {
         "name": "Archeta Kailash Sugandh",
         "skills": 1,
         "trackOne": 1,
         "trackTwo": 0,
         "color": "black",
         "latestSkill": 1696809600000
-    },
-    {
-        "name": "Vedant Ramesh Bhutada",
-        "skills": 1,
-        "trackOne": 1,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1697068800000
     },
     {
         "name": "Vaibhav Rajendrasingh Gautam",
@@ -1153,4 +1153,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Friday, October 27, 2023 at 8:39 PM"
+export const updateTime =  "Friday, October 27, 2023 at 9:42 PM"

@@ -59,14 +59,24 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "5812274",
+                    "badgeDate": 1698364800000
+                },
+                {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5812113",
+                    "badgeDate": 1698364800000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
                     "badgeID": "5577351",
                     "badgeDate": 1697068800000
                 }
             ],
-            "skills": 1,
+            "skills": 2,
             "trackOne": 1,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Shehzan Sheikh",
@@ -131,6 +141,16 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "5812744",
+                    "badgeDate": 1698364800000
+                },
+                {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5812506",
+                    "badgeDate": 1698364800000
+                },
+                {
                     "badgeName": "Build and Secure Networks in Google Cloud",
                     "badgeID": "5793072",
                     "badgeDate": 1698278400000
@@ -161,9 +181,9 @@
                     "badgeDate": 1697932800000
                 }
             ],
-            "skills": 6,
+            "skills": 7,
             "trackOne": 6,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Harshit Sahu",
@@ -724,6 +744,16 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
+                    "badgeID": "5812100",
+                    "badgeDate": 1698364800000
+                },
+                {
+                    "badgeName": "Create and Manage Cloud Resources",
+                    "badgeID": "5811903",
+                    "badgeDate": 1698364800000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud",
                     "badgeID": "5811236",
                     "badgeDate": 1698364800000
@@ -749,8 +779,8 @@
                     "badgeDate": 1698105600000
                 }
             ],
-            "skills": 5,
-            "trackOne": 4,
+            "skills": 7,
+            "trackOne": 6,
             "trackTwo": 1
         },
         {
@@ -1834,6 +1864,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+                    "badgeID": "5812723",
+                    "badgeDate": 1698364800000
+                },
+                {
                     "badgeName": "Build and Secure Networks in Google Cloud",
                     "badgeID": "5811334",
                     "badgeDate": 1698364800000
@@ -1869,8 +1904,8 @@
                     "badgeDate": 1698278400000
                 }
             ],
-            "skills": 7,
-            "trackOne": 7,
+            "skills": 8,
+            "trackOne": 8,
             "trackTwo": 0
         },
         {
@@ -2193,6 +2228,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5812330",
+                    "badgeDate": 1698364800000
+                },
+                {
                     "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
                     "badgeID": "5808820",
                     "badgeDate": 1698364800000
@@ -2233,9 +2273,9 @@
                     "badgeDate": 1697932800000
                 }
             ],
-            "skills": 8,
+            "skills": 9,
             "trackOne": 8,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Jaya Singh",
@@ -3730,6 +3770,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Create and Manage Cloud Resources",
+                    "badgeID": "5812757",
+                    "badgeDate": 1698364800000
+                },
+                {
                     "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
                     "badgeID": "5810018",
                     "badgeDate": 1698364800000
@@ -3760,8 +3805,8 @@
                     "badgeDate": 1698105600000
                 }
             ],
-            "skills": 6,
-            "trackOne": 6,
+            "skills": 7,
+            "trackOne": 7,
             "trackTwo": 0
         },
         {
@@ -4854,6 +4899,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Create and Manage Cloud Resources",
+                    "badgeID": "5811944",
+                    "badgeDate": 1698364800000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud",
                     "badgeID": "5811215",
                     "badgeDate": 1698364800000
@@ -4874,8 +4924,8 @@
                     "badgeDate": 1697846400000
                 }
             ],
-            "skills": 4,
-            "trackOne": 4,
+            "skills": 5,
+            "trackOne": 5,
             "trackTwo": 0
         },
         {
@@ -4911,6 +4961,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
+                    "badgeID": "5813088",
+                    "badgeDate": 1698364800000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
                     "badgeID": "5811016",
                     "badgeDate": 1698364800000
@@ -4931,8 +4986,8 @@
                     "badgeDate": 1696809600000
                 }
             ],
-            "skills": 4,
-            "trackOne": 4,
+            "skills": 5,
+            "trackOne": 5,
             "trackTwo": 0
         },
         {
@@ -5109,5 +5164,5 @@
             "trackTwo": 1
         }
     ],
-    "time": "Friday, October 27, 2023 at 8:39 PM"
+    "time": "Friday, October 27, 2023 at 9:42 PM"
 }

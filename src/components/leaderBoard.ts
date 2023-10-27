@@ -376,6 +376,14 @@ export const leaderBoardData = [
         "latestSkill": 1698364800000
     },
     {
+        "name": "Mahesh Bora",
+        "skills": 9,
+        "trackOne": 8,
+        "trackTwo": 1,
+        "color": "blue",
+        "latestSkill": 1698364800000
+    },
+    {
         "name": "Varad Bodkhe",
         "skills": 9,
         "trackOne": 8,
@@ -456,7 +464,23 @@ export const leaderBoardData = [
         "latestSkill": 1698364800000
     },
     {
+        "name": "Sarthak Chaure",
+        "skills": 8,
+        "trackOne": 8,
+        "trackTwo": 0,
+        "color": "green",
+        "latestSkill": 1698364800000
+    },
+    {
         "name": "Jagruti Bhoyar",
+        "skills": 8,
+        "trackOne": 8,
+        "trackTwo": 0,
+        "color": "green",
+        "latestSkill": 1698364800000
+    },
+    {
+        "name": "Shreya Seth",
         "skills": 8,
         "trackOne": 8,
         "trackTwo": 0,
@@ -512,22 +536,6 @@ export const leaderBoardData = [
         "latestSkill": 1698364800000
     },
     {
-        "name": "Shreya Seth",
-        "skills": 7,
-        "trackOne": 7,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1698364800000
-    },
-    {
-        "name": "Mahesh Bora",
-        "skills": 7,
-        "trackOne": 6,
-        "trackTwo": 1,
-        "color": "green",
-        "latestSkill": 1698364800000
-    },
-    {
         "name": "Ankit Pande",
         "skills": 7,
         "trackOne": 6,
@@ -542,14 +550,6 @@ export const leaderBoardData = [
         "trackTwo": 0,
         "color": "black",
         "latestSkill": 1698192000000
-    },
-    {
-        "name": "Sarthak Chaure",
-        "skills": 6,
-        "trackOne": 6,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1698278400000
     },
     {
         "name": "Aryan Khokle",
@@ -592,7 +592,23 @@ export const leaderBoardData = [
         "latestSkill": 1698364800000
     },
     {
+        "name": "Adesh Dhanraj Bode",
+        "skills": 5,
+        "trackOne": 5,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1698364800000
+    },
+    {
         "name": "Jayesh Ashok Landge",
+        "skills": 5,
+        "trackOne": 5,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1698364800000
+    },
+    {
+        "name": "Srushti Gawande",
         "skills": 5,
         "trackOne": 5,
         "trackTwo": 0,
@@ -633,14 +649,6 @@ export const leaderBoardData = [
     },
     {
         "name": "Pratik Suresh Pimpalkar",
-        "skills": 4,
-        "trackOne": 4,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1698278400000
-    },
-    {
-        "name": "Srushti Gawande",
         "skills": 4,
         "trackOne": 4,
         "trackTwo": 0,
@@ -734,14 +742,6 @@ export const leaderBoardData = [
         "trackTwo": 0,
         "color": "black",
         "latestSkill": 1698278400000
-    },
-    {
-        "name": "Adesh Dhanraj Bode",
-        "skills": 3,
-        "trackOne": 3,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1698364800000
     },
     {
         "name": "Dixita Hawelikar",
@@ -1153,4 +1153,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Saturday, October 28, 2023 at 2:38 AM"
+export const updateTime =  "Saturday, October 28, 2023 at 3:39 AM"

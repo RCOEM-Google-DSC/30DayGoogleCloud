@@ -2885,13 +2885,39 @@
         },
         {
             "name": "Shruti Sharma",
-            "profileLink": "https://www.cloudskillsboost.google/public_profiles/c2cd62c4-6b8a-4169-91bd-c3ed521a0ddf",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/68d7c452-e064-4ea1-988b-7cc3998a1918",
             "enrollDate": 1695739355000,
             "isEnrollStatusGood": true,
-            "badges": [],
-            "skills": 0,
-            "trackOne": 0,
-            "trackTwo": 0
+            "badges": [
+                {
+                    "badgeName": "Build and Secure Networks in Google Cloud",
+                    "badgeID": "5819487",
+                    "badgeDate": 1698364800000
+                },
+                {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "5818982",
+                    "badgeDate": 1698364800000
+                },
+                {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5818894",
+                    "badgeDate": 1698364800000
+                },
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
+                    "badgeID": "5818487",
+                    "badgeDate": 1698364800000
+                },
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5797048",
+                    "badgeDate": 1698278400000
+                }
+            ],
+            "skills": 4,
+            "trackOne": 3,
+            "trackTwo": 1
         },
         {
             "name": "Aayush Suresh Dharpure",
@@ -3445,6 +3471,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+                    "badgeID": "5822021",
+                    "badgeDate": 1698451200000
+                },
+                {
                     "badgeName": "Create and Manage Cloud Resources",
                     "badgeID": "5817299",
                     "badgeDate": 1698364800000
@@ -3480,8 +3511,8 @@
                     "badgeDate": 1698192000000
                 }
             ],
-            "skills": 7,
-            "trackOne": 7,
+            "skills": 8,
+            "trackOne": 8,
             "trackTwo": 0
         },
         {
@@ -5572,5 +5603,5 @@
             "trackTwo": 1
         }
     ],
-    "time": "Saturday, October 28, 2023 at 10:39 AM"
+    "time": "Saturday, October 28, 2023 at 11:41 AM"
 }

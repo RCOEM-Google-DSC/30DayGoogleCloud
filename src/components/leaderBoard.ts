@@ -888,6 +888,14 @@ export const leaderBoardData = [
         "latestSkill": 1698451200000
     },
     {
+        "name": "Syed Rafey Jamal Alvei",
+        "skills": 2,
+        "trackOne": 2,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1698451200000
+    },
+    {
         "name": "Sanchit Pahurkar",
         "skills": 2,
         "trackOne": 1,
@@ -969,14 +977,6 @@ export const leaderBoardData = [
     },
     {
         "name": "Vedant Sanjay Murai",
-        "skills": 1,
-        "trackOne": 1,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1698451200000
-    },
-    {
-        "name": "Syed Rafey Jamal Alvei",
         "skills": 1,
         "trackOne": 1,
         "trackTwo": 0,
@@ -1153,4 +1153,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Sunday, October 29, 2023 at 2:38 AM"
+export const updateTime =  "Sunday, October 29, 2023 at 3:39 AM"

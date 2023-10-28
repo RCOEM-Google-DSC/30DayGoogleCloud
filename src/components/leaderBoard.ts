@@ -448,6 +448,14 @@ export const leaderBoardData = [
         "latestSkill": 1698451200000
     },
     {
+        "name": "Aryan Khokle",
+        "skills": 9,
+        "trackOne": 8,
+        "trackTwo": 1,
+        "color": "blue",
+        "latestSkill": 1698451200000
+    },
+    {
         "name": "Jayesh Ashok Landge",
         "skills": 9,
         "trackOne": 8,
@@ -576,7 +584,7 @@ export const leaderBoardData = [
         "latestSkill": 1698364800000
     },
     {
-        "name": "Aryan Khokle",
+        "name": "Navneet Atul Jaju",
         "skills": 8,
         "trackOne": 7,
         "trackTwo": 1,
@@ -584,7 +592,7 @@ export const leaderBoardData = [
         "latestSkill": 1698451200000
     },
     {
-        "name": "Navneet Atul Jaju",
+        "name": "Rishav Santosh Shukla",
         "skills": 8,
         "trackOne": 7,
         "trackTwo": 1,
@@ -616,7 +624,15 @@ export const leaderBoardData = [
         "latestSkill": 1698364800000
     },
     {
-        "name": "Rishav Santosh Shukla",
+        "name": "Aishwary Jayant Gathe",
+        "skills": 7,
+        "trackOne": 6,
+        "trackTwo": 1,
+        "color": "green",
+        "latestSkill": 1698451200000
+    },
+    {
+        "name": "Aarsh Vilas Gangulwar",
         "skills": 7,
         "trackOne": 6,
         "trackTwo": 1,
@@ -640,22 +656,6 @@ export const leaderBoardData = [
         "latestSkill": 1698364800000
     },
     {
-        "name": "Aarsh Vilas Gangulwar",
-        "skills": 6,
-        "trackOne": 5,
-        "trackTwo": 1,
-        "color": "green",
-        "latestSkill": 1698364800000
-    },
-    {
-        "name": "Aishwary Jayant Gathe",
-        "skills": 6,
-        "trackOne": 5,
-        "trackTwo": 1,
-        "color": "green",
-        "latestSkill": 1698451200000
-    },
-    {
         "name": "Adesh Dhanraj Bode",
         "skills": 6,
         "trackOne": 5,
@@ -665,6 +665,14 @@ export const leaderBoardData = [
     },
     {
         "name": "Om Ghumre",
+        "skills": 6,
+        "trackOne": 5,
+        "trackTwo": 1,
+        "color": "green",
+        "latestSkill": 1698451200000
+    },
+    {
+        "name": "Atharva Dilip Werulkar",
         "skills": 6,
         "trackOne": 5,
         "trackTwo": 1,
@@ -704,14 +712,6 @@ export const leaderBoardData = [
         "latestSkill": 1698451200000
     },
     {
-        "name": "Atharva Dilip Werulkar",
-        "skills": 5,
-        "trackOne": 4,
-        "trackTwo": 1,
-        "color": "green",
-        "latestSkill": 1698451200000
-    },
-    {
         "name": "Rohit SohonLal Garg",
         "skills": 4,
         "trackOne": 4,
@@ -726,6 +726,14 @@ export const leaderBoardData = [
         "trackTwo": 0,
         "color": "black",
         "latestSkill": 1698278400000
+    },
+    {
+        "name": "Naman Dhoot",
+        "skills": 4,
+        "trackOne": 4,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1698451200000
     },
     {
         "name": "Dixita Hawelikar",
@@ -776,15 +784,15 @@ export const leaderBoardData = [
         "latestSkill": 1698105600000
     },
     {
-        "name": "Naman Dhoot",
+        "name": "Vedant Prashant Madhwe",
         "skills": 3,
         "trackOne": 3,
         "trackTwo": 0,
         "color": "black",
-        "latestSkill": 1698278400000
+        "latestSkill": 1698451200000
     },
     {
-        "name": "Vedant Prashant Madhwe",
+        "name": "Sakshi Fadnavis",
         "skills": 3,
         "trackOne": 3,
         "trackTwo": 0,
@@ -857,14 +865,6 @@ export const leaderBoardData = [
     },
     {
         "name": "Yashraj Santosh Kabra",
-        "skills": 2,
-        "trackOne": 2,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1698451200000
-    },
-    {
-        "name": "Sakshi Fadnavis",
         "skills": 2,
         "trackOne": 2,
         "trackTwo": 0,
@@ -1153,4 +1153,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Saturday, October 28, 2023 at 7:38 PM"
+export const updateTime =  "Saturday, October 28, 2023 at 8:38 PM"

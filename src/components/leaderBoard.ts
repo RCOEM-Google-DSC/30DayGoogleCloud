@@ -432,6 +432,14 @@ export const leaderBoardData = [
         "latestSkill": 1698364800000
     },
     {
+        "name": "Akshay Padia",
+        "skills": 9,
+        "trackOne": 8,
+        "trackTwo": 1,
+        "color": "blue",
+        "latestSkill": 1698451200000
+    },
+    {
         "name": "Atharva Pritam Rakshak",
         "skills": 8,
         "trackOne": 8,
@@ -481,14 +489,6 @@ export const leaderBoardData = [
     },
     {
         "name": "Shreya Seth",
-        "skills": 8,
-        "trackOne": 8,
-        "trackTwo": 0,
-        "color": "green",
-        "latestSkill": 1698364800000
-    },
-    {
-        "name": "Akshay Padia",
         "skills": 8,
         "trackOne": 8,
         "trackTwo": 0,
@@ -600,6 +600,14 @@ export const leaderBoardData = [
         "latestSkill": 1698364800000
     },
     {
+        "name": "Om Ghumre",
+        "skills": 6,
+        "trackOne": 5,
+        "trackTwo": 1,
+        "color": "green",
+        "latestSkill": 1698451200000
+    },
+    {
         "name": "Onkar Sachin Pathak",
         "skills": 5,
         "trackOne": 5,
@@ -637,14 +645,6 @@ export const leaderBoardData = [
         "trackOne": 5,
         "trackTwo": 0,
         "color": "black",
-        "latestSkill": 1698364800000
-    },
-    {
-        "name": "Om Ghumre",
-        "skills": 5,
-        "trackOne": 4,
-        "trackTwo": 1,
-        "color": "green",
         "latestSkill": 1698364800000
     },
     {
@@ -712,6 +712,14 @@ export const leaderBoardData = [
         "latestSkill": 1698364800000
     },
     {
+        "name": "Atharva Dilip Werulkar",
+        "skills": 4,
+        "trackOne": 3,
+        "trackTwo": 1,
+        "color": "green",
+        "latestSkill": 1698451200000
+    },
+    {
         "name": "Meharsh Mohitkumar Chandure",
         "skills": 3,
         "trackOne": 3,
@@ -758,14 +766,6 @@ export const leaderBoardData = [
         "trackTwo": 0,
         "color": "black",
         "latestSkill": 1698364800000
-    },
-    {
-        "name": "Atharva Dilip Werulkar",
-        "skills": 3,
-        "trackOne": 2,
-        "trackTwo": 1,
-        "color": "green",
-        "latestSkill": 1698278400000
     },
     {
         "name": "Ashutosh Tripathi",
@@ -1153,4 +1153,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Saturday, October 28, 2023 at 9:41 AM"
+export const updateTime =  "Saturday, October 28, 2023 at 10:39 AM"

@@ -1869,6 +1869,31 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5838780",
+                    "badgeDate": 1698451200000
+                },
+                {
+                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+                    "badgeID": "5838732",
+                    "badgeDate": 1698451200000
+                },
+                {
+                    "badgeName": "Build and Secure Networks in Google Cloud",
+                    "badgeID": "5838452",
+                    "badgeDate": 1698451200000
+                },
+                {
+                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
+                    "badgeID": "5838331",
+                    "badgeDate": 1698451200000
+                },
+                {
+                    "badgeName": "Create and Manage Cloud Resources",
+                    "badgeID": "5838177",
+                    "badgeDate": 1698451200000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud",
                     "badgeID": "5796760",
                     "badgeDate": 1698278400000
@@ -1889,9 +1914,9 @@
                     "badgeDate": 1697500800000
                 }
             ],
-            "skills": 4,
-            "trackOne": 4,
-            "trackTwo": 0
+            "skills": 9,
+            "trackOne": 8,
+            "trackTwo": 1
         },
         {
             "name": "Aditya Pratap Singh",
@@ -2150,6 +2175,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+                    "badgeID": "5838443",
+                    "badgeDate": 1698451200000
+                },
+                {
                     "badgeName": "Build and Secure Networks in Google Cloud",
                     "badgeID": "5837872",
                     "badgeDate": 1698451200000
@@ -2190,8 +2220,8 @@
                     "badgeDate": 1698019200000
                 }
             ],
-            "skills": 8,
-            "trackOne": 7,
+            "skills": 9,
+            "trackOne": 8,
             "trackTwo": 1
         },
         {
@@ -4541,6 +4571,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5838450",
+                    "badgeDate": 1698451200000
+                },
+                {
                     "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
                     "badgeID": "5833814",
                     "badgeDate": 1698451200000
@@ -4581,9 +4616,9 @@
                     "badgeDate": 1698105600000
                 }
             ],
-            "skills": 8,
+            "skills": 9,
             "trackOne": 8,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "AADI AMIT RINGAY",
@@ -5589,6 +5624,16 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "5839099",
+                    "badgeDate": 1698451200000
+                },
+                {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5838866",
+                    "badgeDate": 1698451200000
+                },
+                {
                     "badgeName": "Build and Secure Networks in Google Cloud",
                     "badgeID": "5837555",
                     "badgeDate": 1698451200000
@@ -5629,9 +5674,9 @@
                     "badgeDate": 1698019200000
                 }
             ],
-            "skills": 8,
+            "skills": 9,
             "trackOne": 8,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Uttkarsh Shankarrao Khanke",
@@ -5692,6 +5737,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Build and Secure Networks in Google Cloud",
+                    "badgeID": "5839096",
+                    "badgeDate": 1698451200000
+                },
+                {
                     "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
                     "badgeID": "5837537",
                     "badgeDate": 1698451200000
@@ -5722,8 +5772,8 @@
                     "badgeDate": 1698451200000
                 }
             ],
-            "skills": 6,
-            "trackOne": 6,
+            "skills": 7,
+            "trackOne": 7,
             "trackTwo": 0
         },
         {
@@ -6289,5 +6339,5 @@
             "trackTwo": 1
         }
     ],
-    "time": "Sunday, October 29, 2023 at 12:37 AM"
+    "time": "Sunday, October 29, 2023 at 1:40 AM"
 }

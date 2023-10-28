@@ -600,6 +600,14 @@ export const leaderBoardData = [
         "latestSkill": 1698364800000
     },
     {
+        "name": "Onkar Sachin Pathak",
+        "skills": 5,
+        "trackOne": 5,
+        "trackTwo": 0,
+        "color": "black",
+        "latestSkill": 1698364800000
+    },
+    {
         "name": "Tushar Pamnani",
         "skills": 5,
         "trackOne": 5,
@@ -632,6 +640,22 @@ export const leaderBoardData = [
         "latestSkill": 1698364800000
     },
     {
+        "name": "Om Ghumre",
+        "skills": 5,
+        "trackOne": 4,
+        "trackTwo": 1,
+        "color": "green",
+        "latestSkill": 1698364800000
+    },
+    {
+        "name": "Navneet Atul Jaju",
+        "skills": 5,
+        "trackOne": 4,
+        "trackTwo": 1,
+        "color": "green",
+        "latestSkill": 1698364800000
+    },
+    {
         "name": "Rishav Santosh Shukla",
         "skills": 5,
         "trackOne": 4,
@@ -656,14 +680,6 @@ export const leaderBoardData = [
         "latestSkill": 1698278400000
     },
     {
-        "name": "Onkar Sachin Pathak",
-        "skills": 4,
-        "trackOne": 4,
-        "trackTwo": 0,
-        "color": "black",
-        "latestSkill": 1698364800000
-    },
-    {
         "name": "Awadhesh Gosewade",
         "skills": 4,
         "trackOne": 4,
@@ -680,14 +696,6 @@ export const leaderBoardData = [
         "latestSkill": 1697068800000
     },
     {
-        "name": "Om Ghumre",
-        "skills": 4,
-        "trackOne": 3,
-        "trackTwo": 1,
-        "color": "green",
-        "latestSkill": 1698105600000
-    },
-    {
         "name": "Ayush Sachan",
         "skills": 4,
         "trackOne": 3,
@@ -697,14 +705,6 @@ export const leaderBoardData = [
     },
     {
         "name": "Vedant Ramesh Bhutada",
-        "skills": 4,
-        "trackOne": 3,
-        "trackTwo": 1,
-        "color": "green",
-        "latestSkill": 1698364800000
-    },
-    {
-        "name": "Navneet Atul Jaju",
         "skills": 4,
         "trackOne": 3,
         "trackTwo": 1,
@@ -1153,4 +1153,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Saturday, October 28, 2023 at 8:40 AM"
+export const updateTime =  "Saturday, October 28, 2023 at 9:41 AM"

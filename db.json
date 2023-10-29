@@ -1098,13 +1098,23 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
+                    "badgeID": "5848345",
+                    "badgeDate": 1698537600000
+                },
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
+                    "badgeID": "5847467",
+                    "badgeDate": 1698537600000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
                     "badgeID": "5838026",
                     "badgeDate": 1698451200000
                 }
             ],
-            "skills": 1,
-            "trackOne": 1,
+            "skills": 3,
+            "trackOne": 3,
             "trackTwo": 0
         },
         {
@@ -1689,6 +1699,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5847954",
+                    "badgeDate": 1698537600000
+                },
+                {
                     "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
                     "badgeID": "5839978",
                     "badgeDate": 1698451200000
@@ -1729,9 +1744,9 @@
                     "badgeDate": 1697846400000
                 }
             ],
-            "skills": 8,
+            "skills": 9,
             "trackOne": 8,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Vanshika Pawan Sarda",
@@ -3900,6 +3915,11 @@
             "enrollDate": 1695742560000,
             "isEnrollStatusGood": true,
             "badges": [
+                {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "5848249",
+                    "badgeDate": 1698537600000
+                },
                 {
                     "badgeName": "Level 3 GenAI: Prompt Engineering",
                     "badgeID": "5847185",
@@ -6464,5 +6484,5 @@
             "trackTwo": 1
         }
     ],
-    "time": "Sunday, October 29, 2023 at 2:39 PM"
+    "time": "Sunday, October 29, 2023 at 3:40 PM"
 }

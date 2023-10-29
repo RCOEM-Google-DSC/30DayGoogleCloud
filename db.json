@@ -3014,6 +3014,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
+                    "badgeID": "5857103",
+                    "badgeDate": 1698537600000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
                     "badgeID": "5830579",
                     "badgeDate": 1698451200000
@@ -3044,8 +3049,8 @@
                     "badgeDate": 1696982400000
                 }
             ],
-            "skills": 2,
-            "trackOne": 1,
+            "skills": 3,
+            "trackOne": 2,
             "trackTwo": 1
         },
         {
@@ -3844,6 +3849,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+                    "badgeID": "5857604",
+                    "badgeDate": 1698537600000
+                },
+                {
                     "badgeName": "Level 3 GenAI: Prompt Engineering",
                     "badgeID": "5856200",
                     "badgeDate": 1698537600000
@@ -3884,8 +3894,8 @@
                     "badgeDate": 1696464000000
                 }
             ],
-            "skills": 7,
-            "trackOne": 6,
+            "skills": 8,
+            "trackOne": 7,
             "trackTwo": 1
         },
         {
@@ -6544,5 +6554,5 @@
             "trackTwo": 1
         }
     ],
-    "time": "Sunday, October 29, 2023 at 9:40 PM"
+    "time": "Sunday, October 29, 2023 at 10:38 PM"
 }

@@ -504,6 +504,14 @@ export const leaderBoardData = [
         "latestSkill": 1698451200000
     },
     {
+        "name": "Mrunal Vinod Thakre",
+        "skills": 9,
+        "trackOne": 8,
+        "trackTwo": 1,
+        "color": "blue",
+        "latestSkill": 1698451200000
+    },
+    {
         "name": "Atharva Dilip Werulkar",
         "skills": 9,
         "trackOne": 8,
@@ -710,14 +718,6 @@ export const leaderBoardData = [
         "trackTwo": 1,
         "color": "green",
         "latestSkill": 1698364800000
-    },
-    {
-        "name": "Mrunal Vinod Thakre",
-        "skills": 8,
-        "trackOne": 7,
-        "trackTwo": 1,
-        "color": "green",
-        "latestSkill": 1698451200000
     },
     {
         "name": "Shruti Sharma",
@@ -1153,4 +1153,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Sunday, October 29, 2023 at 6:09 AM"
+export const updateTime =  "Sunday, October 29, 2023 at 7:17 AM"

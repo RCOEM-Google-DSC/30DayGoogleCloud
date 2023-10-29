@@ -753,11 +753,11 @@ export const leaderBoardData = [
     },
     {
         "name": "Srushti Gawande",
-        "skills": 6,
-        "trackOne": 6,
+        "skills": 7,
+        "trackOne": 7,
         "trackTwo": 0,
         "color": "black",
-        "latestSkill": 1698364800000
+        "latestSkill": 1698537600000
     },
     {
         "name": "Priyansh Subhash Nigam",
@@ -1153,4 +1153,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Sunday, October 29, 2023 at 12:39 PM"
+export const updateTime =  "Sunday, October 29, 2023 at 1:41 PM"

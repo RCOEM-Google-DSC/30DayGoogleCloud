@@ -638,6 +638,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5863362",
+                    "badgeDate": 1698537600000
+                },
+                {
                     "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
                     "badgeID": "5862669",
                     "badgeDate": 1698537600000
@@ -678,9 +683,9 @@
                     "badgeDate": 1698451200000
                 }
             ],
-            "skills": 8,
+            "skills": 9,
             "trackOne": 8,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Ayush Sanjay Talpelwar",
@@ -6601,5 +6606,5 @@
             "trackTwo": 1
         }
     ],
-    "time": "Monday, October 30, 2023 at 3:38 AM"
+    "time": "Monday, October 30, 2023 at 4:39 AM"
 }

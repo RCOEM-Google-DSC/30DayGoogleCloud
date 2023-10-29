@@ -3346,6 +3346,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5853345",
+                    "badgeDate": 1698537600000
+                },
+                {
                     "badgeName": "Introduction to Generative AI",
                     "badgeID": "5850703",
                     "badgeDate": 1698537600000
@@ -3391,9 +3396,9 @@
                     "badgeDate": 1696982400000
                 }
             ],
-            "skills": 8,
+            "skills": 9,
             "trackOne": 8,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Dixita Hawelikar",
@@ -6529,5 +6534,5 @@
             "trackTwo": 1
         }
     ],
-    "time": "Sunday, October 29, 2023 at 6:40 PM"
+    "time": "Sunday, October 29, 2023 at 7:38 PM"
 }

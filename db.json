@@ -3901,6 +3901,16 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5847185",
+                    "badgeDate": 1698537600000
+                },
+                {
+                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+                    "badgeID": "5846899",
+                    "badgeDate": 1698537600000
+                },
+                {
                     "badgeName": "Build and Secure Networks in Google Cloud",
                     "badgeID": "5846057",
                     "badgeDate": 1698537600000
@@ -3936,9 +3946,9 @@
                     "badgeDate": 1698192000000
                 }
             ],
-            "skills": 7,
-            "trackOne": 7,
-            "trackTwo": 0
+            "skills": 9,
+            "trackOne": 8,
+            "trackTwo": 1
         },
         {
             "name": "sakshi satish asati",
@@ -5842,6 +5852,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5846756",
+                    "badgeDate": 1698537600000
+                },
+                {
                     "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
                     "badgeID": "5839356",
                     "badgeDate": 1698451200000
@@ -5882,9 +5897,9 @@
                     "badgeDate": 1698451200000
                 }
             ],
-            "skills": 8,
+            "skills": 9,
             "trackOne": 8,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Shreya Seth",
@@ -6449,5 +6464,5 @@
             "trackTwo": 1
         }
     ],
-    "time": "Sunday, October 29, 2023 at 1:41 PM"
+    "time": "Sunday, October 29, 2023 at 2:39 PM"
 }

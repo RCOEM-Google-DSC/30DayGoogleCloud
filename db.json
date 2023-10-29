@@ -3975,10 +3975,16 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/7a6ddc7a-b748-4621-a757-19f447c38196",
             "enrollDate": 1695742396000,
             "isEnrollStatusGood": true,
-            "badges": [],
-            "skills": 0,
+            "badges": [
+                {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5861308",
+                    "badgeDate": 1698537600000
+                }
+            ],
+            "skills": 1,
             "trackOne": 0,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Srushti Gawande",
@@ -6019,6 +6025,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5860777",
+                    "badgeDate": 1698537600000
+                },
+                {
                     "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
                     "badgeID": "5818998",
                     "badgeDate": 1698364800000
@@ -6059,9 +6070,9 @@
                     "badgeDate": 1698105600000
                 }
             ],
-            "skills": 8,
+            "skills": 9,
             "trackOne": 8,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Saket Rahate",
@@ -6575,5 +6586,5 @@
             "trackTwo": 1
         }
     ],
-    "time": "Monday, October 30, 2023 at 12:38 AM"
+    "time": "Monday, October 30, 2023 at 1:39 AM"
 }

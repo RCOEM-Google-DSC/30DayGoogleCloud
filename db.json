@@ -735,6 +735,16 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Build and Secure Networks in Google Cloud",
+                    "badgeID": "5842603",
+                    "badgeDate": 1698537600000
+                },
+                {
+                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
+                    "badgeID": "5842194",
+                    "badgeDate": 1698537600000
+                },
+                {
                     "badgeName": "Create and Manage Cloud Resources",
                     "badgeID": "5841914",
                     "badgeDate": 1698451200000
@@ -765,8 +775,8 @@
                     "badgeDate": 1696896000000
                 }
             ],
-            "skills": 6,
-            "trackOne": 5,
+            "skills": 8,
+            "trackOne": 7,
             "trackTwo": 1
         },
         {
@@ -2327,6 +2337,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5842334",
+                    "badgeDate": 1698537600000
+                },
+                {
                     "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
                     "badgeID": "5812723",
                     "badgeDate": 1698364800000
@@ -2367,9 +2382,9 @@
                     "badgeDate": 1698278400000
                 }
             ],
-            "skills": 8,
+            "skills": 9,
             "trackOne": 8,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Mrunal Vinod Thakre",
@@ -6399,5 +6414,5 @@
             "trackTwo": 1
         }
     ],
-    "time": "Sunday, October 29, 2023 at 9:41 AM"
+    "time": "Sunday, October 29, 2023 at 10:39 AM"
 }

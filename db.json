@@ -1463,10 +1463,16 @@
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/03c6b385-be82-4cb5-a963-9d34a1eeb985",
             "enrollDate": 1695736998000,
             "isEnrollStatusGood": true,
-            "badges": [],
-            "skills": 0,
+            "badges": [
+                {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5858722",
+                    "badgeDate": 1698537600000
+                }
+            ],
+            "skills": 1,
             "trackOne": 0,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Jayesh Shete",
@@ -3849,6 +3855,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
+                    "badgeID": "5858856",
+                    "badgeDate": 1698537600000
+                },
+                {
                     "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
                     "badgeID": "5857604",
                     "badgeDate": 1698537600000
@@ -3894,8 +3905,8 @@
                     "badgeDate": 1696464000000
                 }
             ],
-            "skills": 8,
-            "trackOne": 7,
+            "skills": 9,
+            "trackOne": 8,
             "trackTwo": 1
         },
         {
@@ -6554,5 +6565,5 @@
             "trackTwo": 1
         }
     ],
-    "time": "Sunday, October 29, 2023 at 10:38 PM"
+    "time": "Sunday, October 29, 2023 at 11:41 PM"
 }

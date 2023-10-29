@@ -3844,6 +3844,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5856200",
+                    "badgeDate": 1698537600000
+                },
+                {
                     "badgeName": "Build and Secure Networks in Google Cloud",
                     "badgeID": "5855084",
                     "badgeDate": 1698537600000
@@ -3879,9 +3884,9 @@
                     "badgeDate": 1696464000000
                 }
             ],
-            "skills": 6,
+            "skills": 7,
             "trackOne": 6,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Tripty Tiwari",
@@ -6539,5 +6544,5 @@
             "trackTwo": 1
         }
     ],
-    "time": "Sunday, October 29, 2023 at 8:39 PM"
+    "time": "Sunday, October 29, 2023 at 9:40 PM"
 }

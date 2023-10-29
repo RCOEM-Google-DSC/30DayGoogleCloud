@@ -769,10 +769,10 @@ export const leaderBoardData = [
     },
     {
         "name": "Vedant Prashant Madhwe",
-        "skills": 6,
+        "skills": 7,
         "trackOne": 6,
-        "trackTwo": 0,
-        "color": "black",
+        "trackTwo": 1,
+        "color": "green",
         "latestSkill": 1698537600000
     },
     {
@@ -1153,4 +1153,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Sunday, October 29, 2023 at 8:39 PM"
+export const updateTime =  "Sunday, October 29, 2023 at 9:40 PM"

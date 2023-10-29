@@ -777,10 +777,10 @@ export const leaderBoardData = [
     },
     {
         "name": "Sasmeet Dharmik",
-        "skills": 6,
+        "skills": 7,
         "trackOne": 6,
-        "trackTwo": 0,
-        "color": "black",
+        "trackTwo": 1,
+        "color": "green",
         "latestSkill": 1698537600000
     },
     {
@@ -1153,4 +1153,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Sunday, October 29, 2023 at 11:41 PM"
+export const updateTime =  "Monday, October 30, 2023 at 12:38 AM"

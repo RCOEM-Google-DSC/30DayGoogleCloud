@@ -6219,6 +6219,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Create and Manage Cloud Resources",
+                    "badgeID": "5878039",
+                    "badgeDate": 1698624000000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud",
                     "badgeID": "5876169",
                     "badgeDate": 1698624000000
@@ -6249,8 +6254,8 @@
                     "badgeDate": 1696809600000
                 }
             ],
-            "skills": 5,
-            "trackOne": 4,
+            "skills": 6,
+            "trackOne": 5,
             "trackTwo": 1
         },
         {
@@ -6621,5 +6626,5 @@
             "trackTwo": 1
         }
     ],
-    "time": "Monday, October 30, 2023 at 6:42 PM"
+    "time": "Monday, October 30, 2023 at 7:39 PM"
 }

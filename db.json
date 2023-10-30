@@ -4400,6 +4400,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
+                    "badgeID": "5869923",
+                    "badgeDate": 1698624000000
+                },
+                {
                     "badgeName": "Introduction to Generative AI",
                     "badgeID": "5859998",
                     "badgeDate": 1698537600000
@@ -4440,8 +4445,8 @@
                     "badgeDate": 1698451200000
                 }
             ],
-            "skills": 7,
-            "trackOne": 6,
+            "skills": 8,
+            "trackOne": 7,
             "trackTwo": 1
         },
         {
@@ -6606,5 +6611,5 @@
             "trackTwo": 1
         }
     ],
-    "time": "Monday, October 30, 2023 at 12:39 PM"
+    "time": "Monday, October 30, 2023 at 1:42 PM"
 }

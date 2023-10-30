@@ -2596,6 +2596,21 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
+                    "badgeID": "5882777",
+                    "badgeDate": 1698624000000
+                },
+                {
+                    "badgeName": "Build and Secure Networks in Google Cloud",
+                    "badgeID": "5882345",
+                    "badgeDate": 1698624000000
+                },
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
+                    "badgeID": "5882344",
+                    "badgeDate": 1698624000000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
                     "badgeID": "5803984",
                     "badgeDate": 1698364800000
@@ -2606,8 +2621,8 @@
                     "badgeDate": 1698019200000
                 }
             ],
-            "skills": 1,
-            "trackOne": 1,
+            "skills": 4,
+            "trackOne": 4,
             "trackTwo": 0
         },
         {
@@ -4308,6 +4323,16 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
+                    "badgeID": "5882407",
+                    "badgeDate": 1698624000000
+                },
+                {
+                    "badgeName": "Create and Manage Cloud Resources",
+                    "badgeID": "5881543",
+                    "badgeDate": 1698624000000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud",
                     "badgeID": "5879677",
                     "badgeDate": 1698624000000
@@ -4323,8 +4348,8 @@
                     "badgeDate": 1697241600000
                 }
             ],
-            "skills": 3,
-            "trackOne": 3,
+            "skills": 5,
+            "trackOne": 5,
             "trackTwo": 0
         },
         {
@@ -6646,5 +6671,5 @@
             "trackTwo": 1
         }
     ],
-    "time": "Monday, October 30, 2023 at 8:40 PM"
+    "time": "Monday, October 30, 2023 at 9:41 PM"
 }

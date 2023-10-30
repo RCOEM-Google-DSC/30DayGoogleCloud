@@ -4308,6 +4308,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud",
+                    "badgeID": "5879677",
+                    "badgeDate": 1698624000000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
                     "badgeID": "5802424",
                     "badgeDate": 1698364800000
@@ -4318,8 +4323,8 @@
                     "badgeDate": 1697241600000
                 }
             ],
-            "skills": 2,
-            "trackOne": 2,
+            "skills": 3,
+            "trackOne": 3,
             "trackTwo": 0
         },
         {
@@ -4400,6 +4405,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+                    "badgeID": "5879794",
+                    "badgeDate": 1698624000000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
                     "badgeID": "5869923",
                     "badgeDate": 1698624000000
@@ -4445,8 +4455,8 @@
                     "badgeDate": 1698451200000
                 }
             ],
-            "skills": 8,
-            "trackOne": 7,
+            "skills": 9,
+            "trackOne": 8,
             "trackTwo": 1
         },
         {
@@ -5199,6 +5209,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5880604",
+                    "badgeDate": 1698624000000
+                },
+                {
                     "badgeName": "Create and Manage Cloud Resources",
                     "badgeID": "5810294",
                     "badgeDate": 1698364800000
@@ -5224,9 +5239,9 @@
                     "badgeDate": 1697932800000
                 }
             ],
-            "skills": 5,
+            "skills": 6,
             "trackOne": 5,
-            "trackTwo": 0
+            "trackTwo": 1
         },
         {
             "name": "Yagyesh Bobde",
@@ -6219,6 +6234,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
+                    "badgeID": "5880797",
+                    "badgeDate": 1698624000000
+                },
+                {
                     "badgeName": "Create and Manage Cloud Resources",
                     "badgeID": "5878039",
                     "badgeDate": 1698624000000
@@ -6254,8 +6274,8 @@
                     "badgeDate": 1696809600000
                 }
             ],
-            "skills": 6,
-            "trackOne": 5,
+            "skills": 7,
+            "trackOne": 6,
             "trackTwo": 1
         },
         {
@@ -6626,5 +6646,5 @@
             "trackTwo": 1
         }
     ],
-    "time": "Monday, October 30, 2023 at 7:39 PM"
+    "time": "Monday, October 30, 2023 at 8:40 PM"
 }

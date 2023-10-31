@@ -37,7 +37,7 @@ export const init = async () => {
 	for (let i = 0; i < profile.length; i++) {
 		await wait(500);
 		if (!profile[i]['isEnrollStatusGood']) continue;
-		console.log(`Fetching Person ${i + 1}`);
+		console.log(`Fetching Person ${i + 1} (${profile[i]['name']})`);
 		profile[i]['badges'] = await getBadges(profile[i]['profileLink'], profile[i]['enrollDate']);
 	}
 	// count skills and quests

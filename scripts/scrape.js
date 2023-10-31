@@ -31,7 +31,7 @@ export const getBadges = async (url, enrollDate) => {
 		badgeName = badgeName.map((elem) => elem.innerText.split("\n").join(""));
 	}
 
-	let badgeDate = badgeClass.map((elem) => elem.querySelector("span.ql-body-2"));
+	let badgeDate = badgeClass.map((elem) => elem.querySelector("span.ql-body-medium"));
 	if (!badgeDate) {
 		console.log("No links found");
 		return [];

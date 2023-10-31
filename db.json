@@ -3563,6 +3563,67 @@
             "trackTwo": 1
         },
         {
+            "name": "Nidhi Manyam",
+            "profileLink": "https://www.cloudskillsboost.google/public_profiles/feaaf45c-dd7b-4b18-a64a-b09b2972f8e7",
+            "enrollDate": 1695739330000,
+            "isEnrollStatusGood": true,
+            "badges": [
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Infrastructure in Google Cloud",
+                    "badgeID": "5883400",
+                    "badgeDate": 1698624000000
+                },
+                {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "5882375",
+                    "badgeDate": 1698624000000
+                },
+                {
+                    "badgeName": "Level 3 GenAI: Prompt Engineering",
+                    "badgeID": "5882225",
+                    "badgeDate": 1698624000000
+                },
+                {
+                    "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
+                    "badgeID": "5879908",
+                    "badgeDate": 1698624000000
+                },
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
+                    "badgeID": "5878115",
+                    "badgeDate": 1698624000000
+                },
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud",
+                    "badgeID": "5877879",
+                    "badgeDate": 1698624000000
+                },
+                {
+                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
+                    "badgeID": "5877007",
+                    "badgeDate": 1698624000000
+                },
+                {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5875767",
+                    "badgeDate": 1698624000000
+                },
+                {
+                    "badgeName": "Build and Secure Networks in Google Cloud",
+                    "badgeID": "5873094",
+                    "badgeDate": 1698624000000
+                },
+                {
+                    "badgeName": "Create and Manage Cloud Resources",
+                    "badgeID": "5847705",
+                    "badgeDate": 1698537600000
+                }
+            ],
+            "skills": 9,
+            "trackOne": 8,
+            "trackTwo": 1
+        },
+        {
             "name": "Shruti Sharma",
             "profileLink": "https://www.cloudskillsboost.google/public_profiles/68d7c452-e064-4ea1-988b-7cc3998a1918",
             "enrollDate": 1695739355000,
@@ -6781,5 +6842,5 @@
             "trackTwo": 1
         }
     ],
-    "time": "Tuesday, October 31, 2023 at 10:09 AM"
+    "time": "Tuesday, October 31, 2023 at 10:18 AM"
 }

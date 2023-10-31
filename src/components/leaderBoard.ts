@@ -760,6 +760,14 @@ export const leaderBoardData = [
         "latestSkill": 1698624000000
     },
     {
+        "name": "Nidhi Manyam",
+        "skills": 9,
+        "trackOne": 8,
+        "trackTwo": 1,
+        "color": "blue",
+        "latestSkill": 1698624000000
+    },
+    {
         "name": "Shruti Sharma",
         "skills": 9,
         "trackOne": 8,
@@ -1153,4 +1161,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Tuesday, October 31, 2023 at 10:09 AM"
+export const updateTime =  "Tuesday, October 31, 2023 at 10:18 AM"

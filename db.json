@@ -3129,6 +3129,11 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Google Cloud Computing Foundations: Cloud Computing Fundamentals",
+                    "badgeID": "5896400",
+                    "badgeDate": 1698710400000
+                },
+                {
                     "badgeName": "Perform Foundational Data, ML, and AI Tasks in Google Cloud",
                     "badgeID": "5887500",
                     "badgeDate": 1698624000000
@@ -3149,8 +3154,8 @@
                     "badgeDate": 1698364800000
                 }
             ],
-            "skills": 4,
-            "trackOne": 3,
+            "skills": 5,
+            "trackOne": 4,
             "trackTwo": 1
         },
         {
@@ -6887,5 +6892,5 @@
             "trackTwo": 1
         }
     ],
-    "time": "Tuesday, October 31, 2023 at 3:53 PM"
+    "time": "Tuesday, October 31, 2023 at 6:06 PM"
 }

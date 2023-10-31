@@ -10,13 +10,13 @@ export function Details() {
 				<div className="flex justify-around max-md:flex-col">
 					<div className="blue flex h-8 items-center pl-4 text-primary max-md:border-b-[1px]">
 						Both Tracks{' '}
-						<span className="ml-1 flex w-5 items-center justify-center rounded-md bg-blue-300 px-1 text-black">
+						<span className="ml-1 flex w-8 items-center justify-center rounded-md bg-blue-300 px-2 text-black">
 							{totalBlue}
 						</span>
 					</div>
 					<div className="green flex h-8 items-center pl-4 text-primary">
 						Single Track{' '}
-						<span className="ml-1 flex w-5 items-center justify-center rounded-md bg-green-300 px-1 text-black">
+						<span className="ml-1 flex w-8 items-center justify-center rounded-md bg-green-300 px-2 text-black">
 							{totalGreen}
 						</span>
 					</div>

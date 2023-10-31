@@ -841,8 +841,8 @@ export const leaderBoardData = [
     },
     {
         "name": "Yash Rajendra Patni",
-        "skills": 6,
-        "trackOne": 5,
+        "skills": 8,
+        "trackOne": 7,
         "trackTwo": 1,
         "color": "green",
         "latestSkill": 1698710400000
@@ -1161,4 +1161,4 @@ export const leaderBoardData = [
     }
 ];
 
-export const updateTime =  "Tuesday, October 31, 2023 at 7:49 PM"
+export const updateTime =  "Tuesday, October 31, 2023 at 9:55 PM"

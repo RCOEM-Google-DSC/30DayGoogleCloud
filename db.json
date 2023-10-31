@@ -3129,6 +3129,16 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Perform Foundational Infrastructure Tasks in Google Cloud",
+                    "badgeID": "5899106",
+                    "badgeDate": 1698710400000
+                },
+                {
+                    "badgeName": "Create and Manage Cloud Resources",
+                    "badgeID": "5898827",
+                    "badgeDate": 1698710400000
+                },
+                {
                     "badgeName": "Google Cloud Computing Foundations: Networking &amp; Security in Google Cloud",
                     "badgeID": "5897681",
                     "badgeDate": 1698710400000
@@ -3159,8 +3169,8 @@
                     "badgeDate": 1698364800000
                 }
             ],
-            "skills": 6,
-            "trackOne": 5,
+            "skills": 8,
+            "trackOne": 7,
             "trackTwo": 1
         },
         {
@@ -6897,5 +6907,5 @@
             "trackTwo": 1
         }
     ],
-    "time": "Tuesday, October 31, 2023 at 7:49 PM"
+    "time": "Tuesday, October 31, 2023 at 9:55 PM"
 }

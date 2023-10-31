@@ -1485,6 +1485,21 @@
             "isEnrollStatusGood": true,
             "badges": [
                 {
+                    "badgeName": "Generative AI Fundamentals",
+                    "badgeID": "5893114",
+                    "badgeDate": 1698710400000
+                },
+                {
+                    "badgeName": "Introduction to Generative AI",
+                    "badgeID": "5892985",
+                    "badgeDate": 1698710400000
+                },
+                {
+                    "badgeName": "Introduction to Large Language Models",
+                    "badgeID": "5892698",
+                    "badgeDate": 1698710400000
+                },
+                {
                     "badgeName": "Introduction to Responsible AI",
                     "badgeID": "5891736",
                     "badgeDate": 1698710400000
@@ -6867,5 +6882,5 @@
             "trackTwo": 1
         }
     ],
-    "time": "Tuesday, October 31, 2023 at 11:56 AM"
+    "time": "Tuesday, October 31, 2023 at 1:54 PM"
 }

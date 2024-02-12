@@ -24,6 +24,14 @@ export const leaderBoardData = [
         "latestSkill": 1697068800000
     },
     {
+        "name": "Janav Dua",
+        "skills": 9,
+        "trackOne": 8,
+        "trackTwo": 1,
+        "color": "blue",
+        "latestSkill": 1697150000000
+    },
+    {
         "name": "Vanshika Pawan Sarda",
         "skills": 9,
         "trackOne": 8,
@@ -185,14 +193,6 @@ export const leaderBoardData = [
     },
     {
         "name": "Ayush Wankhede",
-        "skills": 9,
-        "trackOne": 8,
-        "trackTwo": 1,
-        "color": "blue",
-        "latestSkill": 1698105600000
-    },
-    {
-        "name": "Janav Dua",
         "skills": 9,
         "trackOne": 8,
         "trackTwo": 1,
